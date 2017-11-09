@@ -29,71 +29,71 @@ msgid "DualShock Analog button toggle"
 msgstr ""
 
 msgctxt "#30003"
-msgid "CD Image Cache (restart)"
+msgid "CD Access Method (restart)"
 msgstr ""
 
 msgctxt "#30004"
-msgid "CPU Overclock"
+msgid "Increase CD loading speed"
 msgstr ""
 
 msgctxt "#30005"
-msgid "Crop Overscan"
+msgid "CPU Overclock"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Display internal FPS"
+msgid "Crop Overscan"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Dithering pattern"
+msgid "Display internal FPS"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Enable memory card 1"
+msgid "Dithering pattern"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Port 1: Multitap enable"
+msgid "Enable memory card 1"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Port 2: Multitap enable"
+msgid "Port 1: Multitap enable"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Frame duping (speedup)"
+msgid "Port 2: Multitap enable"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Additional Cropping"
+msgid "Frame duping (speedup)"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Offset Cropped Image"
+msgid "Additional Cropping"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Initial scanline"
+msgid "Offset Cropped Image"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Initial scanline PAL"
+msgid "Initial scanline"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Internal GPU resolution"
+msgid "Initial scanline PAL"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Last scanline"
+msgid "Internal GPU resolution"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Last scanline PAL"
+msgid "Last scanline"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Scale dithering pattern with internal resolution"
+msgid "Last scanline PAL"
 msgstr ""
 
 msgctxt "#30020"
