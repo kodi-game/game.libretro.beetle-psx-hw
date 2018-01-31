@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-psx"
-		name="PlayStation (Beetle PSX)"
+		name="Sony - PlayStation (Beetle PSX)"
 		version="0.9.44"
 		provider-name="Libretro">
 	<requires>
@@ -17,7 +17,7 @@
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">PlayStation (Beetle PSX) 0.9.44.1</summary>
+		<summary lang="en">Sony - PlayStation (Beetle PSX) 0.9.44.1</summary>
 		<description>Beetle PSX is the PlayStation module of Beetle, a port of Madnafen
 
 Supported files: .exe, .cue, .toc, .ccd, .m3u, .pbp, .chd</description>
