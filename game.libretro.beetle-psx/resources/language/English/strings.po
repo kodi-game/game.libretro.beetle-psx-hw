@@ -37,7 +37,7 @@ msgid "Increase CD loading speed"
 msgstr ""
 
 msgctxt "#30005"
-msgid "CPU Overclock"
+msgid "CPU frequency scaling (overclock)"
 msgstr ""
 
 msgctxt "#30006"
@@ -69,54 +69,62 @@ msgid "Frame duping (speedup)"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Gun Cursor"
+msgid "GPU rasterizer overclock"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Additional Cropping"
+msgid "GTE Overclock"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Offset Cropped Image"
+msgid "Gun Cursor"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Initial scanline"
+msgid "Additional Cropping"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Initial scanline PAL"
+msgid "Offset Cropped Image"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Internal GPU resolution"
+msgid "Initial scanline"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Last scanline"
+msgid "Initial scanline PAL"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Last scanline PAL"
+msgid "Internal GPU resolution"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Mouse Sensitivity"
+msgid "Last scanline"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Shared memcards (restart)"
+msgid "Last scanline PAL"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Skip BIOS"
+msgid "Mouse Sensitivity"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Memcard 0 method"
+msgid "Shared memcards (restart)"
 msgstr ""
 
 msgctxt "#30025"
+msgid "Skip BIOS"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Memcard 0 method"
+msgstr ""
+
+msgctxt "#30027"
 msgid "Widescreen mode hack"
 msgstr ""
 
