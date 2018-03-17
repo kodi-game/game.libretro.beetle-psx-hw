@@ -7,12 +7,12 @@
 		<setting label="30004" type="select" id="beetle_psx_cd_fastload" values="2x (native)|4x|6x|8x|10x|12x|14x" default="2x (native)"/>
 		<setting label="30005" type="select" id="beetle_psx_cpu_freq_scale" values="100% (native)|110%|120%|130%|140%|150%|160%|170%|180%|190%|200%|210%|220%|230%|240%|250%|260%|265%|270%|280%|290%|300%|310%|320%|330%|340%|350%|360%|370%|380%|390%|400%|410%|420%|430%|440%|450%|460%|470%|480%|490%|500%|50%|60%|70%|80%|90%" default="100% (native)"/>
 		<setting label="30006" type="select" id="beetle_psx_crop_overscan" values="enabled|disabled" default="enabled"/>
-		<setting label="30007" type="select" id="beetle_psx_display_internal_framerate" values="disabled|enabled" default="disabled"/>
+		<setting label="30007" type="select" id="beetle_psx_display_internal_fps" values="disabled|enabled" default="disabled"/>
 		<setting label="30008" type="select" id="beetle_psx_dither_mode" values="1x(native)|internal resolution|disabled" default="1x(native)"/>
 		<setting label="30009" type="select" id="beetle_psx_enable_memcard1" values="enabled|disabled" default="enabled"/>
 		<setting label="30010" type="select" id="beetle_psx_enable_multitap_port1" values="disabled|enabled" default="disabled"/>
 		<setting label="30011" type="select" id="beetle_psx_enable_multitap_port2" values="disabled|enabled" default="disabled"/>
-		<setting label="30012" type="select" id="beetle_psx_frame_duping_enable" values="disabled|enabled" default="disabled"/>
+		<setting label="30012" type="select" id="beetle_psx_frame_duping" values="disabled|enabled" default="disabled"/>
 		<setting label="30013" type="select" id="beetle_psx_gpu_overclock" values="1x(native)|2x|4x|8x|16x|32x" default="1x(native)"/>
 		<setting label="30014" type="select" id="beetle_psx_gte_overclock" values="disabled|enabled" default="disabled"/>
 		<setting label="30015" type="select" id="beetle_psx_gun_cursor" values="Cross|Dot|Off" default="Cross"/>
@@ -25,7 +25,7 @@
 		<setting label="30022" type="select" id="beetle_psx_last_scanline_pal" values="287|286|285|284|283|283|282|281|280|279|278|277|276|275|274|273|272|271|270|269|268|267|266|265|264|263|262|261|260" default="287"/>
 		<setting label="30023" type="select" id="beetle_psx_mouse_sensitivity" values="100%|105%|110%|115%|120%|125%|130%|135%|140%|145%|150%|155%|160%|165%|170%|175%|180%|185%|190%|195%|200%|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%" default="100%"/>
 		<setting label="30024" type="select" id="beetle_psx_shared_memory_cards" values="disabled|enabled" default="disabled"/>
-		<setting label="30025" type="select" id="beetle_psx_skipbios" values="disabled|enabled" default="disabled"/>
+		<setting label="30025" type="select" id="beetle_psx_skip_bios" values="disabled|enabled" default="disabled"/>
 		<setting label="30026" type="select" id="beetle_psx_use_mednafen_memcard0_method" values="libretro|mednafen" default="libretro"/>
 		<setting label="30027" type="select" id="beetle_psx_widescreen_hack" values="disabled|enabled" default="disabled"/>
 	</category>
