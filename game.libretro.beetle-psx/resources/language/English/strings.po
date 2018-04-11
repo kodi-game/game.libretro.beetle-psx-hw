@@ -113,18 +113,26 @@ msgid "Mouse Sensitivity"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Shared memcards (restart)"
+msgid "Renderer"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Skip BIOS"
+msgid "Software framebuffer"
 msgstr ""
 
 msgctxt "#30026"
-msgid "Memcard 0 method"
+msgid "Shared memcards (restart)"
 msgstr ""
 
 msgctxt "#30027"
+msgid "Skip BIOS"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Memcard 0 method"
+msgstr ""
+
+msgctxt "#30029"
 msgid "Widescreen mode hack"
 msgstr ""
 
