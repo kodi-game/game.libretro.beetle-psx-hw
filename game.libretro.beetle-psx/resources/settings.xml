@@ -23,14 +23,15 @@
 		<setting label="30020" type="select" id="beetle_psx_internal_resolution" values="1x(native)|2x|4x|8x|16x|32x" default="1x(native)"/>
 		<setting label="30021" type="select" id="beetle_psx_last_scanline" values="239|238|237|236|235|234|232|231|230|229|228|227|226|225|224|223|222|221|220|219|218|217|216|215|214|213|212|211|210" default="239"/>
 		<setting label="30022" type="select" id="beetle_psx_last_scanline_pal" values="287|286|285|284|283|283|282|281|280|279|278|277|276|275|274|273|272|271|270|269|268|267|266|265|264|263|262|261|260" default="287"/>
-		<setting label="30023" type="select" id="beetle_psx_mouse_sensitivity" values="100%|105%|110%|115%|120%|125%|130%|135%|140%|145%|150%|155%|160%|165%|170%|175%|180%|185%|190%|195%|200%|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%" default="100%"/>
-		<setting label="30024" type="select" id="beetle_psx_negcon_deadzone" values="0|5|10|15|20|25|30" default="0"/>
-		<setting label="30025" type="select" id="beetle_psx_negcon_response" values="linear|quadratic|cubic" default="linear"/>
-		<setting label="30026" type="select" id="beetle_psx_renderer" values="software" default="software"/>
-		<setting label="30027" type="select" id="beetle_psx_renderer_software_fb" values="enabled" default="enabled"/>
-		<setting label="30028" type="select" id="beetle_psx_shared_memory_cards" values="disabled|enabled" default="disabled"/>
-		<setting label="30029" type="select" id="beetle_psx_skip_bios" values="disabled|enabled" default="disabled"/>
-		<setting label="30030" type="select" id="beetle_psx_use_mednafen_memcard0_method" values="libretro|mednafen" default="libretro"/>
-		<setting label="30031" type="select" id="beetle_psx_widescreen_hack" values="disabled|enabled" default="disabled"/>
+		<setting label="30023" type="select" id="beetle_psx_lineRender" values="default|aggressive|disabled" default="default"/>
+		<setting label="30024" type="select" id="beetle_psx_mouse_sensitivity" values="100%|105%|110%|115%|120%|125%|130%|135%|140%|145%|150%|155%|160%|165%|170%|175%|180%|185%|190%|195%|200%|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%" default="100%"/>
+		<setting label="30025" type="select" id="beetle_psx_negcon_deadzone" values="0|5|10|15|20|25|30" default="0"/>
+		<setting label="30026" type="select" id="beetle_psx_negcon_response" values="linear|quadratic|cubic" default="linear"/>
+		<setting label="30027" type="select" id="beetle_psx_renderer" values="software" default="software"/>
+		<setting label="30028" type="select" id="beetle_psx_renderer_software_fb" values="enabled" default="enabled"/>
+		<setting label="30029" type="select" id="beetle_psx_shared_memory_cards" values="disabled|enabled" default="disabled"/>
+		<setting label="30030" type="select" id="beetle_psx_skip_bios" values="disabled|enabled" default="disabled"/>
+		<setting label="30031" type="select" id="beetle_psx_use_mednafen_memcard0_method" values="libretro|mednafen" default="libretro"/>
+		<setting label="30032" type="select" id="beetle_psx_widescreen_hack" values="disabled|enabled" default="disabled"/>
 	</category>
 </settings>

@@ -109,38 +109,42 @@ msgid "Last scanline PAL"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Mouse Sensitivity"
+msgid "Line-to-quad hack"
 msgstr ""
 
 msgctxt "#30024"
-msgid "NegCon Twist Deadzone (percent)"
+msgid "Mouse Sensitivity"
 msgstr ""
 
 msgctxt "#30025"
-msgid "NegCon Twist Response"
+msgid "NegCon Twist Deadzone (percent)"
 msgstr ""
 
 msgctxt "#30026"
-msgid "Renderer"
+msgid "NegCon Twist Response"
 msgstr ""
 
 msgctxt "#30027"
-msgid "Software framebuffer"
+msgid "Renderer"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Shared memcards (restart)"
+msgid "Software framebuffer"
 msgstr ""
 
 msgctxt "#30029"
-msgid "Skip BIOS"
+msgid "Shared memcards (restart)"
 msgstr ""
 
 msgctxt "#30030"
-msgid "Memcard 0 method"
+msgid "Skip BIOS"
 msgstr ""
 
 msgctxt "#30031"
+msgid "Memcard 0 method"
+msgstr ""
+
+msgctxt "#30032"
 msgid "Widescreen mode hack"
 msgstr ""
 
