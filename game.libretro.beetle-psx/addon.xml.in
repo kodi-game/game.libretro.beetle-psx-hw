@@ -28,6 +28,7 @@
 Supported files: .exe, .cue, .toc, .ccd, .m3u, .pbp, .chd</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.beetle-psx</source>
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
