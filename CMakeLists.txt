@@ -4,7 +4,7 @@ project(game.libretro.beetle-psx)
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 
 find_package(Kodi REQUIRED)
-find_package(libretro-beetle-psx REQUIRED)
+find_library(BEETLE-PSX_LIB NAMES mednafen_psx_libretro${CMAKE_SHARED_LIBRARY_SUFFIX} PATH_SUFFIXES libretro)
 
 set(BEETLE-PSX_CUSTOM_BINARY ${BEETLE-PSX_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
