@@ -21,11 +21,11 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Analog self-calibration"
+msgid "Analog Self-Calibration"
 msgstr ""
 
 msgctxt "#30002"
-msgid "DualShock Analog button toggle"
+msgid "DualShock Analog Button Toggle"
 msgstr ""
 
 msgctxt "#30003"
@@ -33,43 +33,43 @@ msgid "CD Access Method (Restart)"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Increase CD loading speed"
+msgid "Increase CD Loading Speed"
 msgstr ""
 
 msgctxt "#30005"
-msgid "CPU frequency scaling (overclock)"
+msgid "CPU Frequency Scaling (Overclock)"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Crop Overscan"
+msgid "Crop Horizontal Overscan"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Display internal FPS"
+msgid "Display Internal FPS"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Dithering pattern"
+msgid "Dithering Pattern"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Enable memory card 1"
+msgid "Enable Memory Card 1"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Port 1: Multitap enable"
+msgid "Port 1: Multitap Enable"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Port 2: Multitap enable"
+msgid "Port 2: Multitap Enable"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Frame duping (speedup)"
+msgid "Frame Duping (Speedup)"
 msgstr ""
 
 msgctxt "#30013"
-msgid "GPU rasterizer Overclock"
+msgid "GPU Rasterizer Overclock"
 msgstr ""
 
 msgctxt "#30014"
@@ -93,27 +93,27 @@ msgid "Offset Cropped Image"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Initial scanline"
+msgid "Initial Scanline - NTSC"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Initial scanline (PAL)"
+msgid "Initial Scanline - PAL"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Internal GPU resolution"
+msgid "Internal GPU Resolution"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Last scanline"
+msgid "Last Scanline - NTSC"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Last scanline (PAL)"
+msgid "Last Scanline - PAL"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Line-to-quad hack"
+msgid "Line-to-Quad Hack"
 msgstr ""
 
 msgctxt "#30025"
@@ -121,7 +121,7 @@ msgid "Mouse Sensitivity"
 msgstr ""
 
 msgctxt "#30026"
-msgid "NegCon Twist Deadzone (percent)"
+msgid "NegCon Twist Deadzone"
 msgstr ""
 
 msgctxt "#30027"
@@ -129,17 +129,21 @@ msgid "NegCon Twist Response"
 msgstr ""
 
 msgctxt "#30028"
-msgid "Shared memcards (restart)"
+msgid "PGXP Operation Mode"
 msgstr ""
 
 msgctxt "#30029"
-msgid "Skip BIOS"
+msgid "Shared Memcards (Restart)"
 msgstr ""
 
 msgctxt "#30030"
-msgid "Memory Card 0 Method"
+msgid "Skip BIOS"
 msgstr ""
 
 msgctxt "#30031"
-msgid "Widescreen mode hack"
+msgid "Memory Card 0 Method (Restart)"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Widescreen Mode Hack"
 msgstr ""
