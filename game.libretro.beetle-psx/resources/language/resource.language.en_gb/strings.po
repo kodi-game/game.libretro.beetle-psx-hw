@@ -45,117 +45,137 @@ msgid "Core-Reported FPS Timing"
 msgstr ""
 
 msgctxt "#30007"
-msgid "CPU Frequency Scaling (Overclock)"
+msgid "CPU Dynarec"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Crop Horizontal Overscan"
+msgid "CPU Frequency Scaling (Overclock)"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Display Internal FPS"
+msgid "Crop Horizontal Overscan"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Dithering Pattern"
+msgid "Display Internal FPS"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Enable Memory Card 1 (Restart)"
+msgid "Dithering Pattern"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Port 1: Multitap Enable"
+msgid "Dynarec DMA/GPU Event Cycles"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Port 2: Multitap Enable"
+msgid "Dynarec Code Invalidation"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Frame Duping (Speedup)"
+msgid "Enable Memory Card 1 (Restart)"
 msgstr ""
 
 msgctxt "#30015"
-msgid "GPU Rasterizer Overclock"
+msgid "Port 1: Multitap Enable"
 msgstr ""
 
 msgctxt "#30016"
-msgid "GTE Overclock"
+msgid "Port 2: Multitap Enable"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Gun Cursor"
+msgid "Frame Duping (Speedup)"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Gun Input Mode"
+msgid "GPU Rasterizer Overclock"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Additional Cropping"
+msgid "GTE Overclock"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Offset Cropped Image"
+msgid "Gun Cursor"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Initial Scanline - NTSC"
+msgid "Gun Input Mode"
 msgstr ""
 
 msgctxt "#30022"
-msgid "Initial Scanline - PAL"
+msgid "Additional Cropping"
 msgstr ""
 
 msgctxt "#30023"
-msgid "Internal GPU Resolution"
+msgid "Offset Cropped Image"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Last Scanline - NTSC"
+msgid "Initial Scanline - NTSC"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Last Scanline - PAL"
+msgid "Initial Scanline - PAL"
 msgstr ""
 
 msgctxt "#30026"
-msgid "Line-to-Quad Hack"
+msgid "Internal GPU Resolution"
 msgstr ""
 
 msgctxt "#30027"
-msgid "Mouse Sensitivity"
+msgid "Last Scanline - NTSC"
 msgstr ""
 
 msgctxt "#30028"
-msgid "NegCon Twist Deadzone"
+msgid "Last Scanline - PAL"
 msgstr ""
 
 msgctxt "#30029"
-msgid "NegCon Twist Response"
+msgid "Line-to-Quad Hack"
 msgstr ""
 
 msgctxt "#30030"
-msgid "PAL (European) Video Timing Override"
+msgid "Memory Card Left Index"
 msgstr ""
 
 msgctxt "#30031"
-msgid "PGXP Operation Mode"
+msgid "Memory Card Right Index"
 msgstr ""
 
 msgctxt "#30032"
-msgid "Shared Memory Cards (Restart)"
+msgid "Mouse Sensitivity"
 msgstr ""
 
 msgctxt "#30033"
-msgid "Skip BIOS"
+msgid "NegCon Twist Deadzone"
 msgstr ""
 
 msgctxt "#30034"
-msgid "Memory Card 0 Method (Restart)"
+msgid "NegCon Twist Response"
 msgstr ""
 
 msgctxt "#30035"
+msgid "PAL (European) Video Timing Override"
+msgstr ""
+
+msgctxt "#30036"
+msgid "PGXP Operation Mode"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Shared Memory Cards (Restart)"
+msgstr ""
+
+msgctxt "#30038"
+msgid "Skip BIOS"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Memory Card 0 Method (Restart)"
+msgstr ""
+
+msgctxt "#30040"
 msgid "Widescreen Mode Hack"
 msgstr ""
