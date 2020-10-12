@@ -36,10 +36,12 @@
 		<setting label="30033" type="select" id="beetle_psx_negcon_deadzone" values="0%|5%|10%|15%|20%|25%|30%" default="0%"/>
 		<setting label="30034" type="select" id="beetle_psx_negcon_response" values="linear|quadratic|cubic" default="linear"/>
 		<setting label="30035" type="select" id="beetle_psx_pal_video_timing_override" values="disabled|enabled" default="disabled"/>
-		<setting label="30036" type="select" id="beetle_psx_pgxp_mode" values="disabled|memory only|memory + CPU" default="disabled"/>
-		<setting label="30037" type="select" id="beetle_psx_shared_memory_cards" values="disabled|enabled" default="disabled"/>
-		<setting label="30038" type="select" id="beetle_psx_skip_bios" values="disabled|enabled" default="disabled"/>
-		<setting label="30039" type="select" id="beetle_psx_use_mednafen_memcard0_method" values="libretro|mednafen" default="libretro"/>
-		<setting label="30040" type="select" id="beetle_psx_widescreen_hack" values="disabled|enabled" default="disabled"/>
+		<setting label="30036" type="select" id="beetle_psx_pgxp_2d_tol" values="disabled|0px|1px|2px|3px|4px|5px|6px|7px|8px" default="disabled"/>
+		<setting label="30037" type="select" id="beetle_psx_pgxp_mode" values="disabled|memory only|memory + CPU" default="disabled"/>
+		<setting label="30038" type="select" id="beetle_psx_pgxp_nclip" values="disabled|enabled" default="disabled"/>
+		<setting label="30039" type="select" id="beetle_psx_shared_memory_cards" values="disabled|enabled" default="disabled"/>
+		<setting label="30040" type="select" id="beetle_psx_skip_bios" values="disabled|enabled" default="disabled"/>
+		<setting label="30041" type="select" id="beetle_psx_use_mednafen_memcard0_method" values="libretro|mednafen" default="libretro"/>
+		<setting label="30042" type="select" id="beetle_psx_widescreen_hack" values="disabled|enabled" default="disabled"/>
 	</category>
 </settings>

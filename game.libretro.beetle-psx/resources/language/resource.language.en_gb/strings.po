@@ -161,21 +161,29 @@ msgid "PAL (European) Video Timing Override"
 msgstr ""
 
 msgctxt "#30036"
-msgid "PGXP Operation Mode"
+msgid "PGXP 2D Geometry Tolerance"
 msgstr ""
 
 msgctxt "#30037"
-msgid "Shared Memory Cards (Restart)"
+msgid "PGXP Operation Mode"
 msgstr ""
 
 msgctxt "#30038"
-msgid "Skip BIOS"
+msgid "PGXP Primitive Culling"
 msgstr ""
 
 msgctxt "#30039"
-msgid "Memory Card 0 Method (Restart)"
+msgid "Shared Memory Cards (Restart)"
 msgstr ""
 
 msgctxt "#30040"
+msgid "Skip BIOS"
+msgstr ""
+
+msgctxt "#30041"
+msgid "Memory Card 0 Method (Restart)"
+msgstr ""
+
+msgctxt "#30042"
 msgid "Widescreen Mode Hack"
 msgstr ""
