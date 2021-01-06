@@ -187,3 +187,7 @@ msgstr ""
 msgctxt "#30042"
 msgid "Widescreen Mode Hack"
 msgstr ""
+
+msgctxt "#30043"
+msgid "Widescreen Mode Hack Aspect Ratio"
+msgstr ""

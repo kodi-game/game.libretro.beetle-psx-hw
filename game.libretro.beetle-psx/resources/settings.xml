@@ -43,5 +43,6 @@
 		<setting label="30040" type="select" id="beetle_psx_skip_bios" values="disabled|enabled" default="disabled"/>
 		<setting label="30041" type="select" id="beetle_psx_use_mednafen_memcard0_method" values="libretro|mednafen" default="libretro"/>
 		<setting label="30042" type="select" id="beetle_psx_widescreen_hack" values="disabled|enabled" default="disabled"/>
+		<setting label="30043" type="select" id="beetle_psx_widescreen_hack_aspect_ratio" values="16:9|16:10|21:9|32:9" default="16:9"/>
 	</category>
 </settings>
