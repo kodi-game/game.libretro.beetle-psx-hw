@@ -21,7 +21,7 @@ msgid "Sony - PlayStation (Beetle PSX) 0.9.44.1"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Beetle PSX is the PlayStation module of Beetle, a port of Madnafen.Supported files: .exe, .cue, .toc, .ccd, .m3u, .pbp, .chd"
+msgid "Beetle PSX is the PlayStation module of Beetle, a port of Madnafen.[CR][CR]Supported files: .exe, .cue, .toc, .ccd, .m3u, .pbp, .chd"
 msgstr ""
 
 msgctxt "#30000"
