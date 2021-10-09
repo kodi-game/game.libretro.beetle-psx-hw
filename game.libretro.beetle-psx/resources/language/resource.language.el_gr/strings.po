@@ -157,7 +157,7 @@ msgid "PAL (European) Video Timing Override"
 msgstr ""
 
 msgctxt "#30033"
-msgid "Crop Horizontal Overscan"
+msgid "Crop Overscan"
 msgstr ""
 
 msgctxt "#30034"
