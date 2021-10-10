@@ -137,65 +137,69 @@ msgid "Skip BIOS"
 msgstr ""
 
 msgctxt "#30028"
-msgid "CPU Dynarec"
+msgid "Override BIOS (Restart)"
 msgstr ""
 
 msgctxt "#30029"
-msgid "Dynarec Code Invalidation"
+msgid "CPU Dynarec"
 msgstr ""
 
 msgctxt "#30030"
-msgid "Dynarec DMA/GPU Event Cycles"
+msgid "Dynarec Code Invalidation"
 msgstr ""
 
 msgctxt "#30031"
-msgid "Core-Reported FPS Timing"
+msgid "Dynarec DMA/GPU Event Cycles"
 msgstr ""
 
 msgctxt "#30032"
-msgid "PAL (European) Video Timing Override"
+msgid "Core-Reported FPS Timing"
 msgstr ""
 
 msgctxt "#30033"
-msgid "Crop Overscan"
+msgid "PAL (European) Video Timing Override"
 msgstr ""
 
 msgctxt "#30034"
-msgid "Additional Cropping"
+msgid "Crop Overscan"
 msgstr ""
 
 msgctxt "#30035"
-msgid "Offset Cropped Image"
+msgid "Additional Cropping"
 msgstr ""
 
 msgctxt "#30036"
-msgid "GPU Rasterizer Overclock"
+msgid "Offset Cropped Image"
 msgstr ""
 
 msgctxt "#30037"
-msgid "Core Aspect Ratio"
+msgid "GPU Rasterizer Overclock"
 msgstr ""
 
 msgctxt "#30038"
-msgid "Initial Scanline - NTSC"
+msgid "Core Aspect Ratio"
 msgstr ""
 
 msgctxt "#30039"
-msgid "Last Scanline - NTSC"
+msgid "Initial Scanline - NTSC"
 msgstr ""
 
 msgctxt "#30040"
-msgid "Initial Scanline - PAL"
+msgid "Last Scanline - NTSC"
 msgstr ""
 
 msgctxt "#30041"
-msgid "Last Scanline - PAL"
+msgid "Initial Scanline - PAL"
 msgstr ""
 
 msgctxt "#30042"
-msgid "CD Access Method (Restart)"
+msgid "Last Scanline - PAL"
 msgstr ""
 
 msgctxt "#30043"
+msgid "CD Access Method (Restart)"
+msgstr ""
+
+msgctxt "#30044"
 msgid "CD Loading Speed"
 msgstr ""
