@@ -8,6 +8,7 @@
 		<accepts controller="game.controller.ps.guncon.japan"/>
 		<accepts controller="game.controller.konami.justifier.ps"/>
 		<accepts controller="game.controller.ps.mouse"/>
+		<!-- TODO: Multitap uses libretro options API for configuration
 		<accepts controller="game.controller.ps.multitap">
 			<port type="controller" id="1">
 				<accepts controller="game.controller.ps.dualshock"/>
@@ -46,6 +47,7 @@
 				<accepts controller="game.controller.ps.mouse"/>
 			</port>
 		</accepts>
+		-->
 	</port>
 	<port type="controller" id="2">
 		<accepts controller="game.controller.ps.dualshock"/>
@@ -55,6 +57,7 @@
 		<accepts controller="game.controller.ps.guncon.japan"/>
 		<accepts controller="game.controller.konami.justifier.ps"/>
 		<accepts controller="game.controller.ps.mouse"/>
+		<!-- TODO: Multitap uses libretro options API for configuration
 		<accepts controller="game.controller.ps.multitap">
 			<port type="controller" id="1">
 				<accepts controller="game.controller.ps.dualshock"/>
@@ -93,5 +96,6 @@
 				<accepts controller="game.controller.ps.mouse"/>
 			</port>
 		</accepts>
+		-->
 	</port>
 </logicaltopology>
