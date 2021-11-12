@@ -34,7 +34,7 @@
 		<setting label="30031" type="select" id="beetle_psx_dynarec_eventcycles" values="128|256|384|512|640|768|896|1024" default="128"/>
 		<setting label="30032" type="select" id="beetle_psx_core_timing_fps" values="force_progressive|force_interlaced|auto_toggle" default="force_progressive"/>
 		<setting label="30033" type="select" id="beetle_psx_pal_video_timing_override" values="disabled|enabled" default="disabled"/>
-		<setting label="30034" type="select" id="beetle_psx_crop_overscan" values="enabled|disabled" default="enabled"/>
+		<setting label="30034" type="select" id="beetle_psx_crop_overscan" values="smart|disabled|static" default="smart"/>
 		<setting label="30035" type="select" id="beetle_psx_image_crop" values="disabled|1px|2px|3px|4px|5px|6px|7px|8px|9px|10px|11px|12px|13px|14px|15px|16px|17px|18px|19px|20px" default="disabled"/>
 		<setting label="30036" type="select" id="beetle_psx_image_offset" values="disabled|-12px|-11px|-10px|-9px|-8px|-7px|-6px|-5px|-4px|-3px|-2px|-1px|+1px|+2px|+3px|+4px|+5px|+6px|+7px|+8px|+9px|+10px|+11px|+12px" default="disabled"/>
 		<setting label="30037" type="select" id="beetle_psx_gpu_overclock" values="1x(native)|2x|4x|8x|16x|32x" default="1x(native)"/>
