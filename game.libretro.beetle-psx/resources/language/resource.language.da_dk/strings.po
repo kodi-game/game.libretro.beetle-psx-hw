@@ -70,137 +70,281 @@ msgid "Gun Cursor"
 msgstr "Pistolens markør"
 
 msgctxt "#30011"
-msgid "Mouse Sensitivity"
-msgstr "Musens følsomhed"
+msgid "Port 1: Gun Crosshair Color"
+msgstr ""
 
 msgctxt "#30012"
-msgid "NegCon Twist Response"
-msgstr "NegCon twist-svar"
+msgid "Port 2: Gun Crosshair Color"
+msgstr ""
 
 msgctxt "#30013"
-msgid "NegCon Twist Deadzone"
-msgstr "Dødzone for NegCon Twist"
+msgid "Mouse Sensitivity"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Memory Card 0 Method (Restart)"
-msgstr "Hukommelseskort 0 metode (genstart)"
+msgid "neGcon Twist Response"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Enable Memory Card 1 (Restart)"
-msgstr "Aktiver hukommelseskort 1 (genstart)"
+msgid "neGcon Twist Deadzone"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Shared Memory Cards (Restart)"
-msgstr "Delte hukommelseskort (genstart)"
+msgid "Memory Card 0 Method (Restart Required)"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Memory Card Left Index"
-msgstr "Venstre index for hukommelseskort"
+msgid "Enable Memory Card 1 (Restart Required)"
+msgstr ""
 
 msgctxt "#30018"
-msgid "Memory Card Right Index"
-msgstr "Højre index for hukommelseskort"
+msgid "Shared Memory Cards (Restart Required)"
+msgstr ""
 
 msgctxt "#30019"
-msgid "PGXP Operation Mode"
-msgstr "Driftstilstand for PGXP"
+msgid "Memory Card Left Index"
+msgstr ""
 
 msgctxt "#30020"
-msgid "PGXP 2D Geometry Tolerance"
-msgstr "2D geometritolerance for PGXP"
+msgid "Memory Card Right Index"
+msgstr ""
 
 msgctxt "#30021"
-msgid "PGXP Primitive Culling"
-msgstr "PGXP primitiv beskæring"
+msgid "PGXP Operation Mode"
+msgstr ""
 
 msgctxt "#30022"
-msgid "Line-to-Quad Hack"
-msgstr "Hack for line-to-quad"
+msgid "PGXP 2D Geometry Tolerance"
+msgstr ""
 
 msgctxt "#30023"
-msgid "Widescreen Mode Hack"
-msgstr "Hack til tilstand for widescreen"
+msgid "PGXP Primitive Culling"
+msgstr ""
 
 msgctxt "#30024"
-msgid "Widescreen Mode Hack Aspect Ratio"
-msgstr "Billedformat ved hack i tilstand for widescreen"
+msgid "Line-to-Quad Hack"
+msgstr ""
 
 msgctxt "#30025"
-msgid "CPU Frequency Scaling (Overclock)"
-msgstr "Skalering af CPU-frekvens (overclock)"
+msgid "Widescreen Mode Hack"
+msgstr ""
 
 msgctxt "#30026"
-msgid "GTE Overclock"
-msgstr "Overclock GTE"
+msgid "Widescreen Mode Hack Aspect Ratio"
+msgstr ""
 
 msgctxt "#30027"
-msgid "Skip BIOS"
-msgstr "Spring BIOS over"
+msgid "CPU Frequency Scaling (Overclock)"
+msgstr ""
 
 msgctxt "#30028"
-msgid "Override BIOS (Restart)"
-msgstr "Overskriv BIOS (genstart)"
+msgid "GTE Overclock"
+msgstr ""
 
 msgctxt "#30029"
-msgid "CPU Dynarec"
-msgstr "CPU Dynarec"
+msgid "Skip BIOS"
+msgstr ""
 
 msgctxt "#30030"
-msgid "Dynarec Code Invalidation"
-msgstr "Invalidering af dynarec-kode"
+msgid "Override BIOS (Restart Required)"
+msgstr ""
 
 msgctxt "#30031"
-msgid "Dynarec DMA/GPU Event Cycles"
-msgstr "Hændelsescyklusser for dynarec DMA/GPU"
+msgid "CPU Dynarec"
+msgstr ""
 
 msgctxt "#30032"
-msgid "Core-Reported FPS Timing"
-msgstr "FPS-timing rapporteret af core"
+msgid "Dynarec Code Invalidation"
+msgstr ""
 
 msgctxt "#30033"
-msgid "PAL (European) Video Timing Override"
-msgstr "Tilsidesæt PAL (europæisk) videotiming"
+msgid "Dynarec DMA/GPU Event Cycles"
+msgstr ""
 
 msgctxt "#30034"
-msgid "Crop Overscan"
-msgstr "Beskær overskandering"
+msgid "Core-Reported FPS Timing"
+msgstr ""
 
 msgctxt "#30035"
-msgid "Additional Cropping"
-msgstr "Yderligere beskæring"
+msgid "PAL (European) Video Timing Override"
+msgstr ""
 
 msgctxt "#30036"
-msgid "Offset Cropped Image"
-msgstr "Forskyd beskåret billede"
+msgid "Crop Overscan"
+msgstr ""
 
 msgctxt "#30037"
-msgid "GPU Rasterizer Overclock"
-msgstr "Overclock GPU-rasterizer"
+msgid "Additional Cropping"
+msgstr ""
 
 msgctxt "#30038"
-msgid "Core Aspect Ratio"
-msgstr "Billedformat for core"
+msgid "Offset Cropped Image"
+msgstr ""
 
 msgctxt "#30039"
-msgid "Initial Scanline - NTSC"
-msgstr "Første scanlinje - NTSC"
+msgid "GPU Rasterizer Overclock"
+msgstr ""
 
 msgctxt "#30040"
-msgid "Last Scanline - NTSC"
-msgstr "Sidste scanlinje - NTSC"
+msgid "Core Aspect Ratio"
+msgstr ""
 
 msgctxt "#30041"
-msgid "Initial Scanline - PAL"
-msgstr "Første scanlinje - PAL"
+msgid "Initial Scan Line - NTSC"
+msgstr ""
 
 msgctxt "#30042"
-msgid "Last Scanline - PAL"
-msgstr "Sidste scanlinje - PAL"
+msgid "Last Scan Line - NTSC"
+msgstr ""
 
 msgctxt "#30043"
-msgid "CD Access Method (Restart)"
-msgstr "Adgangsmetode til CD (genstart)"
+msgid "Initial Scan Line - PAL"
+msgstr ""
 
 msgctxt "#30044"
+msgid "Last Scan Line - PAL"
+msgstr ""
+
+msgctxt "#30045"
+msgid "CD Access Method (Restart Required)"
+msgstr ""
+
+msgctxt "#30046"
 msgid "CD Loading Speed"
-msgstr "Indlæsningshastighed for CD"
+msgstr ""
+
+#~ msgctxt "#30011"
+#~ msgid "Mouse Sensitivity"
+#~ msgstr "Musens følsomhed"
+
+#~ msgctxt "#30012"
+#~ msgid "NegCon Twist Response"
+#~ msgstr "NegCon twist-svar"
+
+#~ msgctxt "#30013"
+#~ msgid "NegCon Twist Deadzone"
+#~ msgstr "Dødzone for NegCon Twist"
+
+#~ msgctxt "#30014"
+#~ msgid "Memory Card 0 Method (Restart)"
+#~ msgstr "Hukommelseskort 0 metode (genstart)"
+
+#~ msgctxt "#30015"
+#~ msgid "Enable Memory Card 1 (Restart)"
+#~ msgstr "Aktiver hukommelseskort 1 (genstart)"
+
+#~ msgctxt "#30016"
+#~ msgid "Shared Memory Cards (Restart)"
+#~ msgstr "Delte hukommelseskort (genstart)"
+
+#~ msgctxt "#30017"
+#~ msgid "Memory Card Left Index"
+#~ msgstr "Venstre index for hukommelseskort"
+
+#~ msgctxt "#30018"
+#~ msgid "Memory Card Right Index"
+#~ msgstr "Højre index for hukommelseskort"
+
+#~ msgctxt "#30019"
+#~ msgid "PGXP Operation Mode"
+#~ msgstr "Driftstilstand for PGXP"
+
+#~ msgctxt "#30020"
+#~ msgid "PGXP 2D Geometry Tolerance"
+#~ msgstr "2D geometritolerance for PGXP"
+
+#~ msgctxt "#30021"
+#~ msgid "PGXP Primitive Culling"
+#~ msgstr "PGXP primitiv beskæring"
+
+#~ msgctxt "#30022"
+#~ msgid "Line-to-Quad Hack"
+#~ msgstr "Hack for line-to-quad"
+
+#~ msgctxt "#30023"
+#~ msgid "Widescreen Mode Hack"
+#~ msgstr "Hack til tilstand for widescreen"
+
+#~ msgctxt "#30024"
+#~ msgid "Widescreen Mode Hack Aspect Ratio"
+#~ msgstr "Billedformat ved hack i tilstand for widescreen"
+
+#~ msgctxt "#30025"
+#~ msgid "CPU Frequency Scaling (Overclock)"
+#~ msgstr "Skalering af CPU-frekvens (overclock)"
+
+#~ msgctxt "#30026"
+#~ msgid "GTE Overclock"
+#~ msgstr "Overclock GTE"
+
+#~ msgctxt "#30027"
+#~ msgid "Skip BIOS"
+#~ msgstr "Spring BIOS over"
+
+#~ msgctxt "#30028"
+#~ msgid "Override BIOS (Restart)"
+#~ msgstr "Overskriv BIOS (genstart)"
+
+#~ msgctxt "#30029"
+#~ msgid "CPU Dynarec"
+#~ msgstr "CPU Dynarec"
+
+#~ msgctxt "#30030"
+#~ msgid "Dynarec Code Invalidation"
+#~ msgstr "Invalidering af dynarec-kode"
+
+#~ msgctxt "#30031"
+#~ msgid "Dynarec DMA/GPU Event Cycles"
+#~ msgstr "Hændelsescyklusser for dynarec DMA/GPU"
+
+#~ msgctxt "#30032"
+#~ msgid "Core-Reported FPS Timing"
+#~ msgstr "FPS-timing rapporteret af core"
+
+#~ msgctxt "#30033"
+#~ msgid "PAL (European) Video Timing Override"
+#~ msgstr "Tilsidesæt PAL (europæisk) videotiming"
+
+#~ msgctxt "#30034"
+#~ msgid "Crop Overscan"
+#~ msgstr "Beskær overskandering"
+
+#~ msgctxt "#30035"
+#~ msgid "Additional Cropping"
+#~ msgstr "Yderligere beskæring"
+
+#~ msgctxt "#30036"
+#~ msgid "Offset Cropped Image"
+#~ msgstr "Forskyd beskåret billede"
+
+#~ msgctxt "#30037"
+#~ msgid "GPU Rasterizer Overclock"
+#~ msgstr "Overclock GPU-rasterizer"
+
+#~ msgctxt "#30038"
+#~ msgid "Core Aspect Ratio"
+#~ msgstr "Billedformat for core"
+
+#~ msgctxt "#30039"
+#~ msgid "Initial Scanline - NTSC"
+#~ msgstr "Første scanlinje - NTSC"
+
+#~ msgctxt "#30040"
+#~ msgid "Last Scanline - NTSC"
+#~ msgstr "Sidste scanlinje - NTSC"
+
+#~ msgctxt "#30041"
+#~ msgid "Initial Scanline - PAL"
+#~ msgstr "Første scanlinje - PAL"
+
+#~ msgctxt "#30042"
+#~ msgid "Last Scanline - PAL"
+#~ msgstr "Sidste scanlinje - PAL"
+
+#~ msgctxt "#30043"
+#~ msgid "CD Access Method (Restart)"
+#~ msgstr "Adgangsmetode til CD (genstart)"
+
+#~ msgctxt "#30044"
+#~ msgid "CD Loading Speed"
+#~ msgstr "Indlæsningshastighed for CD"
