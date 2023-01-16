@@ -33,19 +33,20 @@
 		<setting label="30030" type="select" id="beetle_psx_override_bios" values="disabled|psxonpsp|ps1_rom" default="disabled"/>
 		<setting label="30031" type="select" id="beetle_psx_cpu_dynarec" values="disabled|execute|execute_one|run_interpreter" default="disabled"/>
 		<setting label="30032" type="select" id="beetle_psx_dynarec_invalidate" values="full|dma" default="full"/>
-		<setting label="30033" type="select" id="beetle_psx_dynarec_eventcycles" values="128|256|384|512|640|768|896|1024" default="128"/>
-		<setting label="30034" type="select" id="beetle_psx_core_timing_fps" values="force_progressive|force_interlaced|auto_toggle" default="force_progressive"/>
-		<setting label="30035" type="select" id="beetle_psx_pal_video_timing_override" values="disabled|enabled" default="disabled"/>
-		<setting label="30036" type="select" id="beetle_psx_crop_overscan" values="smart|disabled|static" default="smart"/>
-		<setting label="30037" type="select" id="beetle_psx_image_crop" values="disabled|1px|2px|3px|4px|5px|6px|7px|8px|9px|10px|11px|12px|13px|14px|15px|16px|17px|18px|19px|20px" default="disabled"/>
-		<setting label="30038" type="select" id="beetle_psx_image_offset" values="disabled|-12px|-11px|-10px|-9px|-8px|-7px|-6px|-5px|-4px|-3px|-2px|-1px|+1px|+2px|+3px|+4px|+5px|+6px|+7px|+8px|+9px|+10px|+11px|+12px" default="disabled"/>
-		<setting label="30039" type="select" id="beetle_psx_gpu_overclock" values="1x(native)|2x|4x|8x|16x|32x" default="1x(native)"/>
-		<setting label="30040" type="select" id="beetle_psx_aspect_ratio" values="corrected|uncorrected|4:3|ntsc" default="corrected"/>
-		<setting label="30041" type="select" id="beetle_psx_initial_scanline" values="0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40" default="0"/>
-		<setting label="30042" type="select" id="beetle_psx_last_scanline" values="239|210|211|212|213|214|215|216|217|218|219|220|221|222|223|224|225|226|227|228|229|230|231|232|233|234|235|236|237|238" default="239"/>
-		<setting label="30043" type="select" id="beetle_psx_initial_scanline_pal" values="0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40" default="0"/>
-		<setting label="30044" type="select" id="beetle_psx_last_scanline_pal" values="287|230|231|232|233|234|235|236|237|238|239|240|241|242|243|244|245|246|247|248|249|250|251|252|253|254|255|256|257|258|259|260|261|262|263|264|265|266|267|268|269|270|271|272|273|274|275|276|277|278|279|280|281|282|283|284|285|286" default="287"/>
-		<setting label="30045" type="select" id="beetle_psx_cd_access_method" values="sync|async|precache" default="sync"/>
-		<setting label="30046" type="select" id="beetle_psx_cd_fastload" values="2x(native)|4x|6x|8x|10x|12x|14x" default="2x(native)"/>
+		<setting label="30033" type="select" id="beetle_psx_dynarec_eventcycles" values="128|256|512|1024|2048" default="128"/>
+		<setting label="30034" type="select" id="beetle_psx_dynarec_spu_samples" values="1|4|16" default="1"/>
+		<setting label="30035" type="select" id="beetle_psx_core_timing_fps" values="force_progressive|force_interlaced|auto_toggle" default="force_progressive"/>
+		<setting label="30036" type="select" id="beetle_psx_pal_video_timing_override" values="disabled|enabled" default="disabled"/>
+		<setting label="30037" type="select" id="beetle_psx_crop_overscan" values="smart|disabled|static" default="smart"/>
+		<setting label="30038" type="select" id="beetle_psx_image_crop" values="disabled|1px|2px|3px|4px|5px|6px|7px|8px|9px|10px|11px|12px|13px|14px|15px|16px|17px|18px|19px|20px" default="disabled"/>
+		<setting label="30039" type="select" id="beetle_psx_image_offset" values="disabled|-12px|-11px|-10px|-9px|-8px|-7px|-6px|-5px|-4px|-3px|-2px|-1px|+1px|+2px|+3px|+4px|+5px|+6px|+7px|+8px|+9px|+10px|+11px|+12px" default="disabled"/>
+		<setting label="30040" type="select" id="beetle_psx_gpu_overclock" values="1x(native)|2x|4x|8x|16x|32x" default="1x(native)"/>
+		<setting label="30041" type="select" id="beetle_psx_aspect_ratio" values="corrected|uncorrected|4:3|ntsc" default="corrected"/>
+		<setting label="30042" type="select" id="beetle_psx_initial_scanline" values="0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40" default="0"/>
+		<setting label="30043" type="select" id="beetle_psx_last_scanline" values="239|210|211|212|213|214|215|216|217|218|219|220|221|222|223|224|225|226|227|228|229|230|231|232|233|234|235|236|237|238" default="239"/>
+		<setting label="30044" type="select" id="beetle_psx_initial_scanline_pal" values="0|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|32|33|34|35|36|37|38|39|40" default="0"/>
+		<setting label="30045" type="select" id="beetle_psx_last_scanline_pal" values="287|230|231|232|233|234|235|236|237|238|239|240|241|242|243|244|245|246|247|248|249|250|251|252|253|254|255|256|257|258|259|260|261|262|263|264|265|266|267|268|269|270|271|272|273|274|275|276|277|278|279|280|281|282|283|284|285|286" default="287"/>
+		<setting label="30046" type="select" id="beetle_psx_cd_access_method" values="sync|async|precache" default="sync"/>
+		<setting label="30047" type="select" id="beetle_psx_cd_fastload" values="2x(native)|4x|6x|8x|10x|12x|14x" default="2x(native)"/>
 	</category>
 </settings>
