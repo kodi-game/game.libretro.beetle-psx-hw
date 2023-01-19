@@ -158,57 +158,65 @@ msgid "Dynarec Code Invalidation"
 msgstr ""
 
 msgctxt "#30033"
-msgid "Dynarec DMA/GPU Event Cycles"
+msgid "Dynarec DMA/GPU/MDEC/Timer Event Cycles"
 msgstr ""
 
 msgctxt "#30034"
-msgid "Core-Reported FPS Timing"
+msgid "Dynarec SPU Samples"
 msgstr ""
 
 msgctxt "#30035"
-msgid "PAL (European) Video Timing Override"
+msgid "Core-Reported FPS Timing"
 msgstr ""
 
 msgctxt "#30036"
-msgid "Crop Overscan"
-msgstr "Yliskannauksen rajaus"
+msgid "PAL (European) Video Timing Override"
+msgstr ""
 
 msgctxt "#30037"
-msgid "Additional Cropping"
+msgid "Crop Overscan"
 msgstr ""
 
 msgctxt "#30038"
-msgid "Offset Cropped Image"
+msgid "Additional Cropping"
 msgstr ""
 
 msgctxt "#30039"
-msgid "GPU Rasterizer Overclock"
+msgid "Offset Cropped Image"
 msgstr ""
 
 msgctxt "#30040"
-msgid "Core Aspect Ratio"
+msgid "GPU Rasterizer Overclock"
 msgstr ""
 
 msgctxt "#30041"
-msgid "Initial Scan Line - NTSC"
+msgid "Core Aspect Ratio"
 msgstr ""
 
 msgctxt "#30042"
-msgid "Last Scan Line - NTSC"
+msgid "Initial Scan Line - NTSC"
 msgstr ""
 
 msgctxt "#30043"
-msgid "Initial Scan Line - PAL"
+msgid "Last Scan Line - NTSC"
 msgstr ""
 
 msgctxt "#30044"
-msgid "Last Scan Line - PAL"
+msgid "Initial Scan Line - PAL"
 msgstr ""
 
 msgctxt "#30045"
-msgid "CD Access Method (Restart Required)"
+msgid "Last Scan Line - PAL"
 msgstr ""
 
 msgctxt "#30046"
+msgid "CD Access Method (Restart Required)"
+msgstr ""
+
+msgctxt "#30047"
 msgid "CD Loading Speed"
 msgstr ""
+
+#~ msgctxt "#30036"
+#~ msgid "Crop Overscan"
+#~ msgstr "Yliskannauksen rajaus"

@@ -158,60 +158,120 @@ msgid "Dynarec Code Invalidation"
 msgstr "动态记录代码失效"
 
 msgctxt "#30033"
-msgid "Dynarec DMA/GPU Event Cycles"
-msgstr "动态记录 DMA/GPU 事件周期"
+msgid "Dynarec DMA/GPU/MDEC/Timer Event Cycles"
+msgstr ""
 
 msgctxt "#30034"
-msgid "Core-Reported FPS Timing"
-msgstr "内核报告 FPS 定时"
+msgid "Dynarec SPU Samples"
+msgstr ""
 
 msgctxt "#30035"
-msgid "PAL (European) Video Timing Override"
-msgstr "PAL（欧洲）视频定时覆盖"
+msgid "Core-Reported FPS Timing"
+msgstr ""
 
 msgctxt "#30036"
-msgid "Crop Overscan"
-msgstr "过扫剪裁"
+msgid "PAL (European) Video Timing Override"
+msgstr ""
 
 msgctxt "#30037"
-msgid "Additional Cropping"
-msgstr "附加剪裁"
+msgid "Crop Overscan"
+msgstr ""
 
 msgctxt "#30038"
-msgid "Offset Cropped Image"
-msgstr "偏移裁剪图像"
+msgid "Additional Cropping"
+msgstr ""
 
 msgctxt "#30039"
-msgid "GPU Rasterizer Overclock"
-msgstr "GPU 光栅化超频"
+msgid "Offset Cropped Image"
+msgstr ""
 
 msgctxt "#30040"
-msgid "Core Aspect Ratio"
-msgstr "内核高宽比"
+msgid "GPU Rasterizer Overclock"
+msgstr ""
 
 msgctxt "#30041"
-msgid "Initial Scan Line - NTSC"
-msgstr "初始扫描线 - NTSC"
+msgid "Core Aspect Ratio"
+msgstr ""
 
 msgctxt "#30042"
-msgid "Last Scan Line - NTSC"
-msgstr "最末扫描线 - NTSC"
+msgid "Initial Scan Line - NTSC"
+msgstr ""
 
 msgctxt "#30043"
-msgid "Initial Scan Line - PAL"
-msgstr "初始扫描线 - PAL"
+msgid "Last Scan Line - NTSC"
+msgstr ""
 
 msgctxt "#30044"
-msgid "Last Scan Line - PAL"
-msgstr "最末扫描线 - PAL"
+msgid "Initial Scan Line - PAL"
+msgstr ""
 
 msgctxt "#30045"
-msgid "CD Access Method (Restart Required)"
-msgstr "CD 访问方法（需要重新启动）"
+msgid "Last Scan Line - PAL"
+msgstr ""
 
 msgctxt "#30046"
+msgid "CD Access Method (Restart Required)"
+msgstr ""
+
+msgctxt "#30047"
 msgid "CD Loading Speed"
-msgstr "CD 读取速度"
+msgstr ""
+
+#~ msgctxt "#30033"
+#~ msgid "Dynarec DMA/GPU Event Cycles"
+#~ msgstr "动态记录 DMA/GPU 事件周期"
+
+#~ msgctxt "#30034"
+#~ msgid "Core-Reported FPS Timing"
+#~ msgstr "内核报告 FPS 定时"
+
+#~ msgctxt "#30035"
+#~ msgid "PAL (European) Video Timing Override"
+#~ msgstr "PAL（欧洲）视频定时覆盖"
+
+#~ msgctxt "#30036"
+#~ msgid "Crop Overscan"
+#~ msgstr "过扫剪裁"
+
+#~ msgctxt "#30037"
+#~ msgid "Additional Cropping"
+#~ msgstr "附加剪裁"
+
+#~ msgctxt "#30038"
+#~ msgid "Offset Cropped Image"
+#~ msgstr "偏移裁剪图像"
+
+#~ msgctxt "#30039"
+#~ msgid "GPU Rasterizer Overclock"
+#~ msgstr "GPU 光栅化超频"
+
+#~ msgctxt "#30040"
+#~ msgid "Core Aspect Ratio"
+#~ msgstr "内核高宽比"
+
+#~ msgctxt "#30041"
+#~ msgid "Initial Scan Line - NTSC"
+#~ msgstr "初始扫描线 - NTSC"
+
+#~ msgctxt "#30042"
+#~ msgid "Last Scan Line - NTSC"
+#~ msgstr "最末扫描线 - NTSC"
+
+#~ msgctxt "#30043"
+#~ msgid "Initial Scan Line - PAL"
+#~ msgstr "初始扫描线 - PAL"
+
+#~ msgctxt "#30044"
+#~ msgid "Last Scan Line - PAL"
+#~ msgstr "最末扫描线 - PAL"
+
+#~ msgctxt "#30045"
+#~ msgid "CD Access Method (Restart Required)"
+#~ msgstr "CD 访问方法（需要重新启动）"
+
+#~ msgctxt "#30046"
+#~ msgid "CD Loading Speed"
+#~ msgstr "CD 读取速度"
 
 #~ msgctxt "#30011"
 #~ msgid "Mouse Sensitivity"
