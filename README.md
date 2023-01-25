@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.beetle-psx/resources/icon.png)
+![Sony - PlayStation (Beetle PSX) icon](game.libretro.beetle-psx/resources/icon.png)
 
 ### Fanart
 
