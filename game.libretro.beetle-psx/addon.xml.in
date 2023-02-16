@@ -31,6 +31,7 @@
 		</assets>
 		<summary lang="en_GB">Sony - PlayStation (Beetle PSX) 0.9.44.1</summary>
 		<description lang="da_DK">Beetle PSX er PlayStation-modulet i Beetle, en port af Mednafen.</description>
+		<description lang="de_DE">Beetle PSX ist das PlayStation-Modul von Beetle, einer Portierung von Madnafen.</description>
 		<description lang="en_GB">Beetle PSX is the PlayStation module of Beetle, a port of Madnafen.</description>
 		<description lang="es_ES">Beetle PSX es el módulo para PlayStation de Beetle, una adaptación de Mednafen.</description>
 		<description lang="fi_FI">Beetle PSX on Mednafenin Beetlestä kehittämän PlayStation-moduulin käännösversio.</description>
