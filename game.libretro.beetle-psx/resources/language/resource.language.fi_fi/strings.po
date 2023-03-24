@@ -24,7 +24,8 @@ msgstr ""
 
 msgctxt "Addon Description"
 msgid "Beetle PSX is the PlayStation module of Beetle, a port of Madnafen."
-msgstr ""
+msgstr "[CR]Beetle PSX on Mednafenin Beetlestä kehittämän PlayStation-moduulin [CR]käännösversio."
+
 "Beetle PSX on Mednafenin Beetlestä kehittämän PlayStation-moduulin "
 "käännösversio."
 
