@@ -54,165 +54,245 @@ msgid "Enable DualShock Analog Mode Toggle"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Port 1: Multitap Enable"
+msgid "DualShock Analog Mode Combo"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Port 2: Multitap Enable"
+msgid "DualShock Analog Mode Combo Hold Delay"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Gun Input Mode"
-msgstr "Gun-Eingabemodus"
+msgid "Port 1: Multitap Enable"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Gun Cursor"
+msgid "Port 2: Multitap Enable"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Port 1: Gun Crosshair Color"
-msgstr "Port 1: Gun Fadenkreuzfarbe"
+msgid "Gun Input Mode"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Port 2: Gun Crosshair Color"
-msgstr "Port 2: Gun Fadenkreuzfarbe"
+msgid "Gun Cursor"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Mouse Sensitivity"
-msgstr "Mausempfindlichkeit"
+msgid "Port 1: Gun Crosshair Color"
+msgstr ""
 
 msgctxt "#30014"
-msgid "neGcon Twist Response"
+msgid "Port 2: Gun Crosshair Color"
 msgstr ""
 
 msgctxt "#30015"
-msgid "neGcon Twist Deadzone"
+msgid "Mouse Sensitivity"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Memory Card 0 Method (Restart Required)"
+msgid "neGcon Twist Response"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Enable Memory Card 1 (Restart Required)"
-msgstr "Memory Card 1 aktivieren (Neustart erforderlich)"
+msgid "neGcon Twist Deadzone"
+msgstr ""
 
 msgctxt "#30018"
-msgid "Shared Memory Cards (Restart Required)"
+msgid "Memory Card 0 Method (Restart Required)"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Memory Card Left Index"
+msgid "Enable Memory Card 1 (Restart Required)"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Memory Card Right Index"
+msgid "Shared Memory Cards (Restart Required)"
 msgstr ""
 
 msgctxt "#30021"
-msgid "PGXP Operation Mode"
-msgstr "PGXP-Betriebsmodus"
+msgid "Memory Card Left Index"
+msgstr ""
 
 msgctxt "#30022"
-msgid "PGXP 2D Geometry Tolerance"
-msgstr "PGXP-2D-Geometrietoleranz"
+msgid "Memory Card Right Index"
+msgstr ""
 
 msgctxt "#30023"
-msgid "PGXP Primitive Culling"
+msgid "PGXP Operation Mode"
 msgstr ""
 
 msgctxt "#30024"
-msgid "Line-to-Quad Hack"
+msgid "PGXP 2D Geometry Tolerance"
 msgstr ""
 
 msgctxt "#30025"
-msgid "Widescreen Mode Hack"
-msgstr "Hack für Breitbildmodus"
+msgid "PGXP Primitive Culling"
+msgstr ""
 
 msgctxt "#30026"
-msgid "Widescreen Mode Hack Aspect Ratio"
+msgid "Line-to-Quad Hack"
 msgstr ""
 
 msgctxt "#30027"
-msgid "CPU Frequency Scaling (Overclock)"
+msgid "Widescreen Mode Hack"
 msgstr ""
 
 msgctxt "#30028"
-msgid "GTE Overclock"
-msgstr "GTE-Übertaktung"
+msgid "Widescreen Mode Hack Aspect Ratio"
+msgstr ""
 
 msgctxt "#30029"
-msgid "Skip BIOS"
-msgstr "BIOS überspringen"
+msgid "CPU Frequency Scaling (Overclock)"
+msgstr ""
 
 msgctxt "#30030"
-msgid "Override BIOS (Restart Required)"
-msgstr "BIOS umgehen (Neustart erforderlich)"
+msgid "GTE Overclock"
+msgstr ""
 
 msgctxt "#30031"
-msgid "CPU Dynarec"
+msgid "Skip BIOS"
 msgstr ""
 
 msgctxt "#30032"
-msgid "Dynarec Code Invalidation"
+msgid "Override BIOS (Restart Required)"
 msgstr ""
 
 msgctxt "#30033"
-msgid "Dynarec DMA/GPU/MDEC/Timer Event Cycles"
+msgid "CPU Dynarec"
 msgstr ""
 
 msgctxt "#30034"
-msgid "Dynarec SPU Samples"
+msgid "Dynarec Code Invalidation"
 msgstr ""
 
 msgctxt "#30035"
-msgid "Core-Reported FPS Timing"
-msgstr "Core-gemeldetes FPS-Timing"
+msgid "Dynarec DMA/GPU/MDEC/Timer Event Cycles"
+msgstr ""
 
 msgctxt "#30036"
-msgid "PAL (European) Video Timing Override"
-msgstr "PAL (Europäisch) Aufhebung des Videotimings"
+msgid "Dynarec SPU Samples"
+msgstr ""
 
 msgctxt "#30037"
-msgid "Crop Overscan"
-msgstr "Overscan beschneiden"
+msgid "Core-Reported FPS Timing"
+msgstr ""
 
 msgctxt "#30038"
-msgid "Additional Cropping"
-msgstr "Zusätzliches Beschneiden"
+msgid "PAL (European) Video Timing Override"
+msgstr ""
 
 msgctxt "#30039"
-msgid "Offset Cropped Image"
+msgid "Crop Overscan"
 msgstr ""
 
 msgctxt "#30040"
-msgid "GPU Rasterizer Overclock"
-msgstr "GPU-Rasterizer-Übertaktung"
+msgid "Additional Cropping"
+msgstr ""
 
 msgctxt "#30041"
-msgid "Core Aspect Ratio"
+msgid "Offset Cropped Image"
 msgstr ""
 
 msgctxt "#30042"
-msgid "Initial Scan Line - NTSC"
+msgid "GPU Rasterizer Overclock"
 msgstr ""
 
 msgctxt "#30043"
-msgid "Last Scan Line - NTSC"
+msgid "Core Aspect Ratio"
 msgstr ""
 
 msgctxt "#30044"
-msgid "Initial Scan Line - PAL"
+msgid "Initial Scan Line - NTSC"
 msgstr ""
 
 msgctxt "#30045"
-msgid "Last Scan Line - PAL"
+msgid "Last Scan Line - NTSC"
 msgstr ""
 
 msgctxt "#30046"
-msgid "CD Access Method (Restart Required)"
-msgstr "CD-Zugriffsmethode (Neustart erforderlich)"
+msgid "Initial Scan Line - PAL"
+msgstr ""
 
 msgctxt "#30047"
+msgid "Last Scan Line - PAL"
+msgstr ""
+
+msgctxt "#30048"
+msgid "CD Access Method (Restart Required)"
+msgstr ""
+
+msgctxt "#30049"
 msgid "CD Loading Speed"
-msgstr "CD-Ladegeschwindigkeit"
+msgstr ""
+
+#~ msgctxt "#30009"
+#~ msgid "Gun Input Mode"
+#~ msgstr "Gun-Eingabemodus"
+
+#~ msgctxt "#30011"
+#~ msgid "Port 1: Gun Crosshair Color"
+#~ msgstr "Port 1: Gun Fadenkreuzfarbe"
+
+#~ msgctxt "#30012"
+#~ msgid "Port 2: Gun Crosshair Color"
+#~ msgstr "Port 2: Gun Fadenkreuzfarbe"
+
+#~ msgctxt "#30013"
+#~ msgid "Mouse Sensitivity"
+#~ msgstr "Mausempfindlichkeit"
+
+#~ msgctxt "#30017"
+#~ msgid "Enable Memory Card 1 (Restart Required)"
+#~ msgstr "Memory Card 1 aktivieren (Neustart erforderlich)"
+
+#~ msgctxt "#30021"
+#~ msgid "PGXP Operation Mode"
+#~ msgstr "PGXP-Betriebsmodus"
+
+#~ msgctxt "#30022"
+#~ msgid "PGXP 2D Geometry Tolerance"
+#~ msgstr "PGXP-2D-Geometrietoleranz"
+
+#~ msgctxt "#30025"
+#~ msgid "Widescreen Mode Hack"
+#~ msgstr "Hack für Breitbildmodus"
+
+#~ msgctxt "#30028"
+#~ msgid "GTE Overclock"
+#~ msgstr "GTE-Übertaktung"
+
+#~ msgctxt "#30029"
+#~ msgid "Skip BIOS"
+#~ msgstr "BIOS überspringen"
+
+#~ msgctxt "#30030"
+#~ msgid "Override BIOS (Restart Required)"
+#~ msgstr "BIOS umgehen (Neustart erforderlich)"
+
+#~ msgctxt "#30035"
+#~ msgid "Core-Reported FPS Timing"
+#~ msgstr "Core-gemeldetes FPS-Timing"
+
+#~ msgctxt "#30036"
+#~ msgid "PAL (European) Video Timing Override"
+#~ msgstr "PAL (Europäisch) Aufhebung des Videotimings"
+
+#~ msgctxt "#30037"
+#~ msgid "Crop Overscan"
+#~ msgstr "Overscan beschneiden"
+
+#~ msgctxt "#30038"
+#~ msgid "Additional Cropping"
+#~ msgstr "Zusätzliches Beschneiden"
+
+#~ msgctxt "#30040"
+#~ msgid "GPU Rasterizer Overclock"
+#~ msgstr "GPU-Rasterizer-Übertaktung"
+
+#~ msgctxt "#30046"
+#~ msgid "CD Access Method (Restart Required)"
+#~ msgstr "CD-Zugriffsmethode (Neustart erforderlich)"
+
+#~ msgctxt "#30047"
+#~ msgid "CD Loading Speed"
+#~ msgstr "CD-Ladegeschwindigkeit"
