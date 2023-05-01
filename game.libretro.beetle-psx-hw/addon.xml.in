@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="game.libretro.beetle-psx"
+<addon id="game.libretro.beetle-psx-hw"
 		name="Sony - PlayStation (Beetle PSX)"
 		version="0.9.44.50"
 		provider-name="Mednafen Team">
