@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-psx-hw"
-		name="Sony - PlayStation (Beetle PSX)"
-		version="0.9.44.50"
+		name="Sony - PlayStation (Beetle PSX HW)"
+		version="0.9.44.1"
 		provider-name="Mednafen Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -20,17 +20,17 @@
 		<extensions>exe|cue|toc|ccd|m3u|pbp|chd</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
-		<requires_opengl>false</requires_opengl>
+		<requires_opengl>true</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
-		<source>https://github.com/kodi-game/game.libretro.beetle-psx</source>
+		<source>https://github.com/kodi-game/game.libretro.beetle-psx-hw</source>
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="da_DK">Sony - PlayStation (Beetle PSX)</summary>
-		<summary lang="en_GB">Sony - PlayStation (Beetle PSX)</summary>
+		<summary lang="en_GB">Sony - PlayStation (Beetle PSX HW)</summary>
 		<summary lang="es_ES">Sony - PlayStation (Beetle PSX)</summary>
 		<description lang="da_DK">Beetle PSX er PlayStation-modulet i Beetle, en port af Mednafen.</description>
 		<description lang="de_DE">Beetle PSX ist das PlayStation-Modul von Beetle, einer Portierung von Madnafen.</description>

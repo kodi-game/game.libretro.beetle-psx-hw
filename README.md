@@ -1,4 +1,4 @@
-# Sony - PlayStation (Beetle PSX)
+# Sony - PlayStation (Beetle PSX HW)
 
 ### Description
 
@@ -10,7 +10,7 @@ GPLv2
 
 ### Icon
 
-![Sony - PlayStation (Beetle PSX) icon](game.libretro.beetle-psx/resources/icon.png)
+![Sony - PlayStation (Beetle PSX HW) icon](game.libretro.beetle-psx-hw/resources/icon.png)
 
 ### Fanart
 

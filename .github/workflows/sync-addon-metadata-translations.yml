@@ -9,7 +9,7 @@ on:
 
 jobs:
   default:
-    if: github.repository == 'kodi-game/game.libretro.beetle-psx'
+    if: github.repository == 'kodi-game/game.libretro.beetle-psx-hw'
     runs-on: ubuntu-latest
 
     steps:

@@ -9,7 +9,7 @@ language: cpp
 #
 env:
   global:
-    - app_id=game.libretro.beetle-psx
+    - app_id=game.libretro.beetle-psx-hw
 
 matrix:
   include:
@@ -23,6 +23,10 @@ matrix:
       compiler: clang
     - os: osx
       osx_image: xcode10.2
+
+before_install:
+  - if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then sudo apt-get update -qq; fi
+  - if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then sudo apt-get install -y libgl1-mesa-dev; fi
 
 #
 # The addon source is automatically checked out in $TRAVIS_BUILD_DIR,

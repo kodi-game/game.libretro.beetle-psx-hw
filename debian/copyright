@@ -1,6 +1,6 @@
 Format: http://dep.debian.net/deps/dep5
-Upstream-Name: game.libretro.beetle-psx
-Source: https://github.com/kodi-game/game.libretro.beetle-psx
+Upstream-Name: game.libretro.beetle-psx-hw
+Source: https://github.com/kodi-game/game.libretro.beetle-psx-hw
 
 Files: *
 Copyright: 2005-2019 Team Kodi
