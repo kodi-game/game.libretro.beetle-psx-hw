@@ -65,10 +65,6 @@ msgctxt "#30009"
 msgid "Analog Self-Calibration"
 msgstr "Autocalibración Analógica"
 
-msgctxt "#30010"
-msgid "Enable DualShock Analog Mode Toggle"
-msgstr "Activar Conmutador de Modo Analógico DualShock"
-
 msgctxt "#30011"
 msgid "DualShock Analog Mode Combo"
 msgstr "Combo de Modo Analógico DualShock"
@@ -260,6 +256,14 @@ msgstr "Método de Acceso a CD (Reinicio Requerido)"
 msgctxt "#30058"
 msgid "CD Loading Speed"
 msgstr "Velocidad de Carga del CD"
+
+msgctxt "#30059"
+msgid "DualShock Analog Mode Toggle"
+msgstr ""
+
+#~ msgctxt "#30010"
+#~ msgid "Enable DualShock Analog Mode Toggle"
+#~ msgstr "Activar Conmutador de Modo Analógico DualShock"
 
 #~ msgctxt "#30002"
 #~ msgid "Dithering Pattern"

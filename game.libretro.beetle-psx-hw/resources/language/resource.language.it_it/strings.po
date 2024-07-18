@@ -65,10 +65,6 @@ msgctxt "#30009"
 msgid "Analog Self-Calibration"
 msgstr ""
 
-msgctxt "#30010"
-msgid "Enable DualShock Analog Mode Toggle"
-msgstr ""
-
 msgctxt "#30011"
 msgid "DualShock Analog Mode Combo"
 msgstr ""
@@ -259,6 +255,10 @@ msgstr ""
 
 msgctxt "#30058"
 msgid "CD Loading Speed"
+msgstr ""
+
+msgctxt "#30059"
+msgid "DualShock Analog Mode Toggle"
 msgstr ""
 
 #~ msgctxt "#30015"

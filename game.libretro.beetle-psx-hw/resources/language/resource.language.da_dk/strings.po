@@ -65,10 +65,6 @@ msgctxt "#30009"
 msgid "Analog Self-Calibration"
 msgstr "Analog selvkalibrering"
 
-msgctxt "#30010"
-msgid "Enable DualShock Analog Mode Toggle"
-msgstr "Aktiver skifte af DualShock analog tilstand"
-
 msgctxt "#30011"
 msgid "DualShock Analog Mode Combo"
 msgstr ""
@@ -260,6 +256,14 @@ msgstr "Adgangsmetode til CD (genstart påkrævet)"
 msgctxt "#30058"
 msgid "CD Loading Speed"
 msgstr "Indlæsningshastighed for CD"
+
+msgctxt "#30059"
+msgid "DualShock Analog Mode Toggle"
+msgstr ""
+
+#~ msgctxt "#30010"
+#~ msgid "Enable DualShock Analog Mode Toggle"
+#~ msgstr "Aktiver skifte af DualShock analog tilstand"
 
 #~ msgctxt "#30002"
 #~ msgid "Dithering Pattern"

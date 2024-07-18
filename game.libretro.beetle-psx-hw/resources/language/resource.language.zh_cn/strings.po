@@ -65,10 +65,6 @@ msgctxt "#30009"
 msgid "Analog Self-Calibration"
 msgstr ""
 
-msgctxt "#30010"
-msgid "Enable DualShock Analog Mode Toggle"
-msgstr "启用 DualShock 模拟模式切换"
-
 msgctxt "#30011"
 msgid "DualShock Analog Mode Combo"
 msgstr "DualShock 模拟模式组合"
@@ -260,6 +256,14 @@ msgstr ""
 msgctxt "#30058"
 msgid "CD Loading Speed"
 msgstr ""
+
+msgctxt "#30059"
+msgid "DualShock Analog Mode Toggle"
+msgstr ""
+
+#~ msgctxt "#30010"
+#~ msgid "Enable DualShock Analog Mode Toggle"
+#~ msgstr "启用 DualShock 模拟模式切换"
 
 #~ msgctxt "#30002"
 #~ msgid "Dithering Pattern"

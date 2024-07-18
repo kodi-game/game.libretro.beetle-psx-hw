@@ -65,10 +65,6 @@ msgctxt "#30009"
 msgid "Analog Self-Calibration"
 msgstr "Kalibrasi Analog Mandiri"
 
-msgctxt "#30010"
-msgid "Enable DualShock Analog Mode Toggle"
-msgstr "Aktifkan Pengalih Mode Analog DualShock"
-
 msgctxt "#30011"
 msgid "DualShock Analog Mode Combo"
 msgstr "Kombo Mode Analog DualShock"
@@ -260,3 +256,11 @@ msgstr "Metode Akses CD (Diperlukan Restart)"
 msgctxt "#30058"
 msgid "CD Loading Speed"
 msgstr "Kecepatan Memuat CD"
+
+msgctxt "#30059"
+msgid "DualShock Analog Mode Toggle"
+msgstr ""
+
+#~ msgctxt "#30010"
+#~ msgid "Enable DualShock Analog Mode Toggle"
+#~ msgstr "Aktifkan Pengalih Mode Analog DualShock"
