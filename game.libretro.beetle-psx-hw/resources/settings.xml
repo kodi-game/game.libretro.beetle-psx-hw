@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="beetle_psx_hw_internal_resolution" values="1x(native)|2x|4x|8x|16x" default="1x(native)"/>
 		<setting label="30002" type="select" id="beetle_psx_hw_depth" values="16bpp(native)|32bpp" default="16bpp(native)"/>
 		<setting label="30003" type="select" id="beetle_psx_hw_dither_mode" values="1x(native)|internal resolution|disabled" default="1x(native)"/>
@@ -8,6 +8,7 @@
 		<setting label="30005" type="select" id="beetle_psx_hw_wireframe" values="disabled|enabled" default="disabled"/>
 		<setting label="30006" type="select" id="beetle_psx_hw_frame_duping" values="disabled|enabled" default="disabled"/>
 		<setting label="30007" type="select" id="beetle_psx_hw_display_internal_fps" values="disabled|enabled" default="disabled"/>
+		<setting label="30060" type="select" id="beetle_psx_hw_display_osd" values="enabled|disabled" default="enabled"/>
 		<setting label="30008" type="select" id="beetle_psx_hw_display_vram" values="disabled|enabled" default="disabled"/>
 		<setting label="30009" type="select" id="beetle_psx_hw_analog_calibration" values="disabled|enabled" default="disabled"/>
 		<setting label="30059" type="select" id="beetle_psx_hw_analog_toggle" values="disabled|enabled|enabled-analog" default="disabled"/>
