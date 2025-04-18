@@ -261,6 +261,10 @@ msgctxt "#30060"
 msgid "Display OSD Messages"
 msgstr ""
 
+msgctxt "#30061"
+msgid "Deinterlace Method"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "设置"
