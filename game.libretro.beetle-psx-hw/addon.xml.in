@@ -34,6 +34,7 @@
 		<summary lang="es_ES">Sony - PlayStation (Beetle PSX)</summary>
 		<summary lang="it_IT">Sony - PlayStation (Beetle PSX HW)</summary>
 		<summary lang="sv_SE">Sony - PlayStation (Beetle PSX HW)</summary>
+		<summary lang="zh_CN">索尼 - PlayStation（Beetle PSX 硬件加速版）</summary>
 		<description lang="da_DK">Beetle PSX er PlayStation-modulet i Beetle, en port af Mednafen.</description>
 		<description lang="de_DE">Beetle PSX ist das PlayStation-Modul von Beetle, einer Portierung von Madnafen.</description>
 		<description lang="en_GB">Beetle PSX is the PlayStation module of Beetle, a port of Madnafen.</description>
