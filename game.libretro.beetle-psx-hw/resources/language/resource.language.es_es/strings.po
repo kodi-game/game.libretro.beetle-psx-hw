@@ -45,10 +45,6 @@ msgctxt "#30005"
 msgid "Wireframe Mode (Debug)"
 msgstr "Modo Wireframe (depuración)"
 
-msgctxt "#30006"
-msgid "Frame Duping (Speedup)"
-msgstr "Duplicación de Fotogramas (aceleración)"
-
 msgctxt "#30007"
 msgid "Display Internal FPS"
 msgstr "Mostrar FPS Internos"
@@ -69,14 +65,6 @@ msgctxt "#30012"
 msgid "DualShock Analog Mode Combo Hold Delay"
 msgstr "Retardo de Retención del Combo del Modo Analógico DualShock"
 
-msgctxt "#30013"
-msgid "Port 1: Multitap Enable"
-msgstr "Puerto 1: Activar Multitap"
-
-msgctxt "#30014"
-msgid "Port 2: Multitap Enable"
-msgstr "Puerto 2: Activar Multitap"
-
 msgctxt "#30015"
 msgid "Gun Input Mode"
 msgstr "Modo Entrada Pistola"
@@ -84,14 +72,6 @@ msgstr "Modo Entrada Pistola"
 msgctxt "#30016"
 msgid "Gun Cursor"
 msgstr "Cursor de Pistola"
-
-msgctxt "#30017"
-msgid "Port 1: Gun Crosshair Color"
-msgstr "Puerto 1: Color del Punto de Mira de la Pistola"
-
-msgctxt "#30018"
-msgid "Port 2: Gun Crosshair Color"
-msgstr "Puerto 2: Color del Punto de Mira de la Pistola"
 
 msgctxt "#30019"
 msgid "Mouse Sensitivity"
@@ -104,26 +84,6 @@ msgstr "Respuesta de Giro neGcon"
 msgctxt "#30021"
 msgid "neGcon Twist Deadzone"
 msgstr "Zona Muerta Giro neGcon"
-
-msgctxt "#30022"
-msgid "Memory Card 0 Method (Restart Required)"
-msgstr "Método de la Tarjeta de Memoria 0 (Reinicio Requerido)"
-
-msgctxt "#30023"
-msgid "Enable Memory Card 1 (Restart Required)"
-msgstr "Activar Tarjeta de Memoria 1 (Reinicio Requerido)"
-
-msgctxt "#30024"
-msgid "Shared Memory Cards (Restart Required)"
-msgstr "Tarjetas de Memoria Compartida (Reinicio Requerido)"
-
-msgctxt "#30025"
-msgid "Memory Card Left Index"
-msgstr "Índice Izquierdo de la Tarjeta de Memoria"
-
-msgctxt "#30026"
-msgid "Memory Card Right Index"
-msgstr "Índice Derecho de la Tarjeta de Memoria"
 
 msgctxt "#30027"
 msgid "PGXP Operation Mode"
@@ -169,14 +129,6 @@ msgctxt "#30037"
 msgid "Skip BIOS"
 msgstr "Saltar BIOS"
 
-msgctxt "#30038"
-msgid "Override BIOS (Restart Required)"
-msgstr "Anular BIOS (Reinicio Requerido)"
-
-msgctxt "#30039"
-msgid "Renderer (Restart Required)"
-msgstr "Renderizador (Reinicio Requerido)"
-
 msgctxt "#30040"
 msgid "Software Framebuffer"
 msgstr "Software de Framebuffer"
@@ -200,10 +152,6 @@ msgstr "Muestras SPU Dynarec"
 msgctxt "#30045"
 msgid "Core-Reported FPS Timing"
 msgstr "Tiempos FPS informados por el Núcleo"
-
-msgctxt "#30046"
-msgid "PAL (European) Video Timing Override"
-msgstr "Anulación de Sincronización de Vídeo PAL (europeo)"
 
 msgctxt "#30047"
 msgid "Crop Overscan"
@@ -245,10 +193,6 @@ msgctxt "#30056"
 msgid "Last Scan Line - PAL"
 msgstr "Línea de Exploración Final - PAL"
 
-msgctxt "#30057"
-msgid "CD Access Method (Restart Required)"
-msgstr "Método de Acceso a CD (Reinicio Requerido)"
-
 msgctxt "#30058"
 msgid "CD Loading Speed"
 msgstr "Velocidad de Carga del CD"
@@ -264,6 +208,118 @@ msgstr "Mostrar Mensajes OSD"
 msgctxt "#30061"
 msgid "Deinterlace Method"
 msgstr "Método de Desentrelazado"
+
+msgctxt "#30062"
+msgid "CD Access Method"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Override BIOS"
+msgstr ""
+
+msgctxt "#30064"
+msgid "Renderer"
+msgstr ""
+
+msgctxt "#30065"
+msgid "Multitap on Port 1"
+msgstr ""
+
+msgctxt "#30066"
+msgid "Multitap on Port 2"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Gun Crosshair Color: Port 1"
+msgstr ""
+
+msgctxt "#30068"
+msgid "Gun Crosshair Color: Port 2"
+msgstr ""
+
+msgctxt "#30069"
+msgid "Memory Card Method"
+msgstr ""
+
+msgctxt "#30070"
+msgid "Memory Card Slot 2"
+msgstr ""
+
+msgctxt "#30071"
+msgid "Shared Memory Cards"
+msgstr ""
+
+msgctxt "#30072"
+msgid "Memory Card Slot 1 Index"
+msgstr ""
+
+msgctxt "#30073"
+msgid "Memory Card Slot 2 Index"
+msgstr ""
+
+msgctxt "#30074"
+msgid "Frame Duping"
+msgstr ""
+
+msgctxt "#30075"
+msgid "PAL Video Timing Override"
+msgstr ""
+
+#~ msgctxt "#30006"
+#~ msgid "Frame Duping (Speedup)"
+#~ msgstr "Duplicación de Fotogramas (aceleración)"
+
+#~ msgctxt "#30013"
+#~ msgid "Port 1: Multitap Enable"
+#~ msgstr "Puerto 1: Activar Multitap"
+
+#~ msgctxt "#30014"
+#~ msgid "Port 2: Multitap Enable"
+#~ msgstr "Puerto 2: Activar Multitap"
+
+#~ msgctxt "#30017"
+#~ msgid "Port 1: Gun Crosshair Color"
+#~ msgstr "Puerto 1: Color del Punto de Mira de la Pistola"
+
+#~ msgctxt "#30018"
+#~ msgid "Port 2: Gun Crosshair Color"
+#~ msgstr "Puerto 2: Color del Punto de Mira de la Pistola"
+
+#~ msgctxt "#30022"
+#~ msgid "Memory Card 0 Method (Restart Required)"
+#~ msgstr "Método de la Tarjeta de Memoria 0 (Reinicio Requerido)"
+
+#~ msgctxt "#30023"
+#~ msgid "Enable Memory Card 1 (Restart Required)"
+#~ msgstr "Activar Tarjeta de Memoria 1 (Reinicio Requerido)"
+
+#~ msgctxt "#30024"
+#~ msgid "Shared Memory Cards (Restart Required)"
+#~ msgstr "Tarjetas de Memoria Compartida (Reinicio Requerido)"
+
+#~ msgctxt "#30025"
+#~ msgid "Memory Card Left Index"
+#~ msgstr "Índice Izquierdo de la Tarjeta de Memoria"
+
+#~ msgctxt "#30026"
+#~ msgid "Memory Card Right Index"
+#~ msgstr "Índice Derecho de la Tarjeta de Memoria"
+
+#~ msgctxt "#30038"
+#~ msgid "Override BIOS (Restart Required)"
+#~ msgstr "Anular BIOS (Reinicio Requerido)"
+
+#~ msgctxt "#30039"
+#~ msgid "Renderer (Restart Required)"
+#~ msgstr "Renderizador (Reinicio Requerido)"
+
+#~ msgctxt "#30046"
+#~ msgid "PAL (European) Video Timing Override"
+#~ msgstr "Anulación de Sincronización de Vídeo PAL (europeo)"
+
+#~ msgctxt "#30057"
+#~ msgid "CD Access Method (Restart Required)"
+#~ msgstr "Método de Acceso a CD (Reinicio Requerido)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

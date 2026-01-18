@@ -45,10 +45,6 @@ msgctxt "#30005"
 msgid "Wireframe Mode (Debug)"
 msgstr "线框模式（调试用）"
 
-msgctxt "#30006"
-msgid "Frame Duping (Speedup)"
-msgstr "帧复制（加速）"
-
 msgctxt "#30007"
 msgid "Display Internal FPS"
 msgstr "显示内部 FPS"
@@ -69,14 +65,6 @@ msgctxt "#30012"
 msgid "DualShock Analog Mode Combo Hold Delay"
 msgstr "DualShock 模拟模式组合保持延迟"
 
-msgctxt "#30013"
-msgid "Port 1: Multitap Enable"
-msgstr "端口1：多插启用"
-
-msgctxt "#30014"
-msgid "Port 2: Multitap Enable"
-msgstr "端口2：多插启用"
-
 msgctxt "#30015"
 msgid "Gun Input Mode"
 msgstr "枪输入模式"
@@ -84,14 +72,6 @@ msgstr "枪输入模式"
 msgctxt "#30016"
 msgid "Gun Cursor"
 msgstr "枪光标"
-
-msgctxt "#30017"
-msgid "Port 1: Gun Crosshair Color"
-msgstr "端口1：枪准星颜色"
-
-msgctxt "#30018"
-msgid "Port 2: Gun Crosshair Color"
-msgstr "端口2：枪准星颜色"
 
 msgctxt "#30019"
 msgid "Mouse Sensitivity"
@@ -104,26 +84,6 @@ msgstr "neGcon 扭转响应"
 msgctxt "#30021"
 msgid "neGcon Twist Deadzone"
 msgstr "neGcon 扭转死区"
-
-msgctxt "#30022"
-msgid "Memory Card 0 Method (Restart Required)"
-msgstr "存储卡0方法（需要重新启动）"
-
-msgctxt "#30023"
-msgid "Enable Memory Card 1 (Restart Required)"
-msgstr "启用存储卡1（需要重新启动）"
-
-msgctxt "#30024"
-msgid "Shared Memory Cards (Restart Required)"
-msgstr "共享存储卡（需要重新启动）"
-
-msgctxt "#30025"
-msgid "Memory Card Left Index"
-msgstr "存储卡左索引"
-
-msgctxt "#30026"
-msgid "Memory Card Right Index"
-msgstr "存储卡右索引"
 
 msgctxt "#30027"
 msgid "PGXP Operation Mode"
@@ -169,14 +129,6 @@ msgctxt "#30037"
 msgid "Skip BIOS"
 msgstr "跳过 BIOS"
 
-msgctxt "#30038"
-msgid "Override BIOS (Restart Required)"
-msgstr "覆盖 BIOS（需要重新启动）"
-
-msgctxt "#30039"
-msgid "Renderer (Restart Required)"
-msgstr "渲染器（需要重新启动）"
-
 msgctxt "#30040"
 msgid "Software Framebuffer"
 msgstr "软件帧缓冲"
@@ -200,10 +152,6 @@ msgstr "Dynarec SPU 样本"
 msgctxt "#30045"
 msgid "Core-Reported FPS Timing"
 msgstr "核心报告 FPS 时间"
-
-msgctxt "#30046"
-msgid "PAL (European) Video Timing Override"
-msgstr "PAL（欧洲）视频定时覆盖"
 
 msgctxt "#30047"
 msgid "Crop Overscan"
@@ -245,10 +193,6 @@ msgctxt "#30056"
 msgid "Last Scan Line - PAL"
 msgstr "终止扫描线 - PAL"
 
-msgctxt "#30057"
-msgid "CD Access Method (Restart Required)"
-msgstr "CD 访问方法（需要重新启动）"
-
 msgctxt "#30058"
 msgid "CD Loading Speed"
 msgstr "CD 读取速度"
@@ -264,6 +208,118 @@ msgstr "显示 OSD 信息"
 msgctxt "#30061"
 msgid "Deinterlace Method"
 msgstr "去隔行扫描法"
+
+msgctxt "#30062"
+msgid "CD Access Method"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Override BIOS"
+msgstr ""
+
+msgctxt "#30064"
+msgid "Renderer"
+msgstr ""
+
+msgctxt "#30065"
+msgid "Multitap on Port 1"
+msgstr ""
+
+msgctxt "#30066"
+msgid "Multitap on Port 2"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Gun Crosshair Color: Port 1"
+msgstr ""
+
+msgctxt "#30068"
+msgid "Gun Crosshair Color: Port 2"
+msgstr ""
+
+msgctxt "#30069"
+msgid "Memory Card Method"
+msgstr ""
+
+msgctxt "#30070"
+msgid "Memory Card Slot 2"
+msgstr ""
+
+msgctxt "#30071"
+msgid "Shared Memory Cards"
+msgstr ""
+
+msgctxt "#30072"
+msgid "Memory Card Slot 1 Index"
+msgstr ""
+
+msgctxt "#30073"
+msgid "Memory Card Slot 2 Index"
+msgstr ""
+
+msgctxt "#30074"
+msgid "Frame Duping"
+msgstr ""
+
+msgctxt "#30075"
+msgid "PAL Video Timing Override"
+msgstr ""
+
+#~ msgctxt "#30006"
+#~ msgid "Frame Duping (Speedup)"
+#~ msgstr "帧复制（加速）"
+
+#~ msgctxt "#30013"
+#~ msgid "Port 1: Multitap Enable"
+#~ msgstr "端口1：多插启用"
+
+#~ msgctxt "#30014"
+#~ msgid "Port 2: Multitap Enable"
+#~ msgstr "端口2：多插启用"
+
+#~ msgctxt "#30017"
+#~ msgid "Port 1: Gun Crosshair Color"
+#~ msgstr "端口1：枪准星颜色"
+
+#~ msgctxt "#30018"
+#~ msgid "Port 2: Gun Crosshair Color"
+#~ msgstr "端口2：枪准星颜色"
+
+#~ msgctxt "#30022"
+#~ msgid "Memory Card 0 Method (Restart Required)"
+#~ msgstr "存储卡0方法（需要重新启动）"
+
+#~ msgctxt "#30023"
+#~ msgid "Enable Memory Card 1 (Restart Required)"
+#~ msgstr "启用存储卡1（需要重新启动）"
+
+#~ msgctxt "#30024"
+#~ msgid "Shared Memory Cards (Restart Required)"
+#~ msgstr "共享存储卡（需要重新启动）"
+
+#~ msgctxt "#30025"
+#~ msgid "Memory Card Left Index"
+#~ msgstr "存储卡左索引"
+
+#~ msgctxt "#30026"
+#~ msgid "Memory Card Right Index"
+#~ msgstr "存储卡右索引"
+
+#~ msgctxt "#30038"
+#~ msgid "Override BIOS (Restart Required)"
+#~ msgstr "覆盖 BIOS（需要重新启动）"
+
+#~ msgctxt "#30039"
+#~ msgid "Renderer (Restart Required)"
+#~ msgstr "渲染器（需要重新启动）"
+
+#~ msgctxt "#30046"
+#~ msgid "PAL (European) Video Timing Override"
+#~ msgstr "PAL（欧洲）视频定时覆盖"
+
+#~ msgctxt "#30057"
+#~ msgid "CD Access Method (Restart Required)"
+#~ msgstr "CD 访问方法（需要重新启动）"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
