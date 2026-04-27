@@ -7,7 +7,7 @@
 		<setting label="30062" type="select" id="beetle_psx_hw_cd_access_method" values="sync|async|precache" default="sync"/>
 		<setting label="30058" type="select" id="beetle_psx_hw_cd_fastload" values="2x(native)|4x|6x|8x|10x|12x|14x" default="2x(native)"/>
 		<setting label="30037" type="select" id="beetle_psx_hw_skip_bios" values="disabled|enabled" default="disabled"/>
-		<setting label="30063" type="select" id="beetle_psx_hw_override_bios" values="disabled|psxonpsp|ps1_rom" default="disabled"/>
+		<setting label="30063" type="select" id="beetle_psx_hw_override_bios" values="disabled|psxonpsp|ps1_rom|openbios" default="disabled"/>
 		<setting label="30001" type="select" id="beetle_psx_hw_internal_resolution" values="1x(native)|2x|4x|8x|16x" default="1x(native)"/>
 		<setting label="30064" type="select" id="beetle_psx_hw_renderer" values="hardware|hardware_gl|software" default="hardware"/>
 		<setting label="30040" type="select" id="beetle_psx_hw_renderer_software_fb" values="enabled|disabled" default="enabled"/>
