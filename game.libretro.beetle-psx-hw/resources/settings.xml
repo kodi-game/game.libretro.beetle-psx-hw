@@ -14,7 +14,6 @@
 		<setting label="30002" type="select" id="beetle_psx_hw_depth" values="16bpp(native)|32bpp" default="16bpp(native)"/>
 		<setting label="30003" type="select" id="beetle_psx_hw_dither_mode" values="1x(native)|internal resolution|disabled" default="1x(native)"/>
 		<setting label="30004" type="select" id="beetle_psx_hw_filter" values="nearest|SABR|xBR|bilinear|3-point|JINC2" default="nearest"/>
-		<setting label="30005" type="select" id="beetle_psx_hw_wireframe" values="disabled|enabled" default="disabled"/>
 		<setting label="30027" type="select" id="beetle_psx_hw_pgxp_mode" values="disabled|memory only|memory + CPU" default="disabled"/>
 		<setting label="30028" type="select" id="beetle_psx_hw_pgxp_2d_tol" values="disabled|0px|1px|2px|3px|4px|5px|6px|7px|8px" default="disabled"/>
 		<setting label="30029" type="select" id="beetle_psx_hw_pgxp_nclip" values="disabled|enabled" default="disabled"/>
