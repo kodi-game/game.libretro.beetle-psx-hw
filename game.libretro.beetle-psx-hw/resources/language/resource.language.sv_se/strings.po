@@ -41,10 +41,6 @@ msgctxt "#30004"
 msgid "Texture Filtering"
 msgstr "Texturfiltrering"
 
-msgctxt "#30005"
-msgid "Wireframe Mode (Debug)"
-msgstr "Trådbildsläge (felsökning)"
-
 msgctxt "#30007"
 msgid "Display Internal FPS"
 msgstr "Visa intern bildfrekvens"
@@ -264,6 +260,10 @@ msgstr ""
 msgctxt "#30075"
 msgid "PAL Video Timing Override"
 msgstr ""
+
+#~ msgctxt "#30005"
+#~ msgid "Wireframe Mode (Debug)"
+#~ msgstr "Trådbildsläge (felsökning)"
 
 #~ msgctxt "#30006"
 #~ msgid "Frame Duping (Speedup)"
