@@ -261,6 +261,10 @@ msgctxt "#30075"
 msgid "PAL Video Timing Override"
 msgstr ""
 
+msgctxt "#30076"
+msgid "System Region"
+msgstr ""
+
 #~ msgctxt "#30005"
 #~ msgid "Wireframe Mode (Debug)"
 #~ msgstr "Žičani model (otklanjanje grešaka)"

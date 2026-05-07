@@ -261,6 +261,10 @@ msgctxt "#30075"
 msgid "PAL Video Timing Override"
 msgstr "PAL 视频时序强制覆盖"
 
+msgctxt "#30076"
+msgid "System Region"
+msgstr ""
+
 #~ msgctxt "#30005"
 #~ msgid "Wireframe Mode (Debug)"
 #~ msgstr "线框模式（调试用）"

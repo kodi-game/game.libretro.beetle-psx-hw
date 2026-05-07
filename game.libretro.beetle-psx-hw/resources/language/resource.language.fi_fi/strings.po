@@ -261,6 +261,10 @@ msgctxt "#30075"
 msgid "PAL Video Timing Override"
 msgstr ""
 
+msgctxt "#30076"
+msgid "System Region"
+msgstr ""
+
 #~ msgctxt "#30013"
 #~ msgid "Port 1: Multitap Enable"
 #~ msgstr "Portti 1: Multitap-käyttöönotto"
