@@ -195,7 +195,7 @@ msgstr ""
 
 msgctxt "#30059"
 msgid "DualShock Analog Mode Toggle"
-msgstr ""
+msgstr "Alternar o modo analógico do DualShock"
 
 msgctxt "#30060"
 msgid "Display OSD Messages"
@@ -659,7 +659,7 @@ msgstr ""
 
 msgctxt "#30175"
 msgid "Auto"
-msgstr ""
+msgstr "Automático"
 
 msgctxt "#30176"
 msgid "NTSC-J (Japan)"
@@ -675,7 +675,7 @@ msgstr ""
 
 msgctxt "#30179"
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 msgctxt "#30180"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
@@ -911,7 +911,7 @@ msgstr ""
 
 msgctxt "#30238"
 msgid "Nearest"
-msgstr ""
+msgstr "O mais próximo"
 
 msgctxt "#30239"
 msgid "Bilinear"
@@ -1703,7 +1703,7 @@ msgstr ""
 
 msgctxt "#30436"
 msgid "239 (Default)"
-msgstr ""
+msgstr "239 (Padrão)"
 
 msgctxt "#30437"
 msgid "210"
@@ -1831,7 +1831,7 @@ msgstr ""
 
 msgctxt "#30468"
 msgid "287 (Default)"
-msgstr ""
+msgstr "287 (Padrão)"
 
 msgctxt "#30469"
 msgid "239"
@@ -2067,7 +2067,7 @@ msgstr ""
 
 msgctxt "#30527"
 msgid "On-Screen Display"
-msgstr ""
+msgstr "Apresentação no ecrã"
 
 msgctxt "#30528"
 msgid "Change notifications being shown on-screen."
@@ -2087,7 +2087,7 @@ msgstr ""
 
 msgctxt "#30532"
 msgid "Input"
-msgstr ""
+msgstr "Entrada"
 
 msgctxt "#30533"
 msgid "Change light gun, mouse and neGcon settings."
@@ -2099,11 +2099,11 @@ msgstr ""
 
 msgctxt "#30535"
 msgid "When the input device type is DualShock, this option allows the emulated DualShock to be toggled between DIGITAL and ANALOG mode like original hardware. Mode can also be toggled by using the selected button combination."
-msgstr ""
+msgstr "Quando o tipo de dispositivo de entrada é o DualShock, esta opção permite que o DualShock emulado seja alternado entre os modos DIGITAL e ANALÓGICO, tal como o hardware original. O modo também pode ser alternado utilizando a combinação de botões selecionada."
 
 msgctxt "#30536"
 msgid "Default-Analog"
-msgstr ""
+msgstr "Analógico por predefinição"
 
 msgctxt "#30537"
 msgid "The button combination that will be used to toggle between DIGITAL and ANALOG mode for the emulated DualShock."
@@ -2219,15 +2219,15 @@ msgstr ""
 
 msgctxt "#30565"
 msgid "Red"
-msgstr ""
+msgstr "Vermelho"
 
 msgctxt "#30566"
 msgid "Blue"
-msgstr ""
+msgstr "Azul"
 
 msgctxt "#30567"
 msgid "Green"
-msgstr ""
+msgstr "Verde"
 
 msgctxt "#30568"
 msgid "Orange"
@@ -2235,7 +2235,7 @@ msgstr ""
 
 msgctxt "#30569"
 msgid "Yellow"
-msgstr ""
+msgstr "Amarelo"
 
 msgctxt "#30570"
 msgid "Cyan"
@@ -2571,4 +2571,20 @@ msgstr ""
 
 msgctxt "#30653"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"
+msgstr ""
+
+msgctxt "#30654"
+msgid "Compatibility Settings"
+msgstr ""
+
+msgctxt "#30655"
+msgid "Apply compatibility settings per game and per setting. Disable to allow user-selected settings to override them."
+msgstr ""
+
+msgctxt "#30656"
+msgid "Enabled (Recommended)"
+msgstr ""
+
+msgctxt "#30657"
+msgid "Disabled (Allow Overrides)"
 msgstr ""

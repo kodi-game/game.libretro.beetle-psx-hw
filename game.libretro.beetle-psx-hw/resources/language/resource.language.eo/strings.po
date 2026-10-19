@@ -675,7 +675,7 @@ msgstr ""
 
 msgctxt "#30179"
 msgid "Video"
-msgstr ""
+msgstr "Video Driver"
 
 msgctxt "#30180"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
@@ -903,7 +903,7 @@ msgstr ""
 
 msgctxt "#30236"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "Interna Rezolucio"
 
 msgctxt "#30237"
 msgid "'Nearest' emulates original hardware. 'Bilinear' and '3-Point' are smoothing filters, which reduce pixelation via blurring. 'SABR', 'xBR', and 'JINC2' are upscaling filters that may improve texture fidelity/sharpness at the expense of increased performance requirements. Only supported by the hardware renderers."
@@ -2087,7 +2087,7 @@ msgstr ""
 
 msgctxt "#30532"
 msgid "Input"
-msgstr ""
+msgstr "Input Driver"
 
 msgctxt "#30533"
 msgid "Change light gun, mouse and neGcon settings."
@@ -2571,6 +2571,22 @@ msgstr ""
 
 msgctxt "#30653"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"
+msgstr ""
+
+msgctxt "#30654"
+msgid "Compatibility Settings"
+msgstr ""
+
+msgctxt "#30655"
+msgid "Apply compatibility settings per game and per setting. Disable to allow user-selected settings to override them."
+msgstr ""
+
+msgctxt "#30656"
+msgid "Enabled (Recommended)"
+msgstr ""
+
+msgctxt "#30657"
+msgid "Disabled (Allow Overrides)"
 msgstr ""
 
 #~ msgctxt "#30000"

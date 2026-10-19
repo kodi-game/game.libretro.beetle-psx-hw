@@ -2573,3 +2573,19 @@ msgstr ""
 msgctxt "#30653"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"
 msgstr ""
+
+msgctxt "#30654"
+msgid "Compatibility Settings"
+msgstr ""
+
+msgctxt "#30655"
+msgid "Apply compatibility settings per game and per setting. Disable to allow user-selected settings to override them."
+msgstr ""
+
+msgctxt "#30656"
+msgid "Enabled (Recommended)"
+msgstr ""
+
+msgctxt "#30657"
+msgid "Disabled (Allow Overrides)"
+msgstr ""

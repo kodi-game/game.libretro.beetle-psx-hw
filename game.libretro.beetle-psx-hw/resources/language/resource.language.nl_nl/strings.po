@@ -267,7 +267,7 @@ msgstr ""
 
 msgctxt "#30077"
 msgid "System"
-msgstr ""
+msgstr "Systeem"
 
 msgctxt "#30078"
 msgid "Change system and overclocking options."
@@ -591,7 +591,7 @@ msgstr ""
 
 msgctxt "#30158"
 msgid "Lower all emulated GTE (CPU coprocessor for 3D graphics) operations to a constant one-cycle latency. For games that make heavy use of the GTE, this can greatly improve frame rate and frame time stability."
-msgstr ""
+msgstr "Verlaag alle geëmuleerde GTE-bewerkingen (CPU-coprocessor voor 3D-graphics) tot een constante latentie van één cyclus. Voor games die intensief gebruik maken van de GTE, kan dit de framesnelheid en frametijdstabiliteit aanzienlijk verbeteren."
 
 msgctxt "#30159"
 msgid "'Synchronous' mimics original hardware. 'Asynchronous' can reduce stuttering on devices with slow storage. 'Pre-Cache' loads the entire disk image into memory when launching content, which may improve in-game loading times at the cost of an initial delay at startup. 'Pre-Cache' may cause issues on systems with low RAM, and will fall back to 'Synchronous' for physical media. Restart required."
@@ -659,7 +659,7 @@ msgstr ""
 
 msgctxt "#30175"
 msgid "Auto"
-msgstr ""
+msgstr "Automatisch"
 
 msgctxt "#30176"
 msgid "NTSC-J (Japan)"
@@ -911,11 +911,11 @@ msgstr ""
 
 msgctxt "#30238"
 msgid "Nearest"
-msgstr ""
+msgstr "Naaste"
 
 msgctxt "#30239"
 msgid "Bilinear"
-msgstr ""
+msgstr "Bilineair"
 
 msgctxt "#30240"
 msgid "3-Point"
@@ -2067,7 +2067,7 @@ msgstr ""
 
 msgctxt "#30527"
 msgid "On-Screen Display"
-msgstr ""
+msgstr "Onscreen Weergave"
 
 msgctxt "#30528"
 msgid "Change notifications being shown on-screen."
@@ -2087,7 +2087,7 @@ msgstr ""
 
 msgctxt "#30532"
 msgid "Input"
-msgstr ""
+msgstr "Invoer"
 
 msgctxt "#30533"
 msgid "Change light gun, mouse and neGcon settings."
@@ -2219,15 +2219,15 @@ msgstr ""
 
 msgctxt "#30565"
 msgid "Red"
-msgstr ""
+msgstr "Rood"
 
 msgctxt "#30566"
 msgid "Blue"
-msgstr ""
+msgstr "Blauw"
 
 msgctxt "#30567"
 msgid "Green"
-msgstr ""
+msgstr "Groen"
 
 msgctxt "#30568"
 msgid "Orange"
@@ -2235,7 +2235,7 @@ msgstr ""
 
 msgctxt "#30569"
 msgid "Yellow"
-msgstr ""
+msgstr "Geel"
 
 msgctxt "#30570"
 msgid "Cyan"
@@ -2271,7 +2271,7 @@ msgstr ""
 
 msgctxt "#30578"
 msgid "Linear"
-msgstr ""
+msgstr "Lineair"
 
 msgctxt "#30579"
 msgid "Quadratic"
@@ -2431,7 +2431,7 @@ msgstr ""
 
 msgctxt "#30618"
 msgid "Default"
-msgstr ""
+msgstr "Standaard"
 
 msgctxt "#30619"
 msgid "Aggressive"
@@ -2571,6 +2571,22 @@ msgstr ""
 
 msgctxt "#30653"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"
+msgstr ""
+
+msgctxt "#30654"
+msgid "Compatibility Settings"
+msgstr ""
+
+msgctxt "#30655"
+msgid "Apply compatibility settings per game and per setting. Disable to allow user-selected settings to override them."
+msgstr ""
+
+msgctxt "#30656"
+msgid "Enabled (Recommended)"
+msgstr ""
+
+msgctxt "#30657"
+msgid "Disabled (Allow Overrides)"
 msgstr ""
 
 #~ msgctxt "#30000"

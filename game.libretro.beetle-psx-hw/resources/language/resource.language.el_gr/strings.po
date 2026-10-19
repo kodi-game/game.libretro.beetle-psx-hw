@@ -71,7 +71,7 @@ msgstr ""
 
 msgctxt "#30019"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Ευαισθησία Ποντικιού"
 
 msgctxt "#30020"
 msgid "neGcon Twist Response"
@@ -267,7 +267,7 @@ msgstr ""
 
 msgctxt "#30077"
 msgid "System"
-msgstr ""
+msgstr "Σύστημα"
 
 msgctxt "#30078"
 msgid "Change system and overclocking options."
@@ -659,7 +659,7 @@ msgstr ""
 
 msgctxt "#30175"
 msgid "Auto"
-msgstr ""
+msgstr "Αυτόματο"
 
 msgctxt "#30176"
 msgid "NTSC-J (Japan)"
@@ -675,7 +675,7 @@ msgstr ""
 
 msgctxt "#30179"
 msgid "Video"
-msgstr ""
+msgstr "Οδηγός Βίντεο"
 
 msgctxt "#30180"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
@@ -911,7 +911,7 @@ msgstr ""
 
 msgctxt "#30238"
 msgid "Nearest"
-msgstr ""
+msgstr "Κοντινότερο"
 
 msgctxt "#30239"
 msgid "Bilinear"
@@ -1703,7 +1703,7 @@ msgstr ""
 
 msgctxt "#30436"
 msgid "239 (Default)"
-msgstr ""
+msgstr "239 (Προεπιλογή)"
 
 msgctxt "#30437"
 msgid "210"
@@ -1831,7 +1831,7 @@ msgstr ""
 
 msgctxt "#30468"
 msgid "287 (Default)"
-msgstr ""
+msgstr "287 (Προεπιλογή)"
 
 msgctxt "#30469"
 msgid "239"
@@ -2067,7 +2067,7 @@ msgstr ""
 
 msgctxt "#30527"
 msgid "On-Screen Display"
-msgstr ""
+msgstr "Οθόνη Απεικόνισης"
 
 msgctxt "#30528"
 msgid "Change notifications being shown on-screen."
@@ -2087,7 +2087,7 @@ msgstr ""
 
 msgctxt "#30532"
 msgid "Input"
-msgstr ""
+msgstr "Οδηγός Εισαγωγής"
 
 msgctxt "#30533"
 msgid "Change light gun, mouse and neGcon settings."
@@ -2219,15 +2219,15 @@ msgstr ""
 
 msgctxt "#30565"
 msgid "Red"
-msgstr ""
+msgstr "Κόκκινο"
 
 msgctxt "#30566"
 msgid "Blue"
-msgstr ""
+msgstr "Μπλε"
 
 msgctxt "#30567"
 msgid "Green"
-msgstr ""
+msgstr "Πράσινο"
 
 msgctxt "#30568"
 msgid "Orange"
@@ -2235,7 +2235,7 @@ msgstr ""
 
 msgctxt "#30569"
 msgid "Yellow"
-msgstr ""
+msgstr "Κίτρινο"
 
 msgctxt "#30570"
 msgid "Cyan"
@@ -2271,7 +2271,7 @@ msgstr ""
 
 msgctxt "#30578"
 msgid "Linear"
-msgstr ""
+msgstr "Γραμμικός"
 
 msgctxt "#30579"
 msgid "Quadratic"
@@ -2431,7 +2431,7 @@ msgstr ""
 
 msgctxt "#30618"
 msgid "Default"
-msgstr ""
+msgstr "Προκαθορισμένο"
 
 msgctxt "#30619"
 msgid "Aggressive"
@@ -2571,4 +2571,20 @@ msgstr ""
 
 msgctxt "#30653"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"
+msgstr ""
+
+msgctxt "#30654"
+msgid "Compatibility Settings"
+msgstr ""
+
+msgctxt "#30655"
+msgid "Apply compatibility settings per game and per setting. Disable to allow user-selected settings to override them."
+msgstr ""
+
+msgctxt "#30656"
+msgid "Enabled (Recommended)"
+msgstr ""
+
+msgctxt "#30657"
+msgid "Disabled (Allow Overrides)"
 msgstr ""

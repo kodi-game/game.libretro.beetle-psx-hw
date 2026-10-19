@@ -267,7 +267,7 @@ msgstr ""
 
 msgctxt "#30077"
 msgid "System"
-msgstr ""
+msgstr "سیستم"
 
 msgctxt "#30078"
 msgid "Change system and overclocking options."
@@ -659,7 +659,7 @@ msgstr ""
 
 msgctxt "#30175"
 msgid "Auto"
-msgstr ""
+msgstr "خودکار"
 
 msgctxt "#30176"
 msgid "NTSC-J (Japan)"
@@ -675,7 +675,7 @@ msgstr ""
 
 msgctxt "#30179"
 msgid "Video"
-msgstr ""
+msgstr "ویدیو"
 
 msgctxt "#30180"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
@@ -2067,7 +2067,7 @@ msgstr ""
 
 msgctxt "#30527"
 msgid "On-Screen Display"
-msgstr ""
+msgstr "نمایش روی صفحه"
 
 msgctxt "#30528"
 msgid "Change notifications being shown on-screen."
@@ -2087,7 +2087,7 @@ msgstr ""
 
 msgctxt "#30532"
 msgid "Input"
-msgstr ""
+msgstr "داده"
 
 msgctxt "#30533"
 msgid "Change light gun, mouse and neGcon settings."
@@ -2571,4 +2571,20 @@ msgstr ""
 
 msgctxt "#30653"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"
+msgstr ""
+
+msgctxt "#30654"
+msgid "Compatibility Settings"
+msgstr ""
+
+msgctxt "#30655"
+msgid "Apply compatibility settings per game and per setting. Disable to allow user-selected settings to override them."
+msgstr ""
+
+msgctxt "#30656"
+msgid "Enabled (Recommended)"
+msgstr ""
+
+msgctxt "#30657"
+msgid "Disabled (Allow Overrides)"
 msgstr ""

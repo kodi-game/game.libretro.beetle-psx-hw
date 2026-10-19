@@ -27,183 +27,183 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Internal GPU Resolution"
-msgstr ""
+msgstr "Dahili GPU Çözünürlüğü"
 
 msgctxt "#30002"
 msgid "Internal Color Depth"
-msgstr ""
+msgstr "Dahili Renk Derinliği"
 
 msgctxt "#30003"
 msgid "Dithering Pattern"
-msgstr ""
+msgstr "Titreşim Kalıbı"
 
 msgctxt "#30004"
 msgid "Texture Filtering"
-msgstr ""
+msgstr "Doku Filtreleme"
 
 msgctxt "#30007"
 msgid "Display Internal FPS"
-msgstr ""
+msgstr "Dahili FPS'yi Görüntüle"
 
 msgctxt "#30008"
 msgid "Display Full VRAM (Debug)"
-msgstr ""
+msgstr "Tam VRAM Görüntüle (Hata Ayıklama)"
 
 msgctxt "#30009"
 msgid "Analog Self-Calibration"
-msgstr ""
+msgstr "Analog Otomatik Kalibrasyon"
 
 msgctxt "#30011"
 msgid "DualShock Analog Mode Combo"
-msgstr ""
+msgstr "DualShock Analog Mod Kombinasyonu"
 
 msgctxt "#30012"
 msgid "DualShock Analog Mode Combo Hold Delay"
-msgstr ""
+msgstr "DualShock Analog Mod Kombinasyonu Basma Gecikmesi"
 
 msgctxt "#30015"
 msgid "Gun Input Mode"
-msgstr ""
+msgstr "Tabanca Girdi Kipi"
 
 msgctxt "#30016"
 msgid "Gun Cursor"
-msgstr ""
+msgstr "Silah İmleci"
 
 msgctxt "#30019"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Fare Hassasiyeti"
 
 msgctxt "#30020"
 msgid "neGcon Twist Response"
-msgstr ""
+msgstr "neGcon Büküm Tepkisi"
 
 msgctxt "#30021"
 msgid "neGcon Twist Deadzone"
-msgstr ""
+msgstr "neGcon Büküm Ölü Bölge"
 
 msgctxt "#30027"
 msgid "PGXP Operation Mode"
-msgstr ""
+msgstr "PGXP Çalışma Kipi"
 
 msgctxt "#30028"
 msgid "PGXP 2D Geometry Tolerance"
-msgstr ""
+msgstr "PGXP 2D Geometri Toleransı"
 
 msgctxt "#30029"
 msgid "PGXP Primitive Culling"
-msgstr ""
+msgstr "PGXP Eskiliği Kaldır"
 
 msgctxt "#30030"
 msgid "PGXP Vertex Cache"
-msgstr ""
+msgstr "PGXP Köşe Önbelleği"
 
 msgctxt "#30031"
 msgid "PGXP Perspective Correct Texturing"
-msgstr ""
+msgstr "PGXP Perspektif Doğru Doku"
 
 msgctxt "#30032"
 msgid "Line-to-Quad Hack"
-msgstr ""
+msgstr "Dörtlü Hat Geliştirmesi"
 
 msgctxt "#30033"
 msgid "Widescreen Mode Hack"
-msgstr ""
+msgstr "Geniş Ekran Geliştirmesi"
 
 msgctxt "#30034"
 msgid "Widescreen Mode Hack Aspect Ratio"
-msgstr ""
+msgstr "Geniş Ekran Kipi Geliştirmesi En Boy Oranı"
 
 msgctxt "#30035"
 msgid "CPU Frequency Scaling (Overclock)"
-msgstr ""
+msgstr "CPU Frekans Ölçeği (Hız Aşırtma)"
 
 msgctxt "#30036"
 msgid "GTE Overclock"
-msgstr ""
+msgstr "GTE Hız Aşırtma"
 
 msgctxt "#30037"
 msgid "Skip BIOS"
-msgstr ""
+msgstr "BIOS'u Atla"
 
 msgctxt "#30040"
 msgid "Software Framebuffer"
-msgstr ""
+msgstr "Yazılım Kare Önbelleği"
 
 msgctxt "#30041"
 msgid "CPU Dynarec"
-msgstr ""
+msgstr "CPU Dinamik Derleyici"
 
 msgctxt "#30042"
 msgid "Dynarec Code Invalidation"
-msgstr ""
+msgstr "Dynarec Kodu Geçerliliği"
 
 msgctxt "#30043"
 msgid "Dynarec DMA/GPU/MDEC/Timer Event Cycles"
-msgstr ""
+msgstr "Dynarec DMA/GPU/MDEC/Zamanlayıcı Olay Döngüleri"
 
 msgctxt "#30044"
 msgid "Dynarec SPU Samples"
-msgstr ""
+msgstr "Dynarec SPU Örnekleri"
 
 msgctxt "#30045"
 msgid "Core-Reported FPS Timing"
-msgstr ""
+msgstr "Çekirdek Raporlu FPS Zamanlaması"
 
 msgctxt "#30047"
 msgid "Crop Overscan"
-msgstr ""
+msgstr "Aşırı Taramayı Kırp"
 
 msgctxt "#30048"
 msgid "Additional Cropping"
-msgstr ""
+msgstr "Ek Kırpma"
 
 msgctxt "#30049"
 msgid "Offset Cropped Image"
-msgstr ""
+msgstr "Merkeze Kırpılmış Görüntü"
 
 msgctxt "#30050"
 msgid "Horizontal Image Offset (GPU Cycles)"
-msgstr ""
+msgstr "Yatay Görüntü Dengesi (GPU Döngüleri)"
 
 msgctxt "#30051"
 msgid "GPU Rasterizer Overclock"
-msgstr ""
+msgstr "GPU Rasterleştirici Hız Aşırtma"
 
 msgctxt "#30052"
 msgid "Core Aspect Ratio"
-msgstr ""
+msgstr "Çekirdek En Boy Oranı"
 
 msgctxt "#30053"
 msgid "Initial Scan Line - NTSC"
-msgstr ""
+msgstr "İlk Tarama Hattı - NTSC"
 
 msgctxt "#30054"
 msgid "Last Scan Line - NTSC"
-msgstr ""
+msgstr "Son Tarama Hattı - NTSC"
 
 msgctxt "#30055"
 msgid "Initial Scan Line - PAL"
-msgstr ""
+msgstr "İlk Tarama Hattı - PAL"
 
 msgctxt "#30056"
 msgid "Last Scan Line - PAL"
-msgstr ""
+msgstr "Son Tarama Hattı - PAL"
 
 msgctxt "#30058"
 msgid "CD Loading Speed"
-msgstr ""
+msgstr "CD Yükleme Hızı"
 
 msgctxt "#30059"
 msgid "DualShock Analog Mode Toggle"
-msgstr ""
+msgstr "DualShock Analog Mod Değiştir"
 
 msgctxt "#30060"
 msgid "Display OSD Messages"
-msgstr ""
+msgstr "OSD Mesajlarını Görüntüle"
 
 msgctxt "#30061"
 msgid "Deinterlace Method"
-msgstr ""
+msgstr "Taramasızlaştırma Yöntemi"
 
 msgctxt "#30062"
 msgid "CD Access Method"
@@ -263,23 +263,23 @@ msgstr ""
 
 msgctxt "#30076"
 msgid "System Region"
-msgstr ""
+msgstr "Sistem Bölgesi"
 
 msgctxt "#30077"
 msgid "System"
-msgstr ""
+msgstr "Sistem"
 
 msgctxt "#30078"
 msgid "Change system and overclocking options."
-msgstr ""
+msgstr "Sistem ve hız aşırtma seçeneklerini değiştirin."
 
 msgctxt "#30079"
 msgid "Overclock (or underclock) the emulated PSX CPU. Overclocking can eliminate slowdown and improve frame rates in certain games at the expense of increased performance requirements. Note that some games have an internal frame rate limiter and may not benefit from overclocking. May cause certain effects to animate faster than intended in some titles when overclocked."
-msgstr ""
+msgstr "Taklit edilmiş PSX CPU hız aşırtma. Hız aşırtma, artan performans gereksinimleri pahasına belirli oyunlarda yavaşlamayı ortadan kaldırabilir ve kare hızlarını iyileştirebilir. Bazı oyunların dahili bir kare hızı sınırlayıcısı olduğunu ve hız aşırtmadan faydalanmayabileceğini unutmayın. Bazı oyunlarda hız aşırtıldığında bazı efektlerin amaçlanandan daha hızlı canlandırılmasına neden olabilir."
 
 msgctxt "#30080"
 msgid "100% (Native)"
-msgstr ""
+msgstr "%100 (Doğal)"
 
 msgctxt "#30081"
 msgid "50%"
@@ -563,11 +563,11 @@ msgstr ""
 
 msgctxt "#30151"
 msgid "Enable overclocking of the 2D rasterizer contained within the emulated PSX's GPU. Does not improve 3D rendering, and in general has little effect."
-msgstr ""
+msgstr "Taklit edilmiş PSX GPU üstünde bulunan 2D rasterleştiricinin hız aşırtmasını etkinleştirin. 3B oluşturmayı iyileştirmez ve genel olarak çok az etkisi vardır."
 
 msgctxt "#30152"
 msgid "1x (Native)"
-msgstr ""
+msgstr "1x (Doğal)"
 
 msgctxt "#30153"
 msgid "2x"
@@ -591,7 +591,7 @@ msgstr ""
 
 msgctxt "#30158"
 msgid "Lower all emulated GTE (CPU coprocessor for 3D graphics) operations to a constant one-cycle latency. For games that make heavy use of the GTE, this can greatly improve frame rate and frame time stability."
-msgstr ""
+msgstr "Tüm taklit edilmiş GTE (3D grafikler için CPU yardımcı işlemcisi) işlemlerini sabit bir döngü gecikmesine indirin. GTE yoğun olarak kullanan oyunlar için bu kare hızını ve kare süresi kararlılığını büyük ölçüde iyileştirebilir."
 
 msgctxt "#30159"
 msgid "'Synchronous' mimics original hardware. 'Asynchronous' can reduce stuttering on devices with slow storage. 'Pre-Cache' loads the entire disk image into memory when launching content, which may improve in-game loading times at the cost of an initial delay at startup. 'Pre-Cache' may cause issues on systems with low RAM, and will fall back to 'Synchronous' for physical media. Restart required."
@@ -599,15 +599,15 @@ msgstr ""
 
 msgctxt "#30160"
 msgid "Synchronous"
-msgstr ""
+msgstr "Eşzamanlı"
 
 msgctxt "#30161"
 msgid "Asynchronous"
-msgstr ""
+msgstr "Eşzamansız"
 
 msgctxt "#30162"
 msgid "Pre-Cache"
-msgstr ""
+msgstr "Önbellek"
 
 msgctxt "#30163"
 msgid "Values higher than '2x (Native)' can greatly reduce in-game loading times, but may introduce timing errors. Some games may not function properly above a certain value."
@@ -615,7 +615,7 @@ msgstr ""
 
 msgctxt "#30164"
 msgid "2x (Native)"
-msgstr ""
+msgstr "2x (Doğal)"
 
 msgctxt "#30165"
 msgid "6x"
@@ -635,7 +635,7 @@ msgstr ""
 
 msgctxt "#30169"
 msgid "Skip the PlayStation BIOS boot animation normally displayed when loading content. Note: Enabling this causes compatibility issues with a number of games (PAL copy protected games, Saga Frontier, etc.)."
-msgstr ""
+msgstr "İçerik yüklenirken normalde görüntülenen PlayStation BIOS önyükleme animasyonunu atlayın. Not: Bunun etkinleştirilmesi, bazı oyunlarda (PAL kopya korumalı oyunlar, Saga Frontier, vb.) uyumluluk sorunlarına neden olur."
 
 msgctxt "#30170"
 msgid "Override the standard region specific BIOS with a region-free one if found. Restart required."
@@ -659,7 +659,7 @@ msgstr ""
 
 msgctxt "#30175"
 msgid "Auto"
-msgstr ""
+msgstr "Otomatik"
 
 msgctxt "#30176"
 msgid "NTSC-J (Japan)"
@@ -679,7 +679,7 @@ msgstr ""
 
 msgctxt "#30180"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
-msgstr ""
+msgstr "En boy oranını, ekran kırpmayı, video filtresini ve kare atlama ayarlarını değiştirin."
 
 msgctxt "#30181"
 msgid "Resolutions higher than '1x (Native)' improve fidelity of 3D models at the expense of increased performance requirements. 2D elements are generally unaffected by this setting."
@@ -691,19 +691,19 @@ msgstr ""
 
 msgctxt "#30183"
 msgid "Hardware (Auto)"
-msgstr ""
+msgstr "Donanım (Otomatik)"
 
 msgctxt "#30184"
 msgid "Hardware (OpenGL)"
-msgstr ""
+msgstr "Donanım (OpenGL)"
 
 msgctxt "#30185"
 msgid "Software"
-msgstr ""
+msgstr "Yazılım"
 
 msgctxt "#30186"
 msgid "Enable accurate emulation of framebuffer effects (e.g. motion blur, FF7 battle swirl) when using hardware renderers by running a copy of the software renderer at native resolution in the background. If disabled, these operations are omitted (OpenGL) or rendered on the GPU (Vulkan). Disabling can improve performance but may cause severe graphical errors. Leave enabled if unsure."
-msgstr ""
+msgstr "Yazılımsal işleyicinin bir kopyasını arka planda yerel çözünürlükte çalıştırarak, donanım oluşturucuları kullanırken kare önbelleği efektlerinin (ör. hareket bulanıklığı, FF7 battle swirl) doğru taklidini sağlayın. Devre dışı bırakılırsa, bu işlemler atlanır (OpenGL) veya GPU üstünde (Vulkan) oluşturulur. Devre dışı bırakmak performansı artırabilir ama ciddi grafik hatalarına neden olabilir. Emin değilseniz etkin bırakın."
 
 msgctxt "#30187"
 msgid "Color Format"
@@ -891,7 +891,7 @@ msgstr ""
 
 msgctxt "#30233"
 msgid "16 bpp (Native)"
-msgstr ""
+msgstr "16 bpp (Doğal)"
 
 msgctxt "#30234"
 msgid "32 bpp"
@@ -903,7 +903,7 @@ msgstr ""
 
 msgctxt "#30236"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "Dahili Çözünürlük"
 
 msgctxt "#30237"
 msgid "'Nearest' emulates original hardware. 'Bilinear' and '3-Point' are smoothing filters, which reduce pixelation via blurring. 'SABR', 'xBR', and 'JINC2' are upscaling filters that may improve texture fidelity/sharpness at the expense of increased performance requirements. Only supported by the hardware renderers."
@@ -911,11 +911,11 @@ msgstr ""
 
 msgctxt "#30238"
 msgid "Nearest"
-msgstr ""
+msgstr "En Yakın"
 
 msgctxt "#30239"
 msgid "Bilinear"
-msgstr ""
+msgstr "İkili Doğrusal"
 
 msgctxt "#30240"
 msgid "3-Point"
@@ -947,7 +947,7 @@ msgstr ""
 
 msgctxt "#30247"
 msgid "Force Interlaced Rate"
-msgstr ""
+msgstr "Geçişli Oran Zorla"
 
 msgctxt "#30248"
 msgid "'Weave' shows both fields on the same frame for full high resolution still image, 'Bob' sacrificies resolution clarity for motion clarity. 'Bob (Offset)' is Bob with the current field doubled into the full surface height with a one-line offset between fields, preserving the libretro output resolution while keeping Bob-style smooth motion. 'FastMAD (Motion Adaptive)' weaves still pixels and vertically-interpolates moving pixels per-pixel, full output height with neither weave's comb on motion nor bob's halved resolution. 'Off' makes the software renderer match the hardware (Vulkan/OpenGL) renderer behaviour by rasterising to all VRAM lines every frame and deferring scanout to the end of the frame, eliminating comb-on-motion in interlaced games. Note: programs that DMA to VRAM during scanout (some demos using >512-line PAL framebuffer-wrap tricks), or that update moving sprites via CPU-to-VRAM image transfers tied to the displayed field (e.g. Pro Pinball), may show stale rows or sprite ghosting under 'Off'; use 'Weave', 'Bob', 'Bob (Offset)', or 'FastMAD' for those."
@@ -983,19 +983,19 @@ msgstr ""
 
 msgctxt "#30256"
 msgid "Corrected"
-msgstr ""
+msgstr "Düzeltilmiş"
 
 msgctxt "#30257"
 msgid "Uncorrected"
-msgstr ""
+msgstr "Düzeltilmemiş"
 
 msgctxt "#30258"
 msgid "Force 4:3"
-msgstr ""
+msgstr "4:3 İçin Zorla"
 
 msgctxt "#30259"
 msgid "Force NTSC"
-msgstr ""
+msgstr "NTSC İçin Zorla"
 
 msgctxt "#30260"
 msgid "Force 16:9"
@@ -1011,7 +1011,7 @@ msgstr ""
 
 msgctxt "#30263"
 msgid "Horizontal"
-msgstr ""
+msgstr "Yatay"
 
 msgctxt "#30264"
 msgid "Horizontal + Vertical"
@@ -1535,7 +1535,7 @@ msgstr ""
 
 msgctxt "#30394"
 msgid "0 (Default)"
-msgstr ""
+msgstr "0 (Varsayılan)"
 
 msgctxt "#30395"
 msgid "1"
@@ -1703,7 +1703,7 @@ msgstr ""
 
 msgctxt "#30436"
 msgid "239 (Default)"
-msgstr ""
+msgstr "239 (Varsayılan)"
 
 msgctxt "#30437"
 msgid "210"
@@ -1831,7 +1831,7 @@ msgstr ""
 
 msgctxt "#30468"
 msgid "287 (Default)"
-msgstr ""
+msgstr "287 (Varsayılan)"
 
 msgctxt "#30469"
 msgid "239"
@@ -2027,11 +2027,11 @@ msgstr ""
 
 msgctxt "#30517"
 msgid "PGXP (Precision Geometry Transform Pipeline)"
-msgstr ""
+msgstr "PGXP (Hassas Geometri Dönüşüm Hattı)"
 
 msgctxt "#30518"
 msgid "These options control enhancements which can improve graphics compared to the original console. PGXP can get rid of warping textures and Z-fighting issues."
-msgstr ""
+msgstr "Bu seçenekler, orijinal konsola kıyasla grafikleri iyileştirebilecek geliştirmeleri kontrol eder. PGXP, çarpık dokulardan ve Z-fighting sorunlarından kurtulabilir."
 
 msgctxt "#30519"
 msgid "Render 3D objects with subpixel precision, minimizing distortion and jitter of 3D objects seen on original hardware due to the usage of fixed point vertex coordinates. 'Memory Only' mode has minimal compatibility issues and is recommended for general use. 'Memory + CPU (Buggy)' mode can reduce jitter even further but has high performance requirements and may cause various geometry errors."
@@ -2039,15 +2039,15 @@ msgstr ""
 
 msgctxt "#30520"
 msgid "Memory Only"
-msgstr ""
+msgstr "Yalnızca Bellek"
 
 msgctxt "#30521"
 msgid "Memory + CPU (Buggy)"
-msgstr ""
+msgstr "Bellek + Çip (Buggy)"
 
 msgctxt "#30522"
 msgid "Hide more glaring errors in PGXP operations: the value specifies the tolerance in which PGXP values will be kept in case of geometries without proper depth information."
-msgstr ""
+msgstr "PGXP işlemlerinde daha fazla göze çarpan hataları gizleyin: değer, uygun derinlik bilgisi olmayan geometriler olması durumunda PGXP değerlerinin tutulacağı toleransı belirtir."
 
 msgctxt "#30523"
 msgid "0px"
@@ -2055,11 +2055,11 @@ msgstr ""
 
 msgctxt "#30524"
 msgid "Use PGXP's NCLIP implementation. Improves appearance by reducing holes in geometries with PGXP coordinates. Known to cause some games to lock up in various circumstances."
-msgstr ""
+msgstr "PGXP NCLIP uygulamasını kullanın. PGXP koordinatlarıyla geometrilerdeki delikleri azaltarak görünümü iyileştirir. Bazı oyunların çeşitli durumlarda kilitlenmesine neden olduğu bilinmektedir."
 
 msgctxt "#30525"
 msgid "Cache PGXP-enhanced vertex positions for re-use across polygon draws. Can potentially improve object alignment and reduce visible seams when rendering textures, but false positives when querying the cache may produce graphical glitches. It is currently recommended to leave this option disabled. This option is applied only when PGXP Operation Mode is enabled. Only supported by the hardware renderers."
-msgstr ""
+msgstr "Çokgen çizimlerinde yeniden kullanım için PGXP ile geliştirilmiş köşe konumlarını önbelleğe alın. Dokuları işlerken potansiyel olarak nesne hizalamasını iyileştirebilir ve görünür tırtıkları azaltabilir, ancak önbelleği sorgularken yanlış pozitifler grafik arızalarına neden olabilir. Şu anda bu seçeneği devre dışı bırakmanız önerilir. Bu seçenek yalnızca PGXP Çalışma Kipi etkinleştirildiğinde uygulanır. Yalnızca donanım işleyiciler tarafından desteklenir."
 
 msgctxt "#30526"
 msgid "Replace native PSX affine texture mapping with perspective correct texture mapping. Eliminates position-dependent distortion and warping of textures, resulting in properly aligned textures. This option is applied only when PGXP Operation Mode is enabled. Supported by the hardware renderers and the software renderer."
@@ -2067,31 +2067,31 @@ msgstr ""
 
 msgctxt "#30527"
 msgid "On-Screen Display"
-msgstr ""
+msgstr "Ekran Görünümü"
 
 msgctxt "#30528"
 msgid "Change notifications being shown on-screen."
-msgstr ""
+msgstr "Ekranda gösterilen bildimleri değiştir."
 
 msgctxt "#30529"
 msgid "Display the internal frame rate at which the emulated PlayStation system is rendering content. Note: Requires onscreen notifications to be enabled in the libretro frontend."
-msgstr ""
+msgstr "Taklit edilmiş PlayStation sisteminin dahili kare hızını görüntüleyin. Not: Libretro ön ucunda etkinleştirilecek ekran bildirimlerini gerektirir."
 
 msgctxt "#30530"
 msgid "Display OSD messages generated by the core."
-msgstr ""
+msgstr "Çekirdek tarafından oluşturulan OSD mesajlarını görüntüleyin."
 
 msgctxt "#30531"
 msgid "Visualize the entire emulated console's VRAM. Only supported by the OpenGL and Vulkan hardware renderers. Note: This is for debugging purposes, and should normally be disabled."
-msgstr ""
+msgstr "Taklit edilmiş konsolun VRAM miktarının tamamını görselleştirin. Yalnızca OpenGL ve Vulkan donanım işleyicileri tarafından desteklenir. Not: Bu, hata ayıklama amaçlıdır ve normalde devre dışı bırakılmalıdır."
 
 msgctxt "#30532"
 msgid "Input"
-msgstr ""
+msgstr "Girdi"
 
 msgctxt "#30533"
 msgid "Change light gun, mouse and neGcon settings."
-msgstr ""
+msgstr "Hafif silah, fare ve neGcon ayarlarını değiştirin."
 
 msgctxt "#30534"
 msgid "Enable dynamic calibration of analog inputs when the device is set to DualShock, Analog Controller, Analog Joystick, or neGcon. Maximum registered input values are monitored in real time and used to scale analog coordinates passed to the emulator. This should be used for games such as Mega Man Legends 2 that expect larger values than what modern controllers provide. For best results, analog sticks should be rotated at full extent to tune the calibration algorithm each time content is loaded."
@@ -2099,11 +2099,11 @@ msgstr ""
 
 msgctxt "#30535"
 msgid "When the input device type is DualShock, this option allows the emulated DualShock to be toggled between DIGITAL and ANALOG mode like original hardware. Mode can also be toggled by using the selected button combination."
-msgstr ""
+msgstr "Giriş cihazı türü DualShock olduğunda, bu seçenek taklit edilen DualShock'un orijinal donanım gibi DİJİTAL ve ANALOG mod arasında geçiş yapmasına olanak tanır. Mod, seçilen düğme kombinasyonu kullanılarak da değiştirilebilir."
 
 msgctxt "#30536"
 msgid "Default-Analog"
-msgstr ""
+msgstr "Varsayılan-Analog"
 
 msgctxt "#30537"
 msgid "The button combination that will be used to toggle between DIGITAL and ANALOG mode for the emulated DualShock."
@@ -2155,35 +2155,35 @@ msgstr ""
 
 msgctxt "#30549"
 msgid "0 Second Delay"
-msgstr ""
+msgstr "0 Saniye Gecikme"
 
 msgctxt "#30550"
 msgid "1 Second Delay"
-msgstr ""
+msgstr "1 Saniye Gecikme"
 
 msgctxt "#30551"
 msgid "2 Second Delay"
-msgstr ""
+msgstr "2 Saniye Gecikme"
 
 msgctxt "#30552"
 msgid "3 Second Delay"
-msgstr ""
+msgstr "3 Saniye Gecikme"
 
 msgctxt "#30553"
 msgid "4 Second Delay"
-msgstr ""
+msgstr "4 Saniye Gecikme"
 
 msgctxt "#30554"
 msgid "5 Second Delay"
-msgstr ""
+msgstr "5 Saniye Gecikme"
 
 msgctxt "#30555"
 msgid "Enable multitap functionality on port 1."
-msgstr ""
+msgstr "Port 1 üstünde multilab işlevini etkinleştirin."
 
 msgctxt "#30556"
 msgid "Enable multitap functionality on port 2."
-msgstr ""
+msgstr "Port 2 üstünde multilab işlevini etkinleştirin."
 
 msgctxt "#30557"
 msgid "Use mouse-controlled 'Light Gun' or 'Touchscreen' input when device type is set to 'Guncon/G-Con 45' or 'Justifier'."
@@ -2195,7 +2195,7 @@ msgstr ""
 
 msgctxt "#30559"
 msgid "Touchscreen"
-msgstr ""
+msgstr "Dokunmatik Ekran"
 
 msgctxt "#30560"
 msgid "Draw a cursor on screen while using the 'Guncon/G-Con 45' and 'Justifier' input device types."
@@ -2207,11 +2207,11 @@ msgstr ""
 
 msgctxt "#30562"
 msgid "Cross"
-msgstr ""
+msgstr "Çarpı"
 
 msgctxt "#30563"
 msgid "Dot"
-msgstr ""
+msgstr "Nokta"
 
 msgctxt "#30564"
 msgid "Light gun crosshair color for port 1."
@@ -2219,43 +2219,43 @@ msgstr ""
 
 msgctxt "#30565"
 msgid "Red"
-msgstr ""
+msgstr "Kırmızı"
 
 msgctxt "#30566"
 msgid "Blue"
-msgstr ""
+msgstr "Mavi"
 
 msgctxt "#30567"
 msgid "Green"
-msgstr ""
+msgstr "Yeşil"
 
 msgctxt "#30568"
 msgid "Orange"
-msgstr ""
+msgstr "Turuncu"
 
 msgctxt "#30569"
 msgid "Yellow"
-msgstr ""
+msgstr "Sarı"
 
 msgctxt "#30570"
 msgid "Cyan"
-msgstr ""
+msgstr "Camgöbeği"
 
 msgctxt "#30571"
 msgid "Pink"
-msgstr ""
+msgstr "Pembe"
 
 msgctxt "#30572"
 msgid "Purple"
-msgstr ""
+msgstr "Mor"
 
 msgctxt "#30573"
 msgid "Black"
-msgstr ""
+msgstr "Siyah"
 
 msgctxt "#30574"
 msgid "White"
-msgstr ""
+msgstr "Beyaz"
 
 msgctxt "#30575"
 msgid "Light gun crosshair color for port 2."
@@ -2271,15 +2271,15 @@ msgstr ""
 
 msgctxt "#30578"
 msgid "Linear"
-msgstr ""
+msgstr "Doğrusal"
 
 msgctxt "#30579"
 msgid "Quadratic"
-msgstr ""
+msgstr "Karesel"
 
 msgctxt "#30580"
 msgid "Cubic"
-msgstr ""
+msgstr "Kübik"
 
 msgctxt "#30581"
 msgid "Left analog stick deadzone when simulating the 'twist' action of emulated 'neGcon' input devices. Used to eliminate controller drift. Note: Most neGcon-compatible titles provide in-game options for setting a 'twist' deadzone value. To avoid loss of precision, the in-game deadzone should *always* be set to zero. Any required adjustments should *only* be applied via this core option. This is particularly important when 'neGcon Twist Response' is set to 'Quadratic' or 'Cubic'."
@@ -2287,11 +2287,11 @@ msgstr ""
 
 msgctxt "#30582"
 msgid "Memory Card"
-msgstr ""
+msgstr "Bellek Kartı"
 
 msgctxt "#30583"
 msgid "Change virtual memory card related settings."
-msgstr ""
+msgstr "Sanal hafıza kartıyla ilgili ayarları değiştirin."
 
 msgctxt "#30584"
 msgid "Save data format used for the left memory card slot. 'Mednafen' may be used for compatibility with the stand-alone version of Mednafen. When used with Beetle PSX, Libretro (.srm) and Mednafen (.mcr) saves have internally identical formats and can be converted between one another via renaming. Restart required."
@@ -2415,15 +2415,15 @@ msgstr ""
 
 msgctxt "#30614"
 msgid "1 (Default)"
-msgstr ""
+msgstr "1 (Varsayılan)"
 
 msgctxt "#30615"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Emülatör Geliştirmeleri"
 
 msgctxt "#30616"
 msgid "Change emulation accuracy settings affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Emülatör doğruluğu ayarlarını değiştirmek düşük seviyeli performans ve uyumluluk sorunu çıkarabilir."
 
 msgctxt "#30617"
 msgid "Some games (e.g. Doom, Hexen, Soul Blade, etc.) draw horizontal lines by stretching single-pixel-high triangles across the screen, which are rasterized as a row of pixels on original hardware. This hack detects these small triangles and converts them to quads as required, allowing them to be displayed properly on the hardware renderers and at upscaled internal resolutions. 'Aggressive' is required for some titles (e.g. Dark Forces, Duke Nukem) but may otherwise introduce graphical glitches. Leave at 'Default' if unsure."
@@ -2431,15 +2431,15 @@ msgstr ""
 
 msgctxt "#30618"
 msgid "Default"
-msgstr ""
+msgstr "Varsayılan"
 
 msgctxt "#30619"
 msgid "Aggressive"
-msgstr ""
+msgstr "Agresif"
 
 msgctxt "#30620"
 msgid "Render 3D content anamorphically and output the emulated framebuffer at a widescreen aspect ratio. Produces best results with fully 3D games. 2D elements will be horizontally stretched and may be misaligned."
-msgstr ""
+msgstr "3D içeriği anamorfik olarak işleyin ve taklit edilmiş çerçeve arabelleğini geniş ekran en boy oranında yükseltin. 3D oyunlarla en iyi sonuçları üretir. 2D ögeler yatay olarak gerilecek ve yanlış hizalanmış olabilir."
 
 msgctxt "#30621"
 msgid "Aspect ratio to be used by the Widescreen Mode Hack."
@@ -2455,15 +2455,15 @@ msgstr ""
 
 msgctxt "#30624"
 msgid "Dynamically recompile CPU instructions to native instructions. Much faster than interpreter, but CPU timing is less accurate, and may have bugs."
-msgstr ""
+msgstr "CPU talimatlarını yerel talimatlara dinamik olarak yeniden derleyin. Yorumlayıcıdan çok daha hızlıdır, ancak CPU zamanlaması daha az doğrudur ve hataları olabilir."
 
 msgctxt "#30625"
 msgid "Disabled (Beetle Interpreter)"
-msgstr ""
+msgstr "Kapalı (Beetle Interpreter)"
 
 msgctxt "#30626"
 msgid "Max Performance"
-msgstr ""
+msgstr "Azami Performans"
 
 msgctxt "#30627"
 msgid "Lightrec Interpreter"
@@ -2471,15 +2471,15 @@ msgstr ""
 
 msgctxt "#30628"
 msgid "Some games require 'Full' invalidation, some require 'DMA Only'."
-msgstr ""
+msgstr "Bazı oyunlar 'Tam' geçersizlik gerektirir, bazıları 'Yalnızca DMA' gerektirir."
 
 msgctxt "#30629"
 msgid "Full"
-msgstr ""
+msgstr "Tam"
 
 msgctxt "#30630"
 msgid "DMA Only (Slightly Faster)"
-msgstr ""
+msgstr "Sadece DMA (Biraz Daha Hızlı)"
 
 msgctxt "#30631"
 msgid "Dynarec Cycles Per Instruction"
@@ -2499,11 +2499,11 @@ msgstr ""
 
 msgctxt "#30635"
 msgid "Max cycles run by CPU before a GPU/DMA/MDEC/Timer Update is checked, higher number will be faster, has much less impact on beetle interpreter than dynarec."
-msgstr ""
+msgstr "Bir GPU/DMA/MDEC/Zamanlayıcı Güncellemesi kontrol edilmeden önce CPU tarafından çalıştırılan en fazla döngü sayısı, daha yüksek sayı daha hızlı olacaktır, beetle derleyiciı üzerinde dynarec için çok daha az etkiye sahiptir."
 
 msgctxt "#30636"
 msgid "128 (Default)"
-msgstr ""
+msgstr "128 (Varsayılan)"
 
 msgctxt "#30637"
 msgid "384"
@@ -2563,7 +2563,7 @@ msgstr ""
 
 msgctxt "#30651"
 msgid "Max SPU samples to run before a SPU Update is checked, higher number will be faster, but will cause sound glitches in some games with anything other than 1."
-msgstr ""
+msgstr "Bir SPU Güncellemesi kontrol edilmeden önce çalıştırılacak en fazla SPU örnekleri, daha yüksek sayı daha hızlı olacaktır, ancak bazı oyunlarda 1'den farklı herhangi bir değerde ses aksaklıklarına neden olacaktır."
 
 msgctxt "#30652"
 msgid "Dynarec SP GP Hit RAM Optimization"
@@ -2571,4 +2571,20 @@ msgstr ""
 
 msgctxt "#30653"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"
+msgstr ""
+
+msgctxt "#30654"
+msgid "Compatibility Settings"
+msgstr ""
+
+msgctxt "#30655"
+msgid "Apply compatibility settings per game and per setting. Disable to allow user-selected settings to override them."
+msgstr ""
+
+msgctxt "#30656"
+msgid "Enabled (Recommended)"
+msgstr ""
+
+msgctxt "#30657"
+msgid "Disabled (Allow Overrides)"
 msgstr ""

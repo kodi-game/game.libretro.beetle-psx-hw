@@ -27,67 +27,67 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Internal GPU Resolution"
-msgstr ""
+msgstr "A GPU belső felbontása"
 
 msgctxt "#30002"
 msgid "Internal Color Depth"
-msgstr ""
+msgstr "Belső színmélység"
 
 msgctxt "#30003"
 msgid "Dithering Pattern"
-msgstr ""
+msgstr "Dithering minta"
 
 msgctxt "#30004"
 msgid "Texture Filtering"
-msgstr ""
+msgstr "Textúraszűrés"
 
 msgctxt "#30007"
 msgid "Display Internal FPS"
-msgstr ""
+msgstr "Belső FPS megjelenítése"
 
 msgctxt "#30008"
 msgid "Display Full VRAM (Debug)"
-msgstr ""
+msgstr "Az egész VRAM megjelenítése (debug)"
 
 msgctxt "#30009"
 msgid "Analog Self-Calibration"
-msgstr ""
+msgstr "Analóg önkalibráció"
 
 msgctxt "#30011"
 msgid "DualShock Analog Mode Combo"
-msgstr ""
+msgstr "DualShock analóg mód gombkombináció"
 
 msgctxt "#30012"
 msgid "DualShock Analog Mode Combo Hold Delay"
-msgstr ""
+msgstr "DualShock analóg mód gombkombináció késleltetés"
 
 msgctxt "#30015"
 msgid "Gun Input Mode"
-msgstr ""
+msgstr "Fénypisztoly bemenet módja"
 
 msgctxt "#30016"
 msgid "Gun Cursor"
-msgstr ""
+msgstr "Fénypisztoly kurzora"
 
 msgctxt "#30019"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Egér érzékenysége"
 
 msgctxt "#30020"
 msgid "neGcon Twist Response"
-msgstr ""
+msgstr "neGcon csavarodás érzékelés"
 
 msgctxt "#30021"
 msgid "neGcon Twist Deadzone"
-msgstr ""
+msgstr "neGcon csavarás holtsávja"
 
 msgctxt "#30027"
 msgid "PGXP Operation Mode"
-msgstr ""
+msgstr "PGXP működési módja"
 
 msgctxt "#30028"
 msgid "PGXP 2D Geometry Tolerance"
-msgstr ""
+msgstr "PGXP 2D geometria tűrés"
 
 msgctxt "#30029"
 msgid "PGXP Primitive Culling"
@@ -95,7 +95,7 @@ msgstr ""
 
 msgctxt "#30030"
 msgid "PGXP Vertex Cache"
-msgstr ""
+msgstr "PGXP vertex gyorsítótár"
 
 msgctxt "#30031"
 msgid "PGXP Perspective Correct Texturing"
@@ -103,31 +103,31 @@ msgstr ""
 
 msgctxt "#30032"
 msgid "Line-to-Quad Hack"
-msgstr ""
+msgstr "Sor-négyes trükk"
 
 msgctxt "#30033"
 msgid "Widescreen Mode Hack"
-msgstr ""
+msgstr "Szélesvásznú trükk"
 
 msgctxt "#30034"
 msgid "Widescreen Mode Hack Aspect Ratio"
-msgstr ""
+msgstr "Szélesvásznú trükk képaránya"
 
 msgctxt "#30035"
 msgid "CPU Frequency Scaling (Overclock)"
-msgstr ""
+msgstr "CPU frekvencia skálázás (túlhajtás)"
 
 msgctxt "#30036"
 msgid "GTE Overclock"
-msgstr ""
+msgstr "GTE túlhajtás"
 
 msgctxt "#30037"
 msgid "Skip BIOS"
-msgstr ""
+msgstr "BIOS átugrása"
 
 msgctxt "#30040"
 msgid "Software Framebuffer"
-msgstr ""
+msgstr "Szoftveres framebuffer"
 
 msgctxt "#30041"
 msgid "CPU Dynarec"
@@ -135,75 +135,75 @@ msgstr ""
 
 msgctxt "#30042"
 msgid "Dynarec Code Invalidation"
-msgstr ""
+msgstr "Dynarec kód érvénytelenítés"
 
 msgctxt "#30043"
 msgid "Dynarec DMA/GPU/MDEC/Timer Event Cycles"
-msgstr ""
+msgstr "Dynarec DMA/GPU/MDEC/időzítő esemény ciklusok"
 
 msgctxt "#30044"
 msgid "Dynarec SPU Samples"
-msgstr ""
+msgstr "Dynarec SPU minták"
 
 msgctxt "#30045"
 msgid "Core-Reported FPS Timing"
-msgstr ""
+msgstr "Mag által jelentett FPS időzítése"
 
 msgctxt "#30047"
 msgid "Crop Overscan"
-msgstr ""
+msgstr "Overscan levágása"
 
 msgctxt "#30048"
 msgid "Additional Cropping"
-msgstr ""
+msgstr "További képvágás"
 
 msgctxt "#30049"
 msgid "Offset Cropped Image"
-msgstr ""
+msgstr "Vágott kép eltolása"
 
 msgctxt "#30050"
 msgid "Horizontal Image Offset (GPU Cycles)"
-msgstr ""
+msgstr "Kép vízszintes eltolása (GPU ciklus)"
 
 msgctxt "#30051"
 msgid "GPU Rasterizer Overclock"
-msgstr ""
+msgstr "GPU rasterizer túlhajtás"
 
 msgctxt "#30052"
 msgid "Core Aspect Ratio"
-msgstr ""
+msgstr "A mag képaránya"
 
 msgctxt "#30053"
 msgid "Initial Scan Line - NTSC"
-msgstr ""
+msgstr "Kezdő scanline - NTSC"
 
 msgctxt "#30054"
 msgid "Last Scan Line - NTSC"
-msgstr ""
+msgstr "Utolsó scanline - NTSC"
 
 msgctxt "#30055"
 msgid "Initial Scan Line - PAL"
-msgstr ""
+msgstr "Kezdő scanline - PAL"
 
 msgctxt "#30056"
 msgid "Last Scan Line - PAL"
-msgstr ""
+msgstr "Utolsó scanline - PAL"
 
 msgctxt "#30058"
 msgid "CD Loading Speed"
-msgstr ""
+msgstr "CD betöltés sebessége"
 
 msgctxt "#30059"
 msgid "DualShock Analog Mode Toggle"
-msgstr ""
+msgstr "DualShock analóg mód átkapcsolás"
 
 msgctxt "#30060"
 msgid "Display OSD Messages"
-msgstr ""
+msgstr "OSD üzenetek megjelenítése"
 
 msgctxt "#30061"
 msgid "Deinterlace Method"
-msgstr ""
+msgstr "Deinterlace módszer"
 
 msgctxt "#30062"
 msgid "CD Access Method"
@@ -263,11 +263,11 @@ msgstr ""
 
 msgctxt "#30076"
 msgid "System Region"
-msgstr ""
+msgstr "Régió"
 
 msgctxt "#30077"
 msgid "System"
-msgstr ""
+msgstr "Rendszer"
 
 msgctxt "#30078"
 msgid "Change system and overclocking options."
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "#30079"
 msgid "Overclock (or underclock) the emulated PSX CPU. Overclocking can eliminate slowdown and improve frame rates in certain games at the expense of increased performance requirements. Note that some games have an internal frame rate limiter and may not benefit from overclocking. May cause certain effects to animate faster than intended in some titles when overclocked."
-msgstr ""
+msgstr "Az emulált PSX CPU túlhajtása (vagy alulhajtása). A túlhajtás megszüntetheti a lelassulást és bizonyos játékoknál javíthatja a képsebességet, nagyobb teljesítményigény árán. Figyelem, néhány játékban beépített képsebesség korlátozás van, ezeken nem segít a túlhajtás. Túlhajtásnál bizonyos effektek néhány játékban a kívántnál gyorsabban mozoghatnak."
 
 msgctxt "#30080"
 msgid "100% (Native)"
@@ -563,11 +563,11 @@ msgstr ""
 
 msgctxt "#30151"
 msgid "Enable overclocking of the 2D rasterizer contained within the emulated PSX's GPU. Does not improve 3D rendering, and in general has little effect."
-msgstr ""
+msgstr "Az emulált PSX GPU-jához tartozó 2D rasterizer túlhajtása. A 3D megjelenítést nem javítja, és általánosságban kevés hatása van."
 
 msgctxt "#30152"
 msgid "1x (Native)"
-msgstr ""
+msgstr "1x (eredeti)"
 
 msgctxt "#30153"
 msgid "2x"
@@ -591,7 +591,7 @@ msgstr ""
 
 msgctxt "#30158"
 msgid "Lower all emulated GTE (CPU coprocessor for 3D graphics) operations to a constant one-cycle latency. For games that make heavy use of the GTE, this can greatly improve frame rate and frame time stability."
-msgstr ""
+msgstr "Az emulált GTE (a CPU 3D coprocesszora) minden művelete fix késleltetés, egy órajelciklus alatt végbemegy. Ha a játék intenzíven használja a GTE-t, ez nagyban segít a képkockasebességen és a képkocka idejének stabilitásán."
 
 msgctxt "#30159"
 msgid "'Synchronous' mimics original hardware. 'Asynchronous' can reduce stuttering on devices with slow storage. 'Pre-Cache' loads the entire disk image into memory when launching content, which may improve in-game loading times at the cost of an initial delay at startup. 'Pre-Cache' may cause issues on systems with low RAM, and will fall back to 'Synchronous' for physical media. Restart required."
@@ -599,15 +599,15 @@ msgstr ""
 
 msgctxt "#30160"
 msgid "Synchronous"
-msgstr ""
+msgstr "Szinkron"
 
 msgctxt "#30161"
 msgid "Asynchronous"
-msgstr ""
+msgstr "Aszinkron"
 
 msgctxt "#30162"
 msgid "Pre-Cache"
-msgstr ""
+msgstr "Előre beolvasott"
 
 msgctxt "#30163"
 msgid "Values higher than '2x (Native)' can greatly reduce in-game loading times, but may introduce timing errors. Some games may not function properly above a certain value."
@@ -615,7 +615,7 @@ msgstr ""
 
 msgctxt "#30164"
 msgid "2x (Native)"
-msgstr ""
+msgstr "2x (eredeti)"
 
 msgctxt "#30165"
 msgid "6x"
@@ -635,7 +635,7 @@ msgstr ""
 
 msgctxt "#30169"
 msgid "Skip the PlayStation BIOS boot animation normally displayed when loading content. Note: Enabling this causes compatibility issues with a number of games (PAL copy protected games, Saga Frontier, etc.)."
-msgstr ""
+msgstr "A PlayStation BIOS indító animáció kihagyása, ami normál esetben megjelenik tartalom betöltésekor. Figyelem: kompatibilitási gondokat okozhat számos játéknál (PAL másolásvédett játékok, Saga Frontier, stb.)."
 
 msgctxt "#30170"
 msgid "Override the standard region specific BIOS with a region-free one if found. Restart required."
@@ -659,7 +659,7 @@ msgstr ""
 
 msgctxt "#30175"
 msgid "Auto"
-msgstr ""
+msgstr "Automatikus"
 
 msgctxt "#30176"
 msgid "NTSC-J (Japan)"
@@ -675,11 +675,11 @@ msgstr ""
 
 msgctxt "#30179"
 msgid "Video"
-msgstr ""
+msgstr "Kép"
 
 msgctxt "#30180"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
-msgstr ""
+msgstr "A képarány, képvágás, videoszűrő és képkocka kihagyás beállításai."
 
 msgctxt "#30181"
 msgid "Resolutions higher than '1x (Native)' improve fidelity of 3D models at the expense of increased performance requirements. 2D elements are generally unaffected by this setting."
@@ -691,19 +691,19 @@ msgstr ""
 
 msgctxt "#30183"
 msgid "Hardware (Auto)"
-msgstr ""
+msgstr "Hardveres (automatikus)"
 
 msgctxt "#30184"
 msgid "Hardware (OpenGL)"
-msgstr ""
+msgstr "Hardveres (OpenGL)"
 
 msgctxt "#30185"
 msgid "Software"
-msgstr ""
+msgstr "Szoftveres"
 
 msgctxt "#30186"
 msgid "Enable accurate emulation of framebuffer effects (e.g. motion blur, FF7 battle swirl) when using hardware renderers by running a copy of the software renderer at native resolution in the background. If disabled, these operations are omitted (OpenGL) or rendered on the GPU (Vulkan). Disabling can improve performance but may cause severe graphical errors. Leave enabled if unsure."
-msgstr ""
+msgstr "A framebuffer effektek (mozgási elmosódás, FF7 csata örvény) pontos emulálása hardveres megjelenítőknél is, egy normál felbontású szoftveres megjelenítő futtatásával a háttérben. Kikapcsolva ezek a műveletek elmaradnak (OpenGL) vagy a GPU számolja őket (Vulkan). A kikapcsolás javíthatja a teljesítményt, de súlyos grafikus hibákat okozhat. Kétség esetén maradjon bekapcsolva."
 
 msgctxt "#30187"
 msgid "Color Format"
@@ -891,7 +891,7 @@ msgstr ""
 
 msgctxt "#30233"
 msgid "16 bpp (Native)"
-msgstr ""
+msgstr "16 bpp (eredeti)"
 
 msgctxt "#30234"
 msgid "32 bpp"
@@ -903,7 +903,7 @@ msgstr ""
 
 msgctxt "#30236"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "Belső felbontás"
 
 msgctxt "#30237"
 msgid "'Nearest' emulates original hardware. 'Bilinear' and '3-Point' are smoothing filters, which reduce pixelation via blurring. 'SABR', 'xBR', and 'JINC2' are upscaling filters that may improve texture fidelity/sharpness at the expense of increased performance requirements. Only supported by the hardware renderers."
@@ -911,15 +911,15 @@ msgstr ""
 
 msgctxt "#30238"
 msgid "Nearest"
-msgstr ""
+msgstr "Legközelebbi"
 
 msgctxt "#30239"
 msgid "Bilinear"
-msgstr ""
+msgstr "Bilineáris"
 
 msgctxt "#30240"
 msgid "3-Point"
-msgstr ""
+msgstr "Hárompontos"
 
 msgctxt "#30241"
 msgid "SABR"
@@ -947,7 +947,7 @@ msgstr ""
 
 msgctxt "#30247"
 msgid "Force Interlaced Rate"
-msgstr ""
+msgstr "Mindenképpen interlaced"
 
 msgctxt "#30248"
 msgid "'Weave' shows both fields on the same frame for full high resolution still image, 'Bob' sacrificies resolution clarity for motion clarity. 'Bob (Offset)' is Bob with the current field doubled into the full surface height with a one-line offset between fields, preserving the libretro output resolution while keeping Bob-style smooth motion. 'FastMAD (Motion Adaptive)' weaves still pixels and vertically-interpolates moving pixels per-pixel, full output height with neither weave's comb on motion nor bob's halved resolution. 'Off' makes the software renderer match the hardware (Vulkan/OpenGL) renderer behaviour by rasterising to all VRAM lines every frame and deferring scanout to the end of the frame, eliminating comb-on-motion in interlaced games. Note: programs that DMA to VRAM during scanout (some demos using >512-line PAL framebuffer-wrap tricks), or that update moving sprites via CPU-to-VRAM image transfers tied to the displayed field (e.g. Pro Pinball), may show stale rows or sprite ghosting under 'Off'; use 'Weave', 'Bob', 'Bob (Offset)', or 'FastMAD' for those."
@@ -955,7 +955,7 @@ msgstr ""
 
 msgctxt "#30249"
 msgid "Weave"
-msgstr ""
+msgstr "Szövés"
 
 msgctxt "#30250"
 msgid "Bob"
@@ -983,19 +983,19 @@ msgstr ""
 
 msgctxt "#30256"
 msgid "Corrected"
-msgstr ""
+msgstr "Korrigált"
 
 msgctxt "#30257"
 msgid "Uncorrected"
-msgstr ""
+msgstr "Korrigálatlan"
 
 msgctxt "#30258"
 msgid "Force 4:3"
-msgstr ""
+msgstr "Mindenképpen 4:3"
 
 msgctxt "#30259"
 msgid "Force NTSC"
-msgstr ""
+msgstr "Mindenképpen NTSC"
 
 msgctxt "#30260"
 msgid "Force 16:9"
@@ -1011,7 +1011,7 @@ msgstr ""
 
 msgctxt "#30263"
 msgid "Horizontal"
-msgstr ""
+msgstr "Vízszintes"
 
 msgctxt "#30264"
 msgid "Horizontal + Vertical"
@@ -1703,7 +1703,7 @@ msgstr ""
 
 msgctxt "#30436"
 msgid "239 (Default)"
-msgstr ""
+msgstr "239 (alapértelmezett)"
 
 msgctxt "#30437"
 msgid "210"
@@ -1831,7 +1831,7 @@ msgstr ""
 
 msgctxt "#30468"
 msgid "287 (Default)"
-msgstr ""
+msgstr "287 (alapértelmezett)"
 
 msgctxt "#30469"
 msgid "239"
@@ -2027,11 +2027,11 @@ msgstr ""
 
 msgctxt "#30517"
 msgid "PGXP (Precision Geometry Transform Pipeline)"
-msgstr ""
+msgstr "PGXP (precíziós geometria feldolgozó)"
 
 msgctxt "#30518"
 msgid "These options control enhancements which can improve graphics compared to the original console. PGXP can get rid of warping textures and Z-fighting issues."
-msgstr ""
+msgstr "Az eredeti konzolhoz képest grafikai javulást hozó fejlesztések. A PGXP eltüntetheti a görbült textúrákat és a Z-ütközést."
 
 msgctxt "#30519"
 msgid "Render 3D objects with subpixel precision, minimizing distortion and jitter of 3D objects seen on original hardware due to the usage of fixed point vertex coordinates. 'Memory Only' mode has minimal compatibility issues and is recommended for general use. 'Memory + CPU (Buggy)' mode can reduce jitter even further but has high performance requirements and may cause various geometry errors."
@@ -2039,15 +2039,15 @@ msgstr ""
 
 msgctxt "#30520"
 msgid "Memory Only"
-msgstr ""
+msgstr "Csak memóriában"
 
 msgctxt "#30521"
 msgid "Memory + CPU (Buggy)"
-msgstr ""
+msgstr "Memória + CPU (hibás)"
 
 msgctxt "#30522"
 msgid "Hide more glaring errors in PGXP operations: the value specifies the tolerance in which PGXP values will be kept in case of geometries without proper depth information."
-msgstr ""
+msgstr "A PGXP működés feltűnőbb hibáinak elrejtése: az érték azt a tűrést adja meg, amin belül maradnak a PGXP értékek megfelelő mélységi információval nem rendelkező geometriák esetén."
 
 msgctxt "#30523"
 msgid "0px"
@@ -2055,11 +2055,11 @@ msgstr ""
 
 msgctxt "#30524"
 msgid "Use PGXP's NCLIP implementation. Improves appearance by reducing holes in geometries with PGXP coordinates. Known to cause some games to lock up in various circumstances."
-msgstr ""
+msgstr "A PGXP NCLIP implementációjának használata. Javítja a kinézetet azáltal, hogy csökkenti a lukakat PGXP koordinátával rendelkező geometriáknál. Néhány játék esetében ismerten fagyást okoz bizonyos körülmények közt."
 
 msgctxt "#30525"
 msgid "Cache PGXP-enhanced vertex positions for re-use across polygon draws. Can potentially improve object alignment and reduce visible seams when rendering textures, but false positives when querying the cache may produce graphical glitches. It is currently recommended to leave this option disabled. This option is applied only when PGXP Operation Mode is enabled. Only supported by the hardware renderers."
-msgstr ""
+msgstr "A PXGP által javított vertex pozíciók eltárolása és újrahasználata újabb poligonoknál. Javíthatja az objektumok illeszkedését és csökkenti a textúrák illesztési hézagait, de a gyorsítótár fals pozitív találatai grafikai hibákat okozhatnak. Jelenleg ajánlott kikapcsolva hagyni. Csak PGXP műveleti módnál érvényes, és csak a hardveres megjelenítők támogatják."
 
 msgctxt "#30526"
 msgid "Replace native PSX affine texture mapping with perspective correct texture mapping. Eliminates position-dependent distortion and warping of textures, resulting in properly aligned textures. This option is applied only when PGXP Operation Mode is enabled. Supported by the hardware renderers and the software renderer."
@@ -2067,31 +2067,31 @@ msgstr ""
 
 msgctxt "#30527"
 msgid "On-Screen Display"
-msgstr ""
+msgstr "Képernyőn megjelenő elemek (OSD)"
 
 msgctxt "#30528"
 msgid "Change notifications being shown on-screen."
-msgstr ""
+msgstr "A képernyőn megjelenő értesítések beállítása."
 
 msgctxt "#30529"
 msgid "Display the internal frame rate at which the emulated PlayStation system is rendering content. Note: Requires onscreen notifications to be enabled in the libretro frontend."
-msgstr ""
+msgstr "A belső képkockasebesség megjelenítése, amivel az emulált PlayStation rendszer előállítja a képet. Figyelem: a képernyőn megjelenő értesítések be kell legyenek kapcsolva a libretro frontenden."
 
 msgctxt "#30530"
 msgid "Display OSD messages generated by the core."
-msgstr ""
+msgstr "A mag által generált OSD üzenetek megjelenítése."
 
 msgctxt "#30531"
 msgid "Visualize the entire emulated console's VRAM. Only supported by the OpenGL and Vulkan hardware renderers. Note: This is for debugging purposes, and should normally be disabled."
-msgstr ""
+msgstr "Az emulált konzol teljes VRAM tartalmának megjelenítése. Csak az OpenGL és Vulkan hardveres megjelenítők támogatják. Figyelem: ez csak hibakeresési célokat szolgál, és normál esetben ki kell legyen kapcsolva."
 
 msgctxt "#30532"
 msgid "Input"
-msgstr ""
+msgstr "Bevitel"
 
 msgctxt "#30533"
 msgid "Change light gun, mouse and neGcon settings."
-msgstr ""
+msgstr "A fénypisztoly, az egér és a neGcon beállításai."
 
 msgctxt "#30534"
 msgid "Enable dynamic calibration of analog inputs when the device is set to DualShock, Analog Controller, Analog Joystick, or neGcon. Maximum registered input values are monitored in real time and used to scale analog coordinates passed to the emulator. This should be used for games such as Mega Man Legends 2 that expect larger values than what modern controllers provide. For best results, analog sticks should be rotated at full extent to tune the calibration algorithm each time content is loaded."
@@ -2099,11 +2099,11 @@ msgstr ""
 
 msgctxt "#30535"
 msgid "When the input device type is DualShock, this option allows the emulated DualShock to be toggled between DIGITAL and ANALOG mode like original hardware. Mode can also be toggled by using the selected button combination."
-msgstr ""
+msgstr "Ha a bemeneti eszköz típusa DualShock, ez az opció engedélyezi az emulált DualShock átkapcsolását a DIGITAL és ANALOG mód közt, az eredeti hardverhez hűen. A mód a kiválasztott gombkombinációval is átkapcsolható."
 
 msgctxt "#30536"
 msgid "Default-Analog"
-msgstr ""
+msgstr "Alapértelmezett - Analóg"
 
 msgctxt "#30537"
 msgid "The button combination that will be used to toggle between DIGITAL and ANALOG mode for the emulated DualShock."
@@ -2155,35 +2155,35 @@ msgstr ""
 
 msgctxt "#30549"
 msgid "0 Second Delay"
-msgstr ""
+msgstr "0 másodperc"
 
 msgctxt "#30550"
 msgid "1 Second Delay"
-msgstr ""
+msgstr "1 másodperc"
 
 msgctxt "#30551"
 msgid "2 Second Delay"
-msgstr ""
+msgstr "2 másodperc"
 
 msgctxt "#30552"
 msgid "3 Second Delay"
-msgstr ""
+msgstr "3 másodperc"
 
 msgctxt "#30553"
 msgid "4 Second Delay"
-msgstr ""
+msgstr "4 másodperc"
 
 msgctxt "#30554"
 msgid "5 Second Delay"
-msgstr ""
+msgstr "5 másodperc"
 
 msgctxt "#30555"
 msgid "Enable multitap functionality on port 1."
-msgstr ""
+msgstr "A multitap funkció engedélyezése az 1. csatlakozón."
 
 msgctxt "#30556"
 msgid "Enable multitap functionality on port 2."
-msgstr ""
+msgstr "A multitap funkció engedélyezése a 2. csatlakozón."
 
 msgctxt "#30557"
 msgid "Use mouse-controlled 'Light Gun' or 'Touchscreen' input when device type is set to 'Guncon/G-Con 45' or 'Justifier'."
@@ -2191,11 +2191,11 @@ msgstr ""
 
 msgctxt "#30558"
 msgid "Light Gun"
-msgstr ""
+msgstr "Fénypisztoly"
 
 msgctxt "#30559"
 msgid "Touchscreen"
-msgstr ""
+msgstr "Érintőképernyő"
 
 msgctxt "#30560"
 msgid "Draw a cursor on screen while using the 'Guncon/G-Con 45' and 'Justifier' input device types."
@@ -2207,11 +2207,11 @@ msgstr ""
 
 msgctxt "#30562"
 msgid "Cross"
-msgstr ""
+msgstr "Kereszt"
 
 msgctxt "#30563"
 msgid "Dot"
-msgstr ""
+msgstr "Pont"
 
 msgctxt "#30564"
 msgid "Light gun crosshair color for port 1."
@@ -2219,43 +2219,43 @@ msgstr ""
 
 msgctxt "#30565"
 msgid "Red"
-msgstr ""
+msgstr "Vörös"
 
 msgctxt "#30566"
 msgid "Blue"
-msgstr ""
+msgstr "Kék"
 
 msgctxt "#30567"
 msgid "Green"
-msgstr ""
+msgstr "Zöld"
 
 msgctxt "#30568"
 msgid "Orange"
-msgstr ""
+msgstr "Narancssárga"
 
 msgctxt "#30569"
 msgid "Yellow"
-msgstr ""
+msgstr "Sárga"
 
 msgctxt "#30570"
 msgid "Cyan"
-msgstr ""
+msgstr "Ciánkék"
 
 msgctxt "#30571"
 msgid "Pink"
-msgstr ""
+msgstr "Rózsaszín"
 
 msgctxt "#30572"
 msgid "Purple"
-msgstr ""
+msgstr "Lila"
 
 msgctxt "#30573"
 msgid "Black"
-msgstr ""
+msgstr "Fekete"
 
 msgctxt "#30574"
 msgid "White"
-msgstr ""
+msgstr "Fehér"
 
 msgctxt "#30575"
 msgid "Light gun crosshair color for port 2."
@@ -2271,15 +2271,15 @@ msgstr ""
 
 msgctxt "#30578"
 msgid "Linear"
-msgstr ""
+msgstr "Lineáris"
 
 msgctxt "#30579"
 msgid "Quadratic"
-msgstr ""
+msgstr "Négyzetes"
 
 msgctxt "#30580"
 msgid "Cubic"
-msgstr ""
+msgstr "Köbös"
 
 msgctxt "#30581"
 msgid "Left analog stick deadzone when simulating the 'twist' action of emulated 'neGcon' input devices. Used to eliminate controller drift. Note: Most neGcon-compatible titles provide in-game options for setting a 'twist' deadzone value. To avoid loss of precision, the in-game deadzone should *always* be set to zero. Any required adjustments should *only* be applied via this core option. This is particularly important when 'neGcon Twist Response' is set to 'Quadratic' or 'Cubic'."
@@ -2287,7 +2287,7 @@ msgstr ""
 
 msgctxt "#30582"
 msgid "Memory Card"
-msgstr ""
+msgstr "Memóriakártya"
 
 msgctxt "#30583"
 msgid "Change virtual memory card related settings."
@@ -2419,7 +2419,7 @@ msgstr ""
 
 msgctxt "#30615"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Emulációs trükkök"
 
 msgctxt "#30616"
 msgid "Change emulation accuracy settings affecting low-level performance and compatibility."
@@ -2431,15 +2431,15 @@ msgstr ""
 
 msgctxt "#30618"
 msgid "Default"
-msgstr ""
+msgstr "Alapértelmezett"
 
 msgctxt "#30619"
 msgid "Aggressive"
-msgstr ""
+msgstr "Agresszív"
 
 msgctxt "#30620"
 msgid "Render 3D content anamorphically and output the emulated framebuffer at a widescreen aspect ratio. Produces best results with fully 3D games. 2D elements will be horizontally stretched and may be misaligned."
-msgstr ""
+msgstr "A 3D tartalom anamorf előállítása, és az emulált framebuffer továbbítása szélesvásznú képaránnyal. A teljesen 3D játékoknál működik a legjobban. A 2D elemek vízszintesen megnyúlnak és esetleg nem jól illeszkednek."
 
 msgctxt "#30621"
 msgid "Aspect ratio to be used by the Widescreen Mode Hack."
@@ -2455,31 +2455,31 @@ msgstr ""
 
 msgctxt "#30624"
 msgid "Dynamically recompile CPU instructions to native instructions. Much faster than interpreter, but CPU timing is less accurate, and may have bugs."
-msgstr ""
+msgstr "A CPU utasítások dinamikus újrafordítása a futtató CPU saját utasításaira. Sokkal gyorsabb, mint az értelmező, de a CPU időzítés kevésbé pontos, és tartalmazhat hibákat."
 
 msgctxt "#30625"
 msgid "Disabled (Beetle Interpreter)"
-msgstr ""
+msgstr "Kikapcsolva (Beetle értelmező)"
 
 msgctxt "#30626"
 msgid "Max Performance"
-msgstr ""
+msgstr "Maximális teljesítmény"
 
 msgctxt "#30627"
 msgid "Lightrec Interpreter"
-msgstr ""
+msgstr "Lightrec értelmező"
 
 msgctxt "#30628"
 msgid "Some games require 'Full' invalidation, some require 'DMA Only'."
-msgstr ""
+msgstr "Néhány játéknak a Teljes, másoknak a Csak DMA beállításra van szüksége."
 
 msgctxt "#30629"
 msgid "Full"
-msgstr ""
+msgstr "Teljes"
 
 msgctxt "#30630"
 msgid "DMA Only (Slightly Faster)"
-msgstr ""
+msgstr "Csak DMA (kicsit gyorsabb)"
 
 msgctxt "#30631"
 msgid "Dynarec Cycles Per Instruction"
@@ -2499,11 +2499,11 @@ msgstr ""
 
 msgctxt "#30635"
 msgid "Max cycles run by CPU before a GPU/DMA/MDEC/Timer Update is checked, higher number will be faster, has much less impact on beetle interpreter than dynarec."
-msgstr ""
+msgstr "A CPU maximális ciklusainak száma, mielőtt a DMA/GPU/MDEC/időzítő eseményeket ellenőrzi. Magasabb értéknél gyorsabb, a Beetle értelmezőre sokkal kisebb hatása van, mint a Dynarec módra."
 
 msgctxt "#30636"
 msgid "128 (Default)"
-msgstr ""
+msgstr "128 (alapértelmezett)"
 
 msgctxt "#30637"
 msgid "384"
@@ -2563,7 +2563,7 @@ msgstr ""
 
 msgctxt "#30651"
 msgid "Max SPU samples to run before a SPU Update is checked, higher number will be faster, but will cause sound glitches in some games with anything other than 1."
-msgstr ""
+msgstr "Az SPU mintáinak maximális száma az SPU frissítés ellenőrzése előtt. Nagyobb értékek gyorsabbak, de néhány játéknál hanghibát okozhatnak 1-től eltérő beállításon."
 
 msgctxt "#30652"
 msgid "Dynarec SP GP Hit RAM Optimization"
@@ -2571,4 +2571,20 @@ msgstr ""
 
 msgctxt "#30653"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"
+msgstr ""
+
+msgctxt "#30654"
+msgid "Compatibility Settings"
+msgstr ""
+
+msgctxt "#30655"
+msgid "Apply compatibility settings per game and per setting. Disable to allow user-selected settings to override them."
+msgstr ""
+
+msgctxt "#30656"
+msgid "Enabled (Recommended)"
+msgstr ""
+
+msgctxt "#30657"
+msgid "Disabled (Allow Overrides)"
 msgstr ""

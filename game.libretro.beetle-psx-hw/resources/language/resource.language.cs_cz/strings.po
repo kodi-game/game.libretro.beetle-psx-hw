@@ -31,11 +31,11 @@ msgstr "Interní rozlišení GPU"
 
 msgctxt "#30002"
 msgid "Internal Color Depth"
-msgstr "Interní barevná hloubka"
+msgstr "Vnitřní hloubka barev"
 
 msgctxt "#30003"
 msgid "Dithering Pattern"
-msgstr "Vzor ditheringu"
+msgstr "Vzor Ditheringu"
 
 msgctxt "#30004"
 msgid "Texture Filtering"
@@ -43,15 +43,15 @@ msgstr "Filtrování textur"
 
 msgctxt "#30007"
 msgid "Display Internal FPS"
-msgstr "Zobrazit interní FPS"
+msgstr "Interní Zobrazení FPS"
 
 msgctxt "#30008"
 msgid "Display Full VRAM (Debug)"
-msgstr "Zobrazit celou VRAM (ladění)"
+msgstr "Zobrazení Plné Paměti VRAM (Ladění)"
 
 msgctxt "#30009"
 msgid "Analog Self-Calibration"
-msgstr "Samokalibrace analogového ovládání"
+msgstr "Analogová Vlastní Kalibrace"
 
 msgctxt "#30011"
 msgid "DualShock Analog Mode Combo"
@@ -59,19 +59,19 @@ msgstr "Kombinace analogového režimu DualShock"
 
 msgctxt "#30012"
 msgid "DualShock Analog Mode Combo Hold Delay"
-msgstr "Prodleva podržení kombinace analogového režimu DualShock"
+msgstr "Zpoždění podržení analogového režimu DualShock"
 
 msgctxt "#30015"
 msgid "Gun Input Mode"
-msgstr "Režim vstupu pistole"
+msgstr "Režim Vstupu Zbraně"
 
 msgctxt "#30016"
 msgid "Gun Cursor"
-msgstr "Kurzor pistole"
+msgstr "Kurzor Zbraně"
 
 msgctxt "#30019"
 msgid "Mouse Sensitivity"
-msgstr "Citlivost myši"
+msgstr "Citlivost Myši"
 
 msgctxt "#30020"
 msgid "neGcon Twist Response"
@@ -79,19 +79,19 @@ msgstr "Odezva natočení neGcon"
 
 msgctxt "#30021"
 msgid "neGcon Twist Deadzone"
-msgstr "Mrtvá zóna natočení neGcon"
+msgstr "mrtvá Zóna neGcon Twist"
 
 msgctxt "#30027"
 msgid "PGXP Operation Mode"
-msgstr "Provozní režim PGXP"
+msgstr "Provozní Režim PGXP"
 
 msgctxt "#30028"
 msgid "PGXP 2D Geometry Tolerance"
-msgstr "Tolerance 2D geometrie PGXP"
+msgstr "PGXP 2D Tolerance Geometrie"
 
 msgctxt "#30029"
 msgid "PGXP Primitive Culling"
-msgstr "Vyřazování primitiv PGXP"
+msgstr "PGXP Primitivní Culling"
 
 msgctxt "#30030"
 msgid "PGXP Vertex Cache"
@@ -99,7 +99,7 @@ msgstr "Mezipaměť vrcholů PGXP"
 
 msgctxt "#30031"
 msgid "PGXP Perspective Correct Texturing"
-msgstr "Perspektivně korektní texturování PGXP"
+msgstr "PGXP Perspektivní Správné Texturování"
 
 msgctxt "#30032"
 msgid "Line-to-Quad Hack"
@@ -107,15 +107,15 @@ msgstr "Úprava převodu čar na čtyřúhelníky"
 
 msgctxt "#30033"
 msgid "Widescreen Mode Hack"
-msgstr "Úprava širokoúhlého režimu"
+msgstr "Hack Režim Celé Obrazovky"
 
 msgctxt "#30034"
 msgid "Widescreen Mode Hack Aspect Ratio"
-msgstr "Poměr stran úpravy širokoúhlého režimu"
+msgstr "Poměr Stran Hacku v Širokoúhlem Režimu"
 
 msgctxt "#30035"
 msgid "CPU Frequency Scaling (Overclock)"
-msgstr "Škálování frekvence CPU (přetaktování)"
+msgstr "Škálování Frekvence CPU (Přetaktování)"
 
 msgctxt "#30036"
 msgid "GTE Overclock"
@@ -135,63 +135,63 @@ msgstr "Dynamický rekompilátor CPU"
 
 msgctxt "#30042"
 msgid "Dynarec Code Invalidation"
-msgstr "Zneplatňování kódu dynarecu"
+msgstr "Zrušení Kódu Dynarec"
 
 msgctxt "#30043"
 msgid "Dynarec DMA/GPU/MDEC/Timer Event Cycles"
-msgstr "Cykly událostí dynarecu pro DMA/GPU/MDEC/časovač"
+msgstr "Cykly událostí Dynarec DMA/GPU/MDEC/Timer"
 
 msgctxt "#30044"
 msgid "Dynarec SPU Samples"
-msgstr "Vzorky SPU dynarecu"
+msgstr "Vzorky Dynarec SPU"
 
 msgctxt "#30045"
 msgid "Core-Reported FPS Timing"
-msgstr "Časování FPS hlášené jádrem"
+msgstr "Nahlášené-Jádro Časování FPS"
 
 msgctxt "#30047"
 msgid "Crop Overscan"
-msgstr "Oříznout overscan"
+msgstr "Overscan Oříznutí"
 
 msgctxt "#30048"
 msgid "Additional Cropping"
-msgstr "Další oříznutí"
+msgstr "Dodatečné Oříznutí"
 
 msgctxt "#30049"
 msgid "Offset Cropped Image"
-msgstr "Posun oříznutého obrazu"
+msgstr "Posun Oříznutého Snímku"
 
 msgctxt "#30050"
 msgid "Horizontal Image Offset (GPU Cycles)"
-msgstr "Horizontální posun obrazu (cykly GPU)"
+msgstr "Horizontální Posun Obrazu (Cykly GPU)"
 
 msgctxt "#30051"
 msgid "GPU Rasterizer Overclock"
-msgstr "Přetaktování rasterizéru GPU"
+msgstr "Přetaktování GPU Rasterizer"
 
 msgctxt "#30052"
 msgid "Core Aspect Ratio"
-msgstr "Poměr stran jádra"
+msgstr "Poměr Stran Jádra"
 
 msgctxt "#30053"
 msgid "Initial Scan Line - NTSC"
-msgstr "Počáteční skenovací řádek - NTSC"
+msgstr "Počáteční Skenovací Řádek - NTSC"
 
 msgctxt "#30054"
 msgid "Last Scan Line - NTSC"
-msgstr "Poslední skenovací řádek - NTSC"
+msgstr "Poslední Skenovací Řádek - NTSC"
 
 msgctxt "#30055"
 msgid "Initial Scan Line - PAL"
-msgstr "Počáteční skenovací řádek - PAL"
+msgstr "Počáteční Skenovací Řádek - PAL"
 
 msgctxt "#30056"
 msgid "Last Scan Line - PAL"
-msgstr "Poslední skenovací řádek - PAL"
+msgstr "Poslední Skenovací Řádek - PAL"
 
 msgctxt "#30058"
 msgid "CD Loading Speed"
-msgstr "Rychlost načítání CD"
+msgstr "Rychlost Načítání CD"
 
 msgctxt "#30059"
 msgid "DualShock Analog Mode Toggle"
@@ -199,7 +199,7 @@ msgstr "Přepínání analogového režimu DualShock"
 
 msgctxt "#30060"
 msgid "Display OSD Messages"
-msgstr "Zobrazovat zprávy OSD"
+msgstr "Zobrazení OSD zpráv"
 
 msgctxt "#30061"
 msgid "Deinterlace Method"
@@ -263,7 +263,7 @@ msgstr "Vynutit časování videa PAL"
 
 msgctxt "#30076"
 msgid "System Region"
-msgstr "Region systému"
+msgstr "Systémový Region"
 
 msgctxt "#30077"
 msgid "System"
@@ -271,11 +271,11 @@ msgstr "Systém"
 
 msgctxt "#30078"
 msgid "Change system and overclocking options."
-msgstr "Změnit nastavení systému a přetaktování."
+msgstr "Změňte systémové a přetaktovací možnosti."
 
 msgctxt "#30079"
 msgid "Overclock (or underclock) the emulated PSX CPU. Overclocking can eliminate slowdown and improve frame rates in certain games at the expense of increased performance requirements. Note that some games have an internal frame rate limiter and may not benefit from overclocking. May cause certain effects to animate faster than intended in some titles when overclocked."
-msgstr "Přetaktovat (nebo podtaktovat) emulovaný CPU PlayStationu. Přetaktování může odstranit zpomalování a zvýšit snímkovou frekvenci v některých hrách za cenu vyšších nároků na výkon. Některé hry mají interní omezovač snímkové frekvence a přetaktování jim nemusí pomoci. Při přetaktování se v některých titulech mohou určité efekty animovat rychleji, než je zamýšleno."
+msgstr "Přetaktování (nebo podtaktování) emulovaného procesoru PSX. Přetaktování může eliminovat zpomalení a zlepšit snímkovou frekvenci v některých hrách na úkor zvýšených nároků na výkon. Upozorňujeme, že některé hry mají interní omezovač snímkové frekvence a přetaktování pro ně nemusí být přínosem. V některých titulech může přetaktování způsobit, že se některé efekty animují rychleji, než je zamýšleno."
 
 msgctxt "#30080"
 msgid "100% (Native)"
@@ -563,11 +563,11 @@ msgstr "750 %"
 
 msgctxt "#30151"
 msgid "Enable overclocking of the 2D rasterizer contained within the emulated PSX's GPU. Does not improve 3D rendering, and in general has little effect."
-msgstr "Povolit přetaktování 2D rastrovacího procesoru v emulovaném GPU PlayStationu. Nezlepší vykreslování 3D a obecně má malý účinek."
+msgstr "Povolení přetaktování 2D rasterizéru obsaženého v grafickém procesoru emulované konzole PSX. Nezlepšuje 3D vykreslování a obecně má malý vliv."
 
 msgctxt "#30152"
 msgid "1x (Native)"
-msgstr "1x (nativní)"
+msgstr "1x (Nativní)"
 
 msgctxt "#30153"
 msgid "2x"
@@ -591,11 +591,11 @@ msgstr "32x"
 
 msgctxt "#30158"
 msgid "Lower all emulated GTE (CPU coprocessor for 3D graphics) operations to a constant one-cycle latency. For games that make heavy use of the GTE, this can greatly improve frame rate and frame time stability."
-msgstr "Snížit všechny operace emulovaného GTE (koprocesoru CPU pro 3D grafiku) na konstantní latenci jednoho cyklu. U her, které GTE intenzivně využívají, to může výrazně zvýšit snímkovou frekvenci a stabilitu doby snímku."
+msgstr "Snižte všechny emulované operace GTE (koprocesor CPU pro 3D grafiku) na konstantní latenci jednoho cyklu. U her, které GTE hojně využívají, to může výrazně zlepšit stabilitu snímkové frekvence a času snímků."
 
 msgctxt "#30159"
 msgid "'Synchronous' mimics original hardware. 'Asynchronous' can reduce stuttering on devices with slow storage. 'Pre-Cache' loads the entire disk image into memory when launching content, which may improve in-game loading times at the cost of an initial delay at startup. 'Pre-Cache' may cause issues on systems with low RAM, and will fall back to 'Synchronous' for physical media. Restart required."
-msgstr "„Synchronní“ napodobuje původní hardware. „Asynchronní“ může omezit zadrhávání na zařízeních s pomalým úložištěm. „Přednačíst do mezipaměti“ při spuštění obsahu načte celý obraz disku do paměti, což může zkrátit načítání ve hře za cenu úvodního zpoždění při spuštění. „Přednačíst do mezipaměti“ může způsobit problémy na systémech s malou RAM a u fyzických médií se vrátí k „Synchronnímu“. Vyžaduje restart."
+msgstr "„Synchronní“ napodobuje původní hardware. „Asynchronní“ může snížit zadrhávání na zařízeních s pomalým úložištěm. „Pre-Cache“ načte celý obraz disku do paměti při spuštění obsahu, což může zlepšit dobu načítání ve hře na úkor počátečního zpoždění při spuštění. „Pre-Cache“ může způsobit problémy na systémech s nízkou pamětí RAM a u fyzických médií se vrátí k „Synchronnímu“ režimu. Je nutný restart."
 
 msgctxt "#30160"
 msgid "Synchronous"
@@ -611,11 +611,11 @@ msgstr "Přednačíst do mezipaměti"
 
 msgctxt "#30163"
 msgid "Values higher than '2x (Native)' can greatly reduce in-game loading times, but may introduce timing errors. Some games may not function properly above a certain value."
-msgstr "Hodnoty vyšší než „2x (nativní)“ mohou výrazně zkrátit načítání ve hře, ale mohou zavést chyby časování. Některé hry nemusí nad určitou hodnotou fungovat správně."
+msgstr "Hodnoty vyšší než „2x (nativní)“ mohou výrazně zkrátit dobu načítání ve hře, ale mohou také způsobit chyby v načasování. Některé hry nemusí nad určitou hodnotou fungovat správně."
 
 msgctxt "#30164"
 msgid "2x (Native)"
-msgstr "2x (nativní)"
+msgstr "2x (Nativní)"
 
 msgctxt "#30165"
 msgid "6x"
@@ -635,7 +635,7 @@ msgstr "14x"
 
 msgctxt "#30169"
 msgid "Skip the PlayStation BIOS boot animation normally displayed when loading content. Note: Enabling this causes compatibility issues with a number of games (PAL copy protected games, Saga Frontier, etc.)."
-msgstr "Přeskočit animaci spuštění BIOSu PlayStationu, která se normálně zobrazuje při načítání obsahu. Poznámka: Zapnutí způsobuje problémy s kompatibilitou u řady her (her s ochranou proti kopírování pro PAL, Saga Frontier apod.)."
+msgstr "Přeskočení zaváděcí animace systému PlayStation BIOS, která se obvykle zobrazuje při načítání obsahu. Poznámka: Povolení této funkce způsobuje problémy s kompatibilitou u řady her (hry chráněné proti kopírování PAL, Saga Frontier atd.)."
 
 msgctxt "#30170"
 msgid "Override the standard region specific BIOS with a region-free one if found. Restart required."
@@ -679,7 +679,7 @@ msgstr "Video"
 
 msgctxt "#30180"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
-msgstr "Změnit poměr stran, ořez obrazu, filtr videa a nastavení přeskakování snímků."
+msgstr "Změňte poměr stran, oříznutí displeje, filtr videa a nastavení přeskakování snímků."
 
 msgctxt "#30181"
 msgid "Resolutions higher than '1x (Native)' improve fidelity of 3D models at the expense of increased performance requirements. 2D elements are generally unaffected by this setting."
@@ -703,7 +703,7 @@ msgstr "Software"
 
 msgctxt "#30186"
 msgid "Enable accurate emulation of framebuffer effects (e.g. motion blur, FF7 battle swirl) when using hardware renderers by running a copy of the software renderer at native resolution in the background. If disabled, these operations are omitted (OpenGL) or rendered on the GPU (Vulkan). Disabling can improve performance but may cause severe graphical errors. Leave enabled if unsure."
-msgstr "Povolí přesnou emulaci efektů framebufferu (např. rozmazání pohybu a víření při souboji ve FF7) při použití hardwarových rendererů tak, že na pozadí spustí kopii softwarového rendereru v nativním rozlišení. Je-li vypnuto, tyto operace se vynechají (OpenGL) nebo vykreslí na GPU (Vulkan). Vypnutí může zvýšit výkon, ale může způsobit závažné grafické chyby. Pokud si nejste jisti, ponechte zapnuto."
+msgstr "Umožňuje přesnou emulaci efektů framebufferu (např. motion blur, FF7 battle swirl) při použití hardwarových rendererů spuštěním kopie softwarového rendereru v nativním rozlišení na pozadí. Jsou-li tyto operace zakázány, jsou vynechány (OpenGL) nebo vykreslovány na GPU (Vulkan). Zakázání může zvýšit výkon, ale může způsobit závažné grafické chyby. Pokud si nejste jisti, ponechte povoleno."
 
 msgctxt "#30187"
 msgid "Color Format"
@@ -903,7 +903,7 @@ msgstr "„1x (nativní)“ emuluje dithering v nativním nízkém rozlišení p
 
 msgctxt "#30236"
 msgid "Internal Resolution"
-msgstr "Interní rozlišení"
+msgstr "Vnitřní rozlišení"
 
 msgctxt "#30237"
 msgid "'Nearest' emulates original hardware. 'Bilinear' and '3-Point' are smoothing filters, which reduce pixelation via blurring. 'SABR', 'xBR', and 'JINC2' are upscaling filters that may improve texture fidelity/sharpness at the expense of increased performance requirements. Only supported by the hardware renderers."
@@ -947,7 +947,7 @@ msgstr "Vynutit progresivní frekvenci"
 
 msgctxt "#30247"
 msgid "Force Interlaced Rate"
-msgstr "Vynutit prokládanou frekvenci"
+msgstr "Vynutit Prokládanou Hodnotu"
 
 msgctxt "#30248"
 msgid "'Weave' shows both fields on the same frame for full high resolution still image, 'Bob' sacrificies resolution clarity for motion clarity. 'Bob (Offset)' is Bob with the current field doubled into the full surface height with a one-line offset between fields, preserving the libretro output resolution while keeping Bob-style smooth motion. 'FastMAD (Motion Adaptive)' weaves still pixels and vertically-interpolates moving pixels per-pixel, full output height with neither weave's comb on motion nor bob's halved resolution. 'Off' makes the software renderer match the hardware (Vulkan/OpenGL) renderer behaviour by rasterising to all VRAM lines every frame and deferring scanout to the end of the frame, eliminating comb-on-motion in interlaced games. Note: programs that DMA to VRAM during scanout (some demos using >512-line PAL framebuffer-wrap tricks), or that update moving sprites via CPU-to-VRAM image transfers tied to the displayed field (e.g. Pro Pinball), may show stale rows or sprite ghosting under 'Off'; use 'Weave', 'Bob', 'Bob (Offset)', or 'FastMAD' for those."
@@ -983,15 +983,15 @@ msgstr "Toto nastavení se ignoruje, když je povolena úprava širokoúhlého r
 
 msgctxt "#30256"
 msgid "Corrected"
-msgstr "Opravené"
+msgstr "Opraveno"
 
 msgctxt "#30257"
 msgid "Uncorrected"
-msgstr "Neopravené"
+msgstr "Neopraveno"
 
 msgctxt "#30258"
 msgid "Force 4:3"
-msgstr "Vynutit 4:3"
+msgstr "Vunutit 4:3"
 
 msgctxt "#30259"
 msgid "Force NTSC"
@@ -1703,7 +1703,7 @@ msgstr "Poslední zobrazovaný skenovací řádek při běhu obsahu NTSC. Hodnot
 
 msgctxt "#30436"
 msgid "239 (Default)"
-msgstr "239 (výchozí)"
+msgstr "239 (Výchozí)"
 
 msgctxt "#30437"
 msgid "210"
@@ -1831,7 +1831,7 @@ msgstr "Poslední zobrazovaný skenovací řádek při běhu obsahu PAL. Hodnoty
 
 msgctxt "#30468"
 msgid "287 (Default)"
-msgstr "287 (výchozí)"
+msgstr "287 (Výchozí)"
 
 msgctxt "#30469"
 msgid "239"
@@ -2027,11 +2027,11 @@ msgstr "286"
 
 msgctxt "#30517"
 msgid "PGXP (Precision Geometry Transform Pipeline)"
-msgstr "PGXP (přesný transformační řetězec geometrie)"
+msgstr "PGXP (Přesná transformace geometrie)"
 
 msgctxt "#30518"
 msgid "These options control enhancements which can improve graphics compared to the original console. PGXP can get rid of warping textures and Z-fighting issues."
-msgstr "Tyto volby řídí vylepšení, která mohou zlepšit grafiku oproti původní konzoli. PGXP může odstranit deformace textur a problémy s prolínáním hloubky (Z-fighting)."
+msgstr "Tyto možnosti ovládají vylepšení, která mohou zlepšit grafiku ve srovnání s původní konzolí. PGXP dokáže odstranit deformace textur a problémy Z-fightingu."
 
 msgctxt "#30519"
 msgid "Render 3D objects with subpixel precision, minimizing distortion and jitter of 3D objects seen on original hardware due to the usage of fixed point vertex coordinates. 'Memory Only' mode has minimal compatibility issues and is recommended for general use. 'Memory + CPU (Buggy)' mode can reduce jitter even further but has high performance requirements and may cause various geometry errors."
@@ -2039,15 +2039,15 @@ msgstr "Vykresluje 3D objekty s přesností na podpixely a minimalizuje zkreslen
 
 msgctxt "#30520"
 msgid "Memory Only"
-msgstr "Pouze paměť"
+msgstr "Pouze Paměť"
 
 msgctxt "#30521"
 msgid "Memory + CPU (Buggy)"
-msgstr "Paměť + CPU (chybový)"
+msgstr "Paměť + CPU (Chyby)"
 
 msgctxt "#30522"
 msgid "Hide more glaring errors in PGXP operations: the value specifies the tolerance in which PGXP values will be kept in case of geometries without proper depth information."
-msgstr "Skryje výraznější chyby v operacích PGXP: hodnota určuje toleranci, v jejímž rámci se hodnoty PGXP zachovají v případě geometrií bez správných údajů o hloubce."
+msgstr "Skrytí zjevnějších chyb při operacích PGXP: hodnota určuje toleranci, v níž budou hodnoty PGXP zachovány v případě geometrií bez správných informací o hloubce."
 
 msgctxt "#30523"
 msgid "0px"
@@ -2055,11 +2055,11 @@ msgstr "0 px"
 
 msgctxt "#30524"
 msgid "Use PGXP's NCLIP implementation. Improves appearance by reducing holes in geometries with PGXP coordinates. Known to cause some games to lock up in various circumstances."
-msgstr "Použije implementaci NCLIP v PGXP. Zlepší vzhled omezením děr v geometriích se souřadnicemi PGXP. Je známo, že za různých okolností způsobí zamrznutí některých her."
+msgstr "Použijte implementaci NCLIP společnosti PGXP. Zlepšuje vzhled zmenšením děr v geometriích se souřadnicemi PGXP. Je známo, že za různých okolností způsobuje zablokování některých her."
 
 msgctxt "#30525"
 msgid "Cache PGXP-enhanced vertex positions for re-use across polygon draws. Can potentially improve object alignment and reduce visible seams when rendering textures, but false positives when querying the cache may produce graphical glitches. It is currently recommended to leave this option disabled. This option is applied only when PGXP Operation Mode is enabled. Only supported by the hardware renderers."
-msgstr "Ukládá pozice vrcholů vylepšené pomocí PGXP do mezipaměti pro opakované použití při vykreslování polygonů. Může zlepšit zarovnání objektů a omezit viditelné švy při vykreslování textur, ale falešně pozitivní výsledky při dotazování mezipaměti mohou způsobit grafické chyby. V současnosti se doporučuje ponechat tuto volbu vypnutou. Použije se pouze při povoleném provozním režimu PGXP. Podporují ji pouze hardwarové renderery."
+msgstr "Ukládání pozic vrcholů s podporou PGXP do mezipaměti pro opakované použití při kreslení polygonů. Může potenciálně zlepšit zarovnání objektů a omezit viditelné švy při vykreslování textur, ale falešně pozitivní dotazy na mezipaměť mohou způsobit grafické závady. V současné době se doporučuje ponechat tuto možnost vypnutou. Tato volba se použije pouze tehdy, když je povolen operační režim PGXP. Podporováno pouze hardwarovými vykreslovači."
 
 msgctxt "#30526"
 msgid "Replace native PSX affine texture mapping with perspective correct texture mapping. Eliminates position-dependent distortion and warping of textures, resulting in properly aligned textures. This option is applied only when PGXP Operation Mode is enabled. Supported by the hardware renderers and the software renderer."
@@ -2071,19 +2071,19 @@ msgstr "Zobrazení na obrazovce"
 
 msgctxt "#30528"
 msgid "Change notifications being shown on-screen."
-msgstr "Změní oznámení zobrazovaná na obrazovce."
+msgstr "Změna oznámení zobrazovaných na obrazovce."
 
 msgctxt "#30529"
 msgid "Display the internal frame rate at which the emulated PlayStation system is rendering content. Note: Requires onscreen notifications to be enabled in the libretro frontend."
-msgstr "Zobrazí interní snímkovou frekvenci, s jakou emulovaný systém PlayStation vykresluje obsah. Poznámka: Vyžaduje povolení oznámení na obrazovce ve frontendu libretro."
+msgstr "Zobrazení interní snímkové frekvence, při které emulovaný systém PlayStation vykresluje obsah. Poznámka: Vyžaduje, aby byla ve frontendu libretro povolena oznámení na obrazovce."
 
 msgctxt "#30530"
 msgid "Display OSD messages generated by the core."
-msgstr "Zobrazí zprávy OSD generované jádrem."
+msgstr "Zobrazení OSD zpráv generovaných jádrem."
 
 msgctxt "#30531"
 msgid "Visualize the entire emulated console's VRAM. Only supported by the OpenGL and Vulkan hardware renderers. Note: This is for debugging purposes, and should normally be disabled."
-msgstr "Zobrazí celou VRAM emulované konzole. Podporují jej pouze hardwarové renderery OpenGL a Vulkan. Poznámka: Slouží k ladění a za běžných okolností by mělo být vypnuto."
+msgstr "Vizualizace celé paměti VRAM emulované konzole. Podporováno pouze hardwarovými vykreslovači OpenGL a Vulkan. Poznámka: Tato funkce slouží k ladění a měla by být normálně vypnuta."
 
 msgctxt "#30532"
 msgid "Input"
@@ -2091,7 +2091,7 @@ msgstr "Vstup"
 
 msgctxt "#30533"
 msgid "Change light gun, mouse and neGcon settings."
-msgstr "Změní nastavení světelné pistole, myši a neGcon."
+msgstr "Změna nastavení světelné pistole, myši a neGconu."
 
 msgctxt "#30534"
 msgid "Enable dynamic calibration of analog inputs when the device is set to DualShock, Analog Controller, Analog Joystick, or neGcon. Maximum registered input values are monitored in real time and used to scale analog coordinates passed to the emulator. This should be used for games such as Mega Man Legends 2 that expect larger values than what modern controllers provide. For best results, analog sticks should be rotated at full extent to tune the calibration algorithm each time content is loaded."
@@ -2099,7 +2099,7 @@ msgstr "Povolí dynamickou kalibraci analogových vstupů, když je zařízení 
 
 msgctxt "#30535"
 msgid "When the input device type is DualShock, this option allows the emulated DualShock to be toggled between DIGITAL and ANALOG mode like original hardware. Mode can also be toggled by using the selected button combination."
-msgstr "Když je typ vstupního zařízení DualShock, tato volba umožní přepínat emulovaný DualShock mezi digitálním a analogovým režimem jako na původním hardwaru. Režim lze přepínat také zvolenou kombinací tlačítek."
+msgstr "Pokud je typem vstupního zařízení DualShock, umožňuje tato možnost přepínat emulovaný DualShock mezi DIGITÁLNÍM a ANALOGOVÝM režimem jako původní hardware. Režim lze přepínat také pomocí vybrané kombinace tlačítek."
 
 msgctxt "#30536"
 msgid "Default-Analog"
@@ -2155,27 +2155,27 @@ msgstr "Doba podržení tlačítek kombinace pro analogový režim."
 
 msgctxt "#30549"
 msgid "0 Second Delay"
-msgstr "Prodleva 0 sekund"
+msgstr "0 sekundové zpoždění"
 
 msgctxt "#30550"
 msgid "1 Second Delay"
-msgstr "Prodleva 1 sekunda"
+msgstr "1 sekundové zpoždění"
 
 msgctxt "#30551"
 msgid "2 Second Delay"
-msgstr "Prodleva 2 sekundy"
+msgstr "2 sekundové zpoždění"
 
 msgctxt "#30552"
 msgid "3 Second Delay"
-msgstr "Prodleva 3 sekundy"
+msgstr "3 sekundové zpoždění"
 
 msgctxt "#30553"
 msgid "4 Second Delay"
-msgstr "Prodleva 4 sekundy"
+msgstr "4 sekundové zpoždění"
 
 msgctxt "#30554"
 msgid "5 Second Delay"
-msgstr "Prodleva 5 sekund"
+msgstr "5 sekundové zpoždění"
 
 msgctxt "#30555"
 msgid "Enable multitap functionality on port 1."
@@ -2195,7 +2195,7 @@ msgstr "Světelná pistole"
 
 msgctxt "#30559"
 msgid "Touchscreen"
-msgstr "Dotyková obrazovka"
+msgstr "Dotyková Obrazovka"
 
 msgctxt "#30560"
 msgid "Draw a cursor on screen while using the 'Guncon/G-Con 45' and 'Justifier' input device types."
@@ -2211,7 +2211,7 @@ msgstr "Kříž"
 
 msgctxt "#30563"
 msgid "Dot"
-msgstr "Bod"
+msgstr "Tečka"
 
 msgctxt "#30564"
 msgid "Light gun crosshair color for port 1."
@@ -2219,15 +2219,15 @@ msgstr "Barva zaměřovacího kříže světelné pistole pro port 1."
 
 msgctxt "#30565"
 msgid "Red"
-msgstr "Červená"
+msgstr "Červený"
 
 msgctxt "#30566"
 msgid "Blue"
-msgstr "Modrá"
+msgstr "Modrý"
 
 msgctxt "#30567"
 msgid "Green"
-msgstr "Zelená"
+msgstr "Zelený"
 
 msgctxt "#30568"
 msgid "Orange"
@@ -2291,7 +2291,7 @@ msgstr "Paměťová karta"
 
 msgctxt "#30583"
 msgid "Change virtual memory card related settings."
-msgstr "Změní nastavení související s virtuálními paměťovými kartami."
+msgstr "Změňte nastavení týkající se virtuální paměťové karty."
 
 msgctxt "#30584"
 msgid "Save data format used for the left memory card slot. 'Mednafen' may be used for compatibility with the stand-alone version of Mednafen. When used with Beetle PSX, Libretro (.srm) and Mednafen (.mcr) saves have internally identical formats and can be converted between one another via renaming. Restart required."
@@ -2419,11 +2419,11 @@ msgstr "1 (výchozí)"
 
 msgctxt "#30615"
 msgid "Emulation Hacks"
-msgstr "Emulační úpravy"
+msgstr "Emulace hacků"
 
 msgctxt "#30616"
 msgid "Change emulation accuracy settings affecting low-level performance and compatibility."
-msgstr "Změní nastavení přesnosti emulace ovlivňující výkon na nízké úrovni a kompatibilitu."
+msgstr "Změňte nastavení přesnosti emulace, které ovlivňuje výkon na nízké úrovni a kompatibilitu."
 
 msgctxt "#30617"
 msgid "Some games (e.g. Doom, Hexen, Soul Blade, etc.) draw horizontal lines by stretching single-pixel-high triangles across the screen, which are rasterized as a row of pixels on original hardware. This hack detects these small triangles and converts them to quads as required, allowing them to be displayed properly on the hardware renderers and at upscaled internal resolutions. 'Aggressive' is required for some titles (e.g. Dark Forces, Duke Nukem) but may otherwise introduce graphical glitches. Leave at 'Default' if unsure."
@@ -2439,7 +2439,7 @@ msgstr "Agresivní"
 
 msgctxt "#30620"
 msgid "Render 3D content anamorphically and output the emulated framebuffer at a widescreen aspect ratio. Produces best results with fully 3D games. 2D elements will be horizontally stretched and may be misaligned."
-msgstr "Vykresluje 3D obsah anamorfně a vystupuje s emulovaným framebufferem v širokoúhlém poměru stran. Nejlepších výsledků dosahuje u plně 3D her. 2D prvky budou vodorovně roztažené a mohou být špatně zarovnané."
+msgstr "Vykresluje 3D obsah anamorfně a výstupem emulovaného framebufferu s širokoúhlým poměrem stran. Nejlepších výsledků dosahuje u plně 3D her. 2D prvky budou horizontálně roztaženy a mohou být špatně zarovnány."
 
 msgctxt "#30621"
 msgid "Aspect ratio to be used by the Widescreen Mode Hack."
@@ -2455,15 +2455,15 @@ msgstr "Přeskakuje zpracování hlasů po jednotlivých vzorcích, jejichž ob�
 
 msgctxt "#30624"
 msgid "Dynamically recompile CPU instructions to native instructions. Much faster than interpreter, but CPU timing is less accurate, and may have bugs."
-msgstr "Dynamicky rekompiluje instrukce CPU na nativní instrukce. Je mnohem rychlejší než interpret, ale časování CPU je méně přesné a mohou se vyskytnout chyby."
+msgstr "Dynamická překompilace instrukce procesoru na nativní instrukce. Mnohem rychlejší než interpret, ale časování CPU je méně přesné a může obsahovat chyby."
 
 msgctxt "#30625"
 msgid "Disabled (Beetle Interpreter)"
-msgstr "Zakázáno (interpret Beetle)"
+msgstr "Zakázáno (Beetle Interpreter)"
 
 msgctxt "#30626"
 msgid "Max Performance"
-msgstr "Maximální výkon"
+msgstr "Maximální Výkon"
 
 msgctxt "#30627"
 msgid "Lightrec Interpreter"
@@ -2471,15 +2471,15 @@ msgstr "Interpret Lightrec"
 
 msgctxt "#30628"
 msgid "Some games require 'Full' invalidation, some require 'DMA Only'."
-msgstr "Některé hry vyžadují „Úplné“ zneplatnění, jiné vyžadují „Pouze DMA“."
+msgstr "Některé hry vyžadují 'Plné' zneplatnění, jiné pouze 'DMA'."
 
 msgctxt "#30629"
 msgid "Full"
-msgstr "Úplné"
+msgstr "Plné"
 
 msgctxt "#30630"
 msgid "DMA Only (Slightly Faster)"
-msgstr "Pouze DMA (mírně rychlejší)"
+msgstr "Pouze DMA (Mírně Rychlejší)"
 
 msgctxt "#30631"
 msgid "Dynarec Cycles Per Instruction"
@@ -2499,11 +2499,11 @@ msgstr "1 (přesné, opravuje Parasite Eve 2 atd.)"
 
 msgctxt "#30635"
 msgid "Max cycles run by CPU before a GPU/DMA/MDEC/Timer Update is checked, higher number will be faster, has much less impact on beetle interpreter than dynarec."
-msgstr "Maximální počet cyklů, které CPU provede, než se zkontroluje aktualizace GPU/DMA/MDEC/časovače; vyšší číslo je rychlejší. Na interpret Beetle má mnohem menší vliv než na dynarec."
+msgstr "Maximální počet cyklů spuštěných CPU před kontrolou aktualizace GPU/DMA/MDEC/Timer, vyšší číslo bude rychlejší, má mnohem menší vliv na interpreter beetle než dynarec."
 
 msgctxt "#30636"
 msgid "128 (Default)"
-msgstr "128 (výchozí)"
+msgstr "128 (Výchozí)"
 
 msgctxt "#30637"
 msgid "384"
@@ -2563,7 +2563,7 @@ msgstr "2048"
 
 msgctxt "#30651"
 msgid "Max SPU samples to run before a SPU Update is checked, higher number will be faster, but will cause sound glitches in some games with anything other than 1."
-msgstr "Maximální počet vzorků SPU, které se provedou, než se zkontroluje aktualizace SPU; vyšší číslo je rychlejší, ale při jiné hodnotě než 1 způsobí v některých hrách chyby zvuku."
+msgstr "Maximální počet vzorků SPU, které mají být spuštěny před kontrolou aktualizace SPU, vyšší číslo bude rychlejší, ale v některých hrách s jiným číslem než 1 bude způsobovat závady zvuku."
 
 msgctxt "#30652"
 msgid "Dynarec SP GP Hit RAM Optimization"
@@ -2572,3 +2572,19 @@ msgstr "Optimalizace dynarecu pro registry SP a GP ukazující do RAM"
 msgctxt "#30653"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"
 msgstr "Zapnutí generuje rychlejší kód, ale může způsobit pád, protože předpokládá, že registry SP a GP vždy ukazují do RAM; vypnutí je kompatibilnější."
+
+msgctxt "#30654"
+msgid "Compatibility Settings"
+msgstr ""
+
+msgctxt "#30655"
+msgid "Apply compatibility settings per game and per setting. Disable to allow user-selected settings to override them."
+msgstr ""
+
+msgctxt "#30656"
+msgid "Enabled (Recommended)"
+msgstr ""
+
+msgctxt "#30657"
+msgid "Disabled (Allow Overrides)"
+msgstr ""

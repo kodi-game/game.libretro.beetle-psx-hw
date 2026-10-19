@@ -27,19 +27,19 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Internal GPU Resolution"
-msgstr ""
+msgstr "內部解析度 (GPU)"
 
 msgctxt "#30002"
 msgid "Internal Color Depth"
-msgstr ""
+msgstr "內部色彩深度"
 
 msgctxt "#30003"
 msgid "Dithering Pattern"
-msgstr ""
+msgstr "抖動色彩效果"
 
 msgctxt "#30004"
 msgid "Texture Filtering"
-msgstr ""
+msgstr "材質過濾"
 
 msgctxt "#30007"
 msgid "Display Internal FPS"
@@ -51,7 +51,7 @@ msgstr ""
 
 msgctxt "#30009"
 msgid "Analog Self-Calibration"
-msgstr ""
+msgstr "類比自動校正"
 
 msgctxt "#30011"
 msgid "DualShock Analog Mode Combo"
@@ -63,23 +63,23 @@ msgstr ""
 
 msgctxt "#30015"
 msgid "Gun Input Mode"
-msgstr ""
+msgstr "光線槍輸入模式"
 
 msgctxt "#30016"
 msgid "Gun Cursor"
-msgstr ""
+msgstr "光線槍準心"
 
 msgctxt "#30019"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "滑鼠靈敏度"
 
 msgctxt "#30020"
 msgid "neGcon Twist Response"
-msgstr ""
+msgstr "扭轉控制器靈敏度 (neGcon)"
 
 msgctxt "#30021"
 msgid "neGcon Twist Deadzone"
-msgstr ""
+msgstr "扭轉控制器作用區 (neGcon)"
 
 msgctxt "#30027"
 msgid "PGXP Operation Mode"
@@ -107,11 +107,11 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "Widescreen Mode Hack"
-msgstr ""
+msgstr "寬螢幕模式 (破解)"
 
 msgctxt "#30034"
 msgid "Widescreen Mode Hack Aspect Ratio"
-msgstr ""
+msgstr "寬螢幕模式比例"
 
 msgctxt "#30035"
 msgid "CPU Frequency Scaling (Overclock)"
@@ -123,7 +123,7 @@ msgstr ""
 
 msgctxt "#30037"
 msgid "Skip BIOS"
-msgstr ""
+msgstr "跳過BIOS"
 
 msgctxt "#30040"
 msgid "Software Framebuffer"
@@ -151,7 +151,7 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "Crop Overscan"
-msgstr ""
+msgstr "裁剪過度掃描"
 
 msgctxt "#30048"
 msgid "Additional Cropping"
@@ -263,11 +263,11 @@ msgstr ""
 
 msgctxt "#30076"
 msgid "System Region"
-msgstr ""
+msgstr "系統區域"
 
 msgctxt "#30077"
 msgid "System"
-msgstr ""
+msgstr "系統"
 
 msgctxt "#30078"
 msgid "Change system and overclocking options."
@@ -567,7 +567,7 @@ msgstr ""
 
 msgctxt "#30152"
 msgid "1x (Native)"
-msgstr ""
+msgstr "1倍 (原廠)"
 
 msgctxt "#30153"
 msgid "2x"
@@ -615,7 +615,7 @@ msgstr ""
 
 msgctxt "#30164"
 msgid "2x (Native)"
-msgstr ""
+msgstr "2倍 (原廠)"
 
 msgctxt "#30165"
 msgid "6x"
@@ -643,11 +643,11 @@ msgstr ""
 
 msgctxt "#30171"
 msgid "PSP PS1 BIOS"
-msgstr ""
+msgstr "PSP內建 (psxonpsp660.bin)"
 
 msgctxt "#30172"
 msgid "PS3 PS1 BIOS"
-msgstr ""
+msgstr "PS3內建 (ps1_rom.bin)"
 
 msgctxt "#30173"
 msgid "OpenBIOS"
@@ -659,7 +659,7 @@ msgstr ""
 
 msgctxt "#30175"
 msgid "Auto"
-msgstr ""
+msgstr "自動"
 
 msgctxt "#30176"
 msgid "NTSC-J (Japan)"
@@ -675,11 +675,11 @@ msgstr ""
 
 msgctxt "#30179"
 msgid "Video"
-msgstr ""
+msgstr "顯示"
 
 msgctxt "#30180"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
-msgstr ""
+msgstr "變更長寬比、畫面裁剪、影像濾鏡和跳幀的設定。"
 
 msgctxt "#30181"
 msgid "Resolutions higher than '1x (Native)' improve fidelity of 3D models at the expense of increased performance requirements. 2D elements are generally unaffected by this setting."
@@ -691,15 +691,15 @@ msgstr ""
 
 msgctxt "#30183"
 msgid "Hardware (Auto)"
-msgstr ""
+msgstr "自動 (硬體)"
 
 msgctxt "#30184"
 msgid "Hardware (OpenGL)"
-msgstr ""
+msgstr "OpenGL (硬體)"
 
 msgctxt "#30185"
 msgid "Software"
-msgstr ""
+msgstr "軟體渲染"
 
 msgctxt "#30186"
 msgid "Enable accurate emulation of framebuffer effects (e.g. motion blur, FF7 battle swirl) when using hardware renderers by running a copy of the software renderer at native resolution in the background. If disabled, these operations are omitted (OpenGL) or rendered on the GPU (Vulkan). Disabling can improve performance but may cause severe graphical errors. Leave enabled if unsure."
@@ -891,11 +891,11 @@ msgstr ""
 
 msgctxt "#30233"
 msgid "16 bpp (Native)"
-msgstr ""
+msgstr "每像素16位元 (原廠)"
 
 msgctxt "#30234"
 msgid "32 bpp"
-msgstr ""
+msgstr "每像素32位元"
 
 msgctxt "#30235"
 msgid "'1x (Native)' emulates native low resolution dithering used by original hardware to smooth out color banding artifacts visible at native color depth. 'Internal Resolution' scales dithering granularity to the configured internal resolution for cleaner results. Recommended to be disabled when running at 32 bpp color depth. Note: On Vulkan, enabling this will force downsampling to native color depth, while disabling will automatically enable output at higher color depth."
@@ -903,7 +903,7 @@ msgstr ""
 
 msgctxt "#30236"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "內部解析度"
 
 msgctxt "#30237"
 msgid "'Nearest' emulates original hardware. 'Bilinear' and '3-Point' are smoothing filters, which reduce pixelation via blurring. 'SABR', 'xBR', and 'JINC2' are upscaling filters that may improve texture fidelity/sharpness at the expense of increased performance requirements. Only supported by the hardware renderers."
@@ -911,11 +911,11 @@ msgstr ""
 
 msgctxt "#30238"
 msgid "Nearest"
-msgstr ""
+msgstr "最接近"
 
 msgctxt "#30239"
 msgid "Bilinear"
-msgstr ""
+msgstr "雙線性插值"
 
 msgctxt "#30240"
 msgid "3-Point"
@@ -987,7 +987,7 @@ msgstr ""
 
 msgctxt "#30257"
 msgid "Uncorrected"
-msgstr ""
+msgstr "未調整"
 
 msgctxt "#30258"
 msgid "Force 4:3"
@@ -1703,7 +1703,7 @@ msgstr ""
 
 msgctxt "#30436"
 msgid "239 (Default)"
-msgstr ""
+msgstr "239 (預設)"
 
 msgctxt "#30437"
 msgid "210"
@@ -1831,7 +1831,7 @@ msgstr ""
 
 msgctxt "#30468"
 msgid "287 (Default)"
-msgstr ""
+msgstr "287 (預設)"
 
 msgctxt "#30469"
 msgid "239"
@@ -2027,11 +2027,11 @@ msgstr ""
 
 msgctxt "#30517"
 msgid "PGXP (Precision Geometry Transform Pipeline)"
-msgstr ""
+msgstr "精密幾何轉換管線 (PGXP)"
 
 msgctxt "#30518"
 msgid "These options control enhancements which can improve graphics compared to the original console. PGXP can get rid of warping textures and Z-fighting issues."
-msgstr ""
+msgstr "變更改進圖形功能的設定, PGXP可消除扭曲紋理和高度軸衝突問題。"
 
 msgctxt "#30519"
 msgid "Render 3D objects with subpixel precision, minimizing distortion and jitter of 3D objects seen on original hardware due to the usage of fixed point vertex coordinates. 'Memory Only' mode has minimal compatibility issues and is recommended for general use. 'Memory + CPU (Buggy)' mode can reduce jitter even further but has high performance requirements and may cause various geometry errors."
@@ -2039,11 +2039,11 @@ msgstr ""
 
 msgctxt "#30520"
 msgid "Memory Only"
-msgstr ""
+msgstr "記憶體"
 
 msgctxt "#30521"
 msgid "Memory + CPU (Buggy)"
-msgstr ""
+msgstr "記憶體 + 中央處理器 (錯誤)"
 
 msgctxt "#30522"
 msgid "Hide more glaring errors in PGXP operations: the value specifies the tolerance in which PGXP values will be kept in case of geometries without proper depth information."
@@ -2067,11 +2067,11 @@ msgstr ""
 
 msgctxt "#30527"
 msgid "On-Screen Display"
-msgstr ""
+msgstr "螢幕選單"
 
 msgctxt "#30528"
 msgid "Change notifications being shown on-screen."
-msgstr ""
+msgstr "變更螢幕上顯示資訊的設定。"
 
 msgctxt "#30529"
 msgid "Display the internal frame rate at which the emulated PlayStation system is rendering content. Note: Requires onscreen notifications to be enabled in the libretro frontend."
@@ -2087,11 +2087,11 @@ msgstr ""
 
 msgctxt "#30532"
 msgid "Input"
-msgstr ""
+msgstr "輸入"
 
 msgctxt "#30533"
 msgid "Change light gun, mouse and neGcon settings."
-msgstr ""
+msgstr "變更轉接插座、光線槍、滑鼠和類比搖桿的設定。"
 
 msgctxt "#30534"
 msgid "Enable dynamic calibration of analog inputs when the device is set to DualShock, Analog Controller, Analog Joystick, or neGcon. Maximum registered input values are monitored in real time and used to scale analog coordinates passed to the emulator. This should be used for games such as Mega Man Legends 2 that expect larger values than what modern controllers provide. For best results, analog sticks should be rotated at full extent to tune the calibration algorithm each time content is loaded."
@@ -2179,11 +2179,11 @@ msgstr ""
 
 msgctxt "#30555"
 msgid "Enable multitap functionality on port 1."
-msgstr ""
+msgstr "開啟連接埠1轉接插座可對應四位玩家。"
 
 msgctxt "#30556"
 msgid "Enable multitap functionality on port 2."
-msgstr ""
+msgstr "開啟連接埠2轉接插座可對應四位玩家。"
 
 msgctxt "#30557"
 msgid "Use mouse-controlled 'Light Gun' or 'Touchscreen' input when device type is set to 'Guncon/G-Con 45' or 'Justifier'."
@@ -2191,11 +2191,11 @@ msgstr ""
 
 msgctxt "#30558"
 msgid "Light Gun"
-msgstr ""
+msgstr "光線槍"
 
 msgctxt "#30559"
 msgid "Touchscreen"
-msgstr ""
+msgstr "觸控螢幕"
 
 msgctxt "#30560"
 msgid "Draw a cursor on screen while using the 'Guncon/G-Con 45' and 'Justifier' input device types."
@@ -2207,11 +2207,11 @@ msgstr ""
 
 msgctxt "#30562"
 msgid "Cross"
-msgstr ""
+msgstr "十字"
 
 msgctxt "#30563"
 msgid "Dot"
-msgstr ""
+msgstr "圓點"
 
 msgctxt "#30564"
 msgid "Light gun crosshair color for port 1."
@@ -2219,43 +2219,43 @@ msgstr ""
 
 msgctxt "#30565"
 msgid "Red"
-msgstr ""
+msgstr "紅色"
 
 msgctxt "#30566"
 msgid "Blue"
-msgstr ""
+msgstr "藍色"
 
 msgctxt "#30567"
 msgid "Green"
-msgstr ""
+msgstr "綠色"
 
 msgctxt "#30568"
 msgid "Orange"
-msgstr ""
+msgstr "橙色"
 
 msgctxt "#30569"
 msgid "Yellow"
-msgstr ""
+msgstr "黃色"
 
 msgctxt "#30570"
 msgid "Cyan"
-msgstr ""
+msgstr "青色"
 
 msgctxt "#30571"
 msgid "Pink"
-msgstr ""
+msgstr "粉紅"
 
 msgctxt "#30572"
 msgid "Purple"
-msgstr ""
+msgstr "紫色"
 
 msgctxt "#30573"
 msgid "Black"
-msgstr ""
+msgstr "黑色"
 
 msgctxt "#30574"
 msgid "White"
-msgstr ""
+msgstr "白色"
 
 msgctxt "#30575"
 msgid "Light gun crosshair color for port 2."
@@ -2271,7 +2271,7 @@ msgstr ""
 
 msgctxt "#30578"
 msgid "Linear"
-msgstr ""
+msgstr "線性"
 
 msgctxt "#30579"
 msgid "Quadratic"
@@ -2287,7 +2287,7 @@ msgstr ""
 
 msgctxt "#30582"
 msgid "Memory Card"
-msgstr ""
+msgstr "記憶卡"
 
 msgctxt "#30583"
 msgid "Change virtual memory card related settings."
@@ -2299,11 +2299,11 @@ msgstr ""
 
 msgctxt "#30585"
 msgid "Libretro"
-msgstr ""
+msgstr "SRM格式 (Libretro模擬器)"
 
 msgctxt "#30586"
 msgid "Mednafen"
-msgstr ""
+msgstr "MCR格式 (Mednafen模擬器)"
 
 msgctxt "#30587"
 msgid "Emulate a second memory card in the right memory card slot. Note: Some games require this option to be disabled for correct operation (e.g. Codename Tenka). Note: Memory Card Slot 2 uses the Mednafen (.mcr) save format. Restart required."
@@ -2419,7 +2419,7 @@ msgstr ""
 
 msgctxt "#30615"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "進階"
 
 msgctxt "#30616"
 msgid "Change emulation accuracy settings affecting low-level performance and compatibility."
@@ -2431,11 +2431,11 @@ msgstr ""
 
 msgctxt "#30618"
 msgid "Default"
-msgstr ""
+msgstr "預設"
 
 msgctxt "#30619"
 msgid "Aggressive"
-msgstr ""
+msgstr "強制"
 
 msgctxt "#30620"
 msgid "Render 3D content anamorphically and output the emulated framebuffer at a widescreen aspect ratio. Produces best results with fully 3D games. 2D elements will be horizontally stretched and may be misaligned."
@@ -2463,7 +2463,7 @@ msgstr ""
 
 msgctxt "#30626"
 msgid "Max Performance"
-msgstr ""
+msgstr "最高效能"
 
 msgctxt "#30627"
 msgid "Lightrec Interpreter"
@@ -2475,7 +2475,7 @@ msgstr ""
 
 msgctxt "#30629"
 msgid "Full"
-msgstr ""
+msgstr "全部"
 
 msgctxt "#30630"
 msgid "DMA Only (Slightly Faster)"
@@ -2503,7 +2503,7 @@ msgstr ""
 
 msgctxt "#30636"
 msgid "128 (Default)"
-msgstr ""
+msgstr "128 (預設)"
 
 msgctxt "#30637"
 msgid "384"
@@ -2571,4 +2571,20 @@ msgstr ""
 
 msgctxt "#30653"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"
+msgstr ""
+
+msgctxt "#30654"
+msgid "Compatibility Settings"
+msgstr ""
+
+msgctxt "#30655"
+msgid "Apply compatibility settings per game and per setting. Disable to allow user-selected settings to override them."
+msgstr ""
+
+msgctxt "#30656"
+msgid "Enabled (Recommended)"
+msgstr ""
+
+msgctxt "#30657"
+msgid "Disabled (Allow Overrides)"
 msgstr ""

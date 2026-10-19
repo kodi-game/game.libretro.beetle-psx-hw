@@ -27,11 +27,11 @@ msgstr "Beetle PSX on Mednafenin Beetlestä kehittämän PlayStation-moduulin k�
 
 msgctxt "#30001"
 msgid "Internal GPU Resolution"
-msgstr ""
+msgstr "Sisäisen näytönohjaimen resoluutio"
 
 msgctxt "#30002"
 msgid "Internal Color Depth"
-msgstr ""
+msgstr "Sisäinen värisyvyys"
 
 msgctxt "#30003"
 msgid "Dithering Pattern"
@@ -59,7 +59,7 @@ msgstr ""
 
 msgctxt "#30012"
 msgid "DualShock Analog Mode Combo Hold Delay"
-msgstr ""
+msgstr "DualShockin analogisen tilan combon pitämisen viive"
 
 msgctxt "#30015"
 msgid "Gun Input Mode"
@@ -115,7 +115,7 @@ msgstr ""
 
 msgctxt "#30035"
 msgid "CPU Frequency Scaling (Overclock)"
-msgstr ""
+msgstr "Prosessorin taajuuden skaalaus (ylikelloitus)"
 
 msgctxt "#30036"
 msgid "GTE Overclock"
@@ -127,7 +127,7 @@ msgstr "Ohita BIOS"
 
 msgctxt "#30040"
 msgid "Software Framebuffer"
-msgstr ""
+msgstr "Ohjelmisto kehyspuskuri"
 
 msgctxt "#30041"
 msgid "CPU Dynarec"
@@ -167,11 +167,11 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "GPU Rasterizer Overclock"
-msgstr ""
+msgstr "Näytönohjaimen rasteroijan ylikelloitus"
 
 msgctxt "#30052"
 msgid "Core Aspect Ratio"
-msgstr ""
+msgstr "Ytimen kuvasuhde"
 
 msgctxt "#30053"
 msgid "Initial Scan Line - NTSC"
@@ -191,7 +191,7 @@ msgstr ""
 
 msgctxt "#30058"
 msgid "CD Loading Speed"
-msgstr ""
+msgstr "CD:n latausnopeus"
 
 msgctxt "#30059"
 msgid "DualShock Analog Mode Toggle"
@@ -207,15 +207,15 @@ msgstr ""
 
 msgctxt "#30062"
 msgid "CD Access Method"
-msgstr ""
+msgstr "CD:n käyttötapa"
 
 msgctxt "#30063"
 msgid "Override BIOS"
-msgstr ""
+msgstr "Ohita BIOS"
 
 msgctxt "#30064"
 msgid "Renderer"
-msgstr "Renderöijä"
+msgstr "Renderoija"
 
 msgctxt "#30065"
 msgid "Multitap on Port 1"
@@ -235,15 +235,15 @@ msgstr ""
 
 msgctxt "#30069"
 msgid "Memory Card Method"
-msgstr ""
+msgstr "Muistikortin menetelmä"
 
 msgctxt "#30070"
 msgid "Memory Card Slot 2"
-msgstr ""
+msgstr "Muistikortin paikka 2"
 
 msgctxt "#30071"
 msgid "Shared Memory Cards"
-msgstr ""
+msgstr "Jaetut muistikortit"
 
 msgctxt "#30072"
 msgid "Memory Card Slot 1 Index"
@@ -263,23 +263,23 @@ msgstr ""
 
 msgctxt "#30076"
 msgid "System Region"
-msgstr ""
+msgstr "Järjestelmän alue"
 
 msgctxt "#30077"
 msgid "System"
-msgstr ""
+msgstr "Järjestelmä"
 
 msgctxt "#30078"
 msgid "Change system and overclocking options."
-msgstr ""
+msgstr "Vaihda järjestelmän ja ylikelloitus asetuksia."
 
 msgctxt "#30079"
 msgid "Overclock (or underclock) the emulated PSX CPU. Overclocking can eliminate slowdown and improve frame rates in certain games at the expense of increased performance requirements. Note that some games have an internal frame rate limiter and may not benefit from overclocking. May cause certain effects to animate faster than intended in some titles when overclocked."
-msgstr ""
+msgstr "Ylikelloita (tai alikelloita) emuloidun PS1 prosessoria. Ylikelloitus voi poistaa hitauden ja parantaa kuvataajuutta tietyissä peleissä, mutta suorituskykyvaatimuksien kustannuksella. Huomaa että joissakin peleissä on sisäinen kuvataajuus rajoitin, jolloin ne ei hyödy ylikelloittamisesta. Ylikelloitus voi nopeuttaa tiettyjä animaatioita ja tehosteita joissakin peleissä."
 
 msgctxt "#30080"
 msgid "100% (Native)"
-msgstr ""
+msgstr "100 % (Natiivi)"
 
 msgctxt "#30081"
 msgid "50%"
@@ -563,11 +563,11 @@ msgstr ""
 
 msgctxt "#30151"
 msgid "Enable overclocking of the 2D rasterizer contained within the emulated PSX's GPU. Does not improve 3D rendering, and in general has little effect."
-msgstr ""
+msgstr "Ota käyttöön emuloidun PS1:n näytönohjaimen 2D rasteroijan ylikelloitus. Ei paranna 3D-renderointintia, ja yleensä sillä on vähän vaikutusta."
 
 msgctxt "#30152"
 msgid "1x (Native)"
-msgstr ""
+msgstr "1x (Natiivi)"
 
 msgctxt "#30153"
 msgid "2x"
@@ -591,31 +591,31 @@ msgstr ""
 
 msgctxt "#30158"
 msgid "Lower all emulated GTE (CPU coprocessor for 3D graphics) operations to a constant one-cycle latency. For games that make heavy use of the GTE, this can greatly improve frame rate and frame time stability."
-msgstr ""
+msgstr "Pienentää kaikki emuloidut GTE (3D grafiikan apuprosessori) toiminnan jatkuvaksi yhden-syklin viiveeksi. Peleissä jotka käyttää GTE: tä paljon, tämä voi mahdollisesti parantaa kuvataajuutta ja vakautta."
 
 msgctxt "#30159"
 msgid "'Synchronous' mimics original hardware. 'Asynchronous' can reduce stuttering on devices with slow storage. 'Pre-Cache' loads the entire disk image into memory when launching content, which may improve in-game loading times at the cost of an initial delay at startup. 'Pre-Cache' may cause issues on systems with low RAM, and will fall back to 'Synchronous' for physical media. Restart required."
-msgstr ""
+msgstr "\"Tahdistettu\" jäljittelee alkuperäistä konsolia. \"Epä-tahdistettu\" voi vähentää jumiutumista hitailla laitteilla. \"Välimuistissa\" lataa koko levyn muistiin käynnistettäessä, mikä voi nopeuttaa pelin sisäisiä latausaikoja aloitusvaiheen viivästymisen kustannuksella. \"Välimuistissa\" voi aiheuttaa ongelmia laitteilla joilla ei ole paljoa RAM-muistia, ja palaa takaisin \"Tahdistettu\" asetukseen. Uudelleenkäynnistys vaaditaan."
 
 msgctxt "#30160"
 msgid "Synchronous"
-msgstr ""
+msgstr "Synkroninen"
 
 msgctxt "#30161"
 msgid "Asynchronous"
-msgstr ""
+msgstr "Asynkroninen"
 
 msgctxt "#30162"
 msgid "Pre-Cache"
-msgstr ""
+msgstr "Esivälimuisti"
 
 msgctxt "#30163"
 msgid "Values higher than '2x (Native)' can greatly reduce in-game loading times, but may introduce timing errors. Some games may not function properly above a certain value."
-msgstr ""
+msgstr "Arvot, jotka ovat korkeammat kuin 2x (natiivi) voivat vähentää latausaikoja, mutta saattavat aiheuttaa ajoitusvirheitä. Jotkin pelit ei toimi kunnolla tiettyjen arvojen yläpuolella."
 
 msgctxt "#30164"
 msgid "2x (Native)"
-msgstr ""
+msgstr "2x (Natiivi)"
 
 msgctxt "#30165"
 msgid "6x"
@@ -635,19 +635,19 @@ msgstr ""
 
 msgctxt "#30169"
 msgid "Skip the PlayStation BIOS boot animation normally displayed when loading content. Note: Enabling this causes compatibility issues with a number of games (PAL copy protected games, Saga Frontier, etc.)."
-msgstr ""
+msgstr "Ohittaa Playstationin BIOS:sin käynnistysanimaation. Huom, tämä asetus voi aiheuttaa yhteensopivusongelmia tietyissä peleissä (PAL-kopiosuojatut pelit, Saga Frontier, jne)."
 
 msgctxt "#30170"
 msgid "Override the standard region specific BIOS with a region-free one if found. Restart required."
-msgstr ""
+msgstr "Korvaa vakioaluekohtaisen BIOS:sin aluevapaalla, mikäli sellainen löytyy. Uudelleenkäynnistys vaaditaan."
 
 msgctxt "#30171"
 msgid "PSP PS1 BIOS"
-msgstr ""
+msgstr "PSP:n PS1 BIOS"
 
 msgctxt "#30172"
 msgid "PS3 PS1 BIOS"
-msgstr ""
+msgstr "PS3:n PS1 BIOS"
 
 msgctxt "#30173"
 msgid "OpenBIOS"
@@ -659,19 +659,19 @@ msgstr ""
 
 msgctxt "#30175"
 msgid "Auto"
-msgstr ""
+msgstr "Automaattinen"
 
 msgctxt "#30176"
 msgid "NTSC-J (Japan)"
-msgstr ""
+msgstr "NTSC-J (Japani)"
 
 msgctxt "#30177"
 msgid "NTSC-U (North America)"
-msgstr ""
+msgstr "NTSC-U (Pohjois-Amerikka)"
 
 msgctxt "#30178"
 msgid "PAL (Europe)"
-msgstr ""
+msgstr "PAL (Eurooppa)"
 
 msgctxt "#30179"
 msgid "Video"
@@ -679,31 +679,31 @@ msgstr ""
 
 msgctxt "#30180"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
-msgstr ""
+msgstr "Muuta kuvasuhdetta, näytön rajausta, videosuodatusta ja kuvanohitusasetuksia."
 
 msgctxt "#30181"
 msgid "Resolutions higher than '1x (Native)' improve fidelity of 3D models at the expense of increased performance requirements. 2D elements are generally unaffected by this setting."
-msgstr ""
+msgstr "Korkeammat resoluutiot kuin 1x (Natiivi) parantaa 3D-mallien tarkkuutta lisääntyvät suorituskukuvaatimuksien kustannuksella. Tämä asetus ei yleensä vaikuta 2D-elementteihin."
 
 msgctxt "#30182"
 msgid "The software renderer is the most accurate but has steep performance requirements when running at increased internal GPU resolutions. The hardware renderers, while less accurate, improve performance over the software renderer at increased internal resolutions and enable various graphical enhancements. 'Hardware (Auto)' automatically selects the Vulkan or OpenGL renderer, depending upon the current libretro frontend video driver. If the provided video driver is not Vulkan or OpenGL 3.3-compatible, then the core will fall back to the software renderer. Restart required."
-msgstr ""
+msgstr "Ohjelmistorenderoija on tarkka, mutta sillä on jyrkät järjestelmävaatimukset kun käytetään suurempaa sisäistä näytönohjaimen resoluutioita. Laitteistorenderoija on vähemmän tarkempi, mutta parantaa suorituskykykä ja sen kanssa voidaan käyttää erinlaisia grafiikan parannuksia. \"Laitteisto (automaattinen)\" automaattisesti valitsee Vulkan tai OpenGL renderoijan, riippuen nykyisestä libretro käyttöliittymän ajurista. Jos annettu video-ajuri ei ole Vulkan tai OpenGL 3.3-yhteensopiva, sitten ydin palaa takaisin ohjelmistorenderoijaan. Uudelleenkäynnistys vaaditaan."
 
 msgctxt "#30183"
 msgid "Hardware (Auto)"
-msgstr ""
+msgstr "Laitteisto (Auto)"
 
 msgctxt "#30184"
 msgid "Hardware (OpenGL)"
-msgstr ""
+msgstr "Laitteisto (OpenGL)"
 
 msgctxt "#30185"
 msgid "Software"
-msgstr ""
+msgstr "Ohjelmisto"
 
 msgctxt "#30186"
 msgid "Enable accurate emulation of framebuffer effects (e.g. motion blur, FF7 battle swirl) when using hardware renderers by running a copy of the software renderer at native resolution in the background. If disabled, these operations are omitted (OpenGL) or rendered on the GPU (Vulkan). Disabling can improve performance but may cause severe graphical errors. Leave enabled if unsure."
-msgstr ""
+msgstr "Ota käyttöön kehyspuskuri-tehosteiden (esim. liikkeen hämärtyminen, FF7-taistelun pyörre) tarkka emulointi laitteistopohjaista renderöijöitää käytettäessä ajamalla taustalla ohjelmistopohjaisen renderöijän kopio alkuperäisellä tarkkuudella. Jos tämä asetus on pois käytöstä, nämä toiminnot ohitetaan (OpenGL) tai renderöidään näytönohjaimella (Vulkan). Asetuksen poistaminen käytöstä voi parantaa suorituskykyä, mutta se voi aiheuttaa vakavia graafisia virheitä. Jätä asetus käyttöön, jos et ole varma."
 
 msgctxt "#30187"
 msgid "Color Format"
@@ -891,7 +891,7 @@ msgstr ""
 
 msgctxt "#30233"
 msgid "16 bpp (Native)"
-msgstr ""
+msgstr "16 bpp (Natiivi)"
 
 msgctxt "#30234"
 msgid "32 bpp"
@@ -903,7 +903,7 @@ msgstr ""
 
 msgctxt "#30236"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "Sisäinen resoluutio"
 
 msgctxt "#30237"
 msgid "'Nearest' emulates original hardware. 'Bilinear' and '3-Point' are smoothing filters, which reduce pixelation via blurring. 'SABR', 'xBR', and 'JINC2' are upscaling filters that may improve texture fidelity/sharpness at the expense of increased performance requirements. Only supported by the hardware renderers."
@@ -911,15 +911,15 @@ msgstr ""
 
 msgctxt "#30238"
 msgid "Nearest"
-msgstr ""
+msgstr "Lähin"
 
 msgctxt "#30239"
 msgid "Bilinear"
-msgstr ""
+msgstr "Bilineaarinen"
 
 msgctxt "#30240"
 msgid "3-Point"
-msgstr ""
+msgstr "Kolmipiste"
 
 msgctxt "#30241"
 msgid "SABR"
@@ -983,19 +983,19 @@ msgstr ""
 
 msgctxt "#30256"
 msgid "Corrected"
-msgstr ""
+msgstr "Korjattu"
 
 msgctxt "#30257"
 msgid "Uncorrected"
-msgstr ""
+msgstr "Ei korjattu"
 
 msgctxt "#30258"
 msgid "Force 4:3"
-msgstr ""
+msgstr "Pakota 4:3"
 
 msgctxt "#30259"
 msgid "Force NTSC"
-msgstr ""
+msgstr "Pakota NTSC"
 
 msgctxt "#30260"
 msgid "Force 16:9"
@@ -1535,7 +1535,7 @@ msgstr ""
 
 msgctxt "#30394"
 msgid "0 (Default)"
-msgstr ""
+msgstr "0 (Oletus)"
 
 msgctxt "#30395"
 msgid "1"
@@ -1703,7 +1703,7 @@ msgstr ""
 
 msgctxt "#30436"
 msgid "239 (Default)"
-msgstr ""
+msgstr "239 (Oletus)"
 
 msgctxt "#30437"
 msgid "210"
@@ -1831,7 +1831,7 @@ msgstr ""
 
 msgctxt "#30468"
 msgid "287 (Default)"
-msgstr ""
+msgstr "287 (Oletus)"
 
 msgctxt "#30469"
 msgid "239"
@@ -2031,7 +2031,7 @@ msgstr ""
 
 msgctxt "#30518"
 msgid "These options control enhancements which can improve graphics compared to the original console. PGXP can get rid of warping textures and Z-fighting issues."
-msgstr ""
+msgstr "Nämä asetukset ohjaavat parannuksia, jotka voivat parantaa grafiikkaa alkuperäiseen konsoliin verrattuna. PGXP saattaa poistaa vääristelevät tekstuurit ja Z-kiistelyyn liittyvät ongelmat."
 
 msgctxt "#30519"
 msgid "Render 3D objects with subpixel precision, minimizing distortion and jitter of 3D objects seen on original hardware due to the usage of fixed point vertex coordinates. 'Memory Only' mode has minimal compatibility issues and is recommended for general use. 'Memory + CPU (Buggy)' mode can reduce jitter even further but has high performance requirements and may cause various geometry errors."
@@ -2047,7 +2047,7 @@ msgstr ""
 
 msgctxt "#30522"
 msgid "Hide more glaring errors in PGXP operations: the value specifies the tolerance in which PGXP values will be kept in case of geometries without proper depth information."
-msgstr ""
+msgstr "Piilota räikeämmät virheet PGXP-operaatioissa: arvo määrittää toleranssin, jossa PGXP-arvot säilytetään, jos geometriat on ilman asianmukaista syvyystietoa."
 
 msgctxt "#30523"
 msgid "0px"
@@ -2067,11 +2067,11 @@ msgstr ""
 
 msgctxt "#30527"
 msgid "On-Screen Display"
-msgstr ""
+msgstr "Näyttöruutu"
 
 msgctxt "#30528"
 msgid "Change notifications being shown on-screen."
-msgstr ""
+msgstr "Muuta näytöllä näytettäviä ilmoituksia."
 
 msgctxt "#30529"
 msgid "Display the internal frame rate at which the emulated PlayStation system is rendering content. Note: Requires onscreen notifications to be enabled in the libretro frontend."
@@ -2087,11 +2087,11 @@ msgstr ""
 
 msgctxt "#30532"
 msgid "Input"
-msgstr ""
+msgstr "Syöte"
 
 msgctxt "#30533"
 msgid "Change light gun, mouse and neGcon settings."
-msgstr ""
+msgstr "Muokkaa valoaseen, hiiren ja neGcon:in asetuksia."
 
 msgctxt "#30534"
 msgid "Enable dynamic calibration of analog inputs when the device is set to DualShock, Analog Controller, Analog Joystick, or neGcon. Maximum registered input values are monitored in real time and used to scale analog coordinates passed to the emulator. This should be used for games such as Mega Man Legends 2 that expect larger values than what modern controllers provide. For best results, analog sticks should be rotated at full extent to tune the calibration algorithm each time content is loaded."
@@ -2155,27 +2155,27 @@ msgstr ""
 
 msgctxt "#30549"
 msgid "0 Second Delay"
-msgstr ""
+msgstr "0 sekunnin viive"
 
 msgctxt "#30550"
 msgid "1 Second Delay"
-msgstr ""
+msgstr "1 sekunnin viive"
 
 msgctxt "#30551"
 msgid "2 Second Delay"
-msgstr ""
+msgstr "2 sekunnin viive"
 
 msgctxt "#30552"
 msgid "3 Second Delay"
-msgstr ""
+msgstr "3 sekunnin viive"
 
 msgctxt "#30553"
 msgid "4 Second Delay"
-msgstr ""
+msgstr "4 sekunnin viive"
 
 msgctxt "#30554"
 msgid "5 Second Delay"
-msgstr ""
+msgstr "5 sekunnin viive"
 
 msgctxt "#30555"
 msgid "Enable multitap functionality on port 1."
@@ -2191,11 +2191,11 @@ msgstr ""
 
 msgctxt "#30558"
 msgid "Light Gun"
-msgstr ""
+msgstr "Valoase"
 
 msgctxt "#30559"
 msgid "Touchscreen"
-msgstr ""
+msgstr "Kosketusnäyttö"
 
 msgctxt "#30560"
 msgid "Draw a cursor on screen while using the 'Guncon/G-Con 45' and 'Justifier' input device types."
@@ -2207,11 +2207,11 @@ msgstr ""
 
 msgctxt "#30562"
 msgid "Cross"
-msgstr ""
+msgstr "Risti"
 
 msgctxt "#30563"
 msgid "Dot"
-msgstr ""
+msgstr "Piste"
 
 msgctxt "#30564"
 msgid "Light gun crosshair color for port 1."
@@ -2219,43 +2219,43 @@ msgstr ""
 
 msgctxt "#30565"
 msgid "Red"
-msgstr ""
+msgstr "Punainen"
 
 msgctxt "#30566"
 msgid "Blue"
-msgstr ""
+msgstr "Sininen"
 
 msgctxt "#30567"
 msgid "Green"
-msgstr ""
+msgstr "Vihreä"
 
 msgctxt "#30568"
 msgid "Orange"
-msgstr ""
+msgstr "Oranssi"
 
 msgctxt "#30569"
 msgid "Yellow"
-msgstr ""
+msgstr "Keltainen"
 
 msgctxt "#30570"
 msgid "Cyan"
-msgstr ""
+msgstr "Syaani"
 
 msgctxt "#30571"
 msgid "Pink"
-msgstr ""
+msgstr "Vaaleanpunainen"
 
 msgctxt "#30572"
 msgid "Purple"
-msgstr ""
+msgstr "Violetti"
 
 msgctxt "#30573"
 msgid "Black"
-msgstr ""
+msgstr "Musta"
 
 msgctxt "#30574"
 msgid "White"
-msgstr ""
+msgstr "Valkoinen"
 
 msgctxt "#30575"
 msgid "Light gun crosshair color for port 2."
@@ -2271,7 +2271,7 @@ msgstr ""
 
 msgctxt "#30578"
 msgid "Linear"
-msgstr ""
+msgstr "Lineaarinen"
 
 msgctxt "#30579"
 msgid "Quadratic"
@@ -2287,11 +2287,11 @@ msgstr ""
 
 msgctxt "#30582"
 msgid "Memory Card"
-msgstr ""
+msgstr "Muistikortti"
 
 msgctxt "#30583"
 msgid "Change virtual memory card related settings."
-msgstr ""
+msgstr "Vaihda virtuaalisen muistikortin asetuksia."
 
 msgctxt "#30584"
 msgid "Save data format used for the left memory card slot. 'Mednafen' may be used for compatibility with the stand-alone version of Mednafen. When used with Beetle PSX, Libretro (.srm) and Mednafen (.mcr) saves have internally identical formats and can be converted between one another via renaming. Restart required."
@@ -2415,15 +2415,15 @@ msgstr ""
 
 msgctxt "#30614"
 msgid "1 (Default)"
-msgstr ""
+msgstr "1 (Oletus)"
 
 msgctxt "#30615"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Emulointikikat"
 
 msgctxt "#30616"
 msgid "Change emulation accuracy settings affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Muuta prosessorin ylikellotus- ja emulointitarkkuusasetuksia, jotka vaikuttavat matalan tason suorituskykyyn ja yhteensopivuuteen."
 
 msgctxt "#30617"
 msgid "Some games (e.g. Doom, Hexen, Soul Blade, etc.) draw horizontal lines by stretching single-pixel-high triangles across the screen, which are rasterized as a row of pixels on original hardware. This hack detects these small triangles and converts them to quads as required, allowing them to be displayed properly on the hardware renderers and at upscaled internal resolutions. 'Aggressive' is required for some titles (e.g. Dark Forces, Duke Nukem) but may otherwise introduce graphical glitches. Leave at 'Default' if unsure."
@@ -2431,7 +2431,7 @@ msgstr ""
 
 msgctxt "#30618"
 msgid "Default"
-msgstr ""
+msgstr "Oletus"
 
 msgctxt "#30619"
 msgid "Aggressive"
@@ -2471,15 +2471,15 @@ msgstr ""
 
 msgctxt "#30628"
 msgid "Some games require 'Full' invalidation, some require 'DMA Only'."
-msgstr ""
+msgstr "Jotkin pelit vaativat 'Täysi'-mitätöintiä, toiset vaativat 'Vain DMA'."
 
 msgctxt "#30629"
 msgid "Full"
-msgstr ""
+msgstr "Täysi"
 
 msgctxt "#30630"
 msgid "DMA Only (Slightly Faster)"
-msgstr ""
+msgstr "Vain DMA (hieman nopeampi)"
 
 msgctxt "#30631"
 msgid "Dynarec Cycles Per Instruction"
@@ -2503,7 +2503,7 @@ msgstr ""
 
 msgctxt "#30636"
 msgid "128 (Default)"
-msgstr ""
+msgstr "128 (Oletus)"
 
 msgctxt "#30637"
 msgid "384"
@@ -2573,6 +2573,22 @@ msgctxt "#30653"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"
 msgstr ""
 
+msgctxt "#30654"
+msgid "Compatibility Settings"
+msgstr ""
+
+msgctxt "#30655"
+msgid "Apply compatibility settings per game and per setting. Disable to allow user-selected settings to override them."
+msgstr ""
+
+msgctxt "#30656"
+msgid "Enabled (Recommended)"
+msgstr ""
+
+msgctxt "#30657"
+msgid "Disabled (Allow Overrides)"
+msgstr ""
+
 #~ msgctxt "#30013"
 #~ msgid "Port 1: Multitap Enable"
 #~ msgstr "Portti 1: Multitap-käyttöönotto"
@@ -2594,15 +2610,15 @@ msgstr ""
 #~ msgstr "Asetukset"
 
 #~ msgctxt "#30004"
-#~ msgid "Display Internal FPS"
-#~ msgstr "Näytä sisäinen FPS"
+#~ msgid "Texture Filtering"
+#~ msgstr "Tekstuurisuodatus"
 
 #~ msgctxt "#30005"
 #~ msgid "Analog Self-Calibration"
 #~ msgstr "Analoginen itsekalibrointi"
 
 #~ msgctxt "#30009"
-#~ msgid "Port 1: Multitap Enable"
+#~ msgid "Analog Self-Calibration"
 #~ msgstr "Portti 1: Multitap-käyttöönotto"
 
 #~ msgctxt "#30010"
@@ -2610,11 +2626,11 @@ msgstr ""
 #~ msgstr "Portti 2: Multitap-käyttöönotto"
 
 #~ msgctxt "#30016"
-#~ msgid "neGcon Twist Response"
-#~ msgstr "neGcon Twist -vaste"
+#~ msgid "Gun Cursor"
+#~ msgstr "Aseen tähtäin"
 
 #~ msgctxt "#30021"
-#~ msgid "Memory Card Left Index"
+#~ msgid "neGcon Twist Deadzone"
 #~ msgstr "Muistikortin vasen indeksi"
 
 #~ msgctxt "#30022"
@@ -2622,7 +2638,7 @@ msgstr ""
 #~ msgstr "Muistikortin oikea indeksi"
 
 #~ msgctxt "#30031"
-#~ msgid "Skip BIOS"
+#~ msgid "PGXP Perspective Correct Texturing"
 #~ msgstr "Ohita BIOS"
 
 #~ msgctxt "#30039"
@@ -2630,37 +2646,37 @@ msgstr ""
 #~ msgstr "Yliskannauksen rajaus"
 
 #~ msgctxt "#30007"
-#~ msgid "Port 1: Multitap Enable"
-#~ msgstr "Portti 1: Multitap-käyttöönotto"
+#~ msgid "Display Internal FPS"
+#~ msgstr "Näytä sisäinen FPS"
 
 #~ msgctxt "#30008"
-#~ msgid "Port 2: Multitap Enable"
-#~ msgstr "Portti 2: Multitap-käyttöönotto"
+#~ msgid "Display Full VRAM (Debug)"
+#~ msgstr "Näytä täysi VRAM (vianetsintä)"
 
 #~ msgctxt "#30014"
 #~ msgid "neGcon Twist Response"
 #~ msgstr "neGcon Twist -vaste"
 
 #~ msgctxt "#30015"
-#~ msgid "neGcon Twist Deadzone"
+#~ msgid "Gun Input Mode"
 #~ msgstr "neGcon Twist -kuollut alue (%)"
 
 #~ msgctxt "#30019"
-#~ msgid "Memory Card Left Index"
-#~ msgstr "Muistikortin vasen indeksi"
+#~ msgid "Mouse Sensitivity"
+#~ msgstr "Hiiren herkkyys"
 
 #~ msgctxt "#30020"
-#~ msgid "Memory Card Right Index"
+#~ msgid "neGcon Twist Response"
 #~ msgstr "Muistikortin oikea indeksi"
 
 #~ msgctxt "#30029"
-#~ msgid "Skip BIOS"
+#~ msgid "PGXP Primitive Culling"
 #~ msgstr "Ohita BIOS"
 
 #~ msgctxt "#30037"
-#~ msgid "Crop Overscan"
-#~ msgstr "Yliskannauksen rajaus"
+#~ msgid "Skip BIOS"
+#~ msgstr "Ohita BIOS"
 
 #~ msgctxt "#30036"
-#~ msgid "Crop Overscan"
-#~ msgstr "Yliskannauksen rajaus"
+#~ msgid "GTE Overclock"
+#~ msgstr "GTE ylikelloitus"

@@ -155,7 +155,7 @@ msgstr ""
 
 msgctxt "#30048"
 msgid "Additional Cropping"
-msgstr ""
+msgstr "Recorte adicional"
 
 msgctxt "#30049"
 msgid "Offset Cropped Image"
@@ -171,7 +171,7 @@ msgstr ""
 
 msgctxt "#30052"
 msgid "Core Aspect Ratio"
-msgstr ""
+msgstr "Proporción d'aspeutu del nucleu"
 
 msgctxt "#30053"
 msgid "Initial Scan Line - NTSC"
@@ -263,11 +263,11 @@ msgstr ""
 
 msgctxt "#30076"
 msgid "System Region"
-msgstr ""
+msgstr "Rexón del sistema"
 
 msgctxt "#30077"
 msgid "System"
-msgstr ""
+msgstr "Sistema"
 
 msgctxt "#30078"
 msgid "Change system and overclocking options."
@@ -599,11 +599,11 @@ msgstr ""
 
 msgctxt "#30160"
 msgid "Synchronous"
-msgstr ""
+msgstr "Síncronu"
 
 msgctxt "#30161"
 msgid "Asynchronous"
-msgstr ""
+msgstr "Asíncronu"
 
 msgctxt "#30162"
 msgid "Pre-Cache"
@@ -635,7 +635,7 @@ msgstr ""
 
 msgctxt "#30169"
 msgid "Skip the PlayStation BIOS boot animation normally displayed when loading content. Note: Enabling this causes compatibility issues with a number of games (PAL copy protected games, Saga Frontier, etc.)."
-msgstr ""
+msgstr "Salta l'animación d'arrique de la BIOS de PlayStation que suel apaecer al cargar conteníu. Nota: l'activación d'esta opción produz problemes de compatibilidá con dalgunos de xuegos (xuegos PAL con proteición anticopia, Saga Frontier, etc.)."
 
 msgctxt "#30170"
 msgid "Override the standard region specific BIOS with a region-free one if found. Restart required."
@@ -643,11 +643,11 @@ msgstr ""
 
 msgctxt "#30171"
 msgid "PSP PS1 BIOS"
-msgstr ""
+msgstr "BIOS de PS1 de la PSP"
 
 msgctxt "#30172"
 msgid "PS3 PS1 BIOS"
-msgstr ""
+msgstr "BIOS de PS1 de la PS3"
 
 msgctxt "#30173"
 msgid "OpenBIOS"
@@ -675,7 +675,7 @@ msgstr ""
 
 msgctxt "#30179"
 msgid "Video"
-msgstr ""
+msgstr "Videu"
 
 msgctxt "#30180"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
@@ -903,7 +903,7 @@ msgstr ""
 
 msgctxt "#30236"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "Resolución interna"
 
 msgctxt "#30237"
 msgid "'Nearest' emulates original hardware. 'Bilinear' and '3-Point' are smoothing filters, which reduce pixelation via blurring. 'SABR', 'xBR', and 'JINC2' are upscaling filters that may improve texture fidelity/sharpness at the expense of increased performance requirements. Only supported by the hardware renderers."
@@ -915,7 +915,7 @@ msgstr ""
 
 msgctxt "#30239"
 msgid "Bilinear"
-msgstr ""
+msgstr "Billinial"
 
 msgctxt "#30240"
 msgid "3-Point"
@@ -1703,7 +1703,7 @@ msgstr ""
 
 msgctxt "#30436"
 msgid "239 (Default)"
-msgstr ""
+msgstr "239 (por defeutu)"
 
 msgctxt "#30437"
 msgid "210"
@@ -1831,7 +1831,7 @@ msgstr ""
 
 msgctxt "#30468"
 msgid "287 (Default)"
-msgstr ""
+msgstr "287 (por defeutu)"
 
 msgctxt "#30469"
 msgid "239"
@@ -2043,7 +2043,7 @@ msgstr ""
 
 msgctxt "#30521"
 msgid "Memory + CPU (Buggy)"
-msgstr ""
+msgstr "Memoria + CPU (produz fallos)"
 
 msgctxt "#30522"
 msgid "Hide more glaring errors in PGXP operations: the value specifies the tolerance in which PGXP values will be kept in case of geometries without proper depth information."
@@ -2087,7 +2087,7 @@ msgstr ""
 
 msgctxt "#30532"
 msgid "Input"
-msgstr ""
+msgstr "Controles"
 
 msgctxt "#30533"
 msgid "Change light gun, mouse and neGcon settings."
@@ -2195,7 +2195,7 @@ msgstr ""
 
 msgctxt "#30559"
 msgid "Touchscreen"
-msgstr ""
+msgstr "Pantalla táctil"
 
 msgctxt "#30560"
 msgid "Draw a cursor on screen while using the 'Guncon/G-Con 45' and 'Justifier' input device types."
@@ -2219,43 +2219,43 @@ msgstr ""
 
 msgctxt "#30565"
 msgid "Red"
-msgstr ""
+msgstr "Coloráu"
 
 msgctxt "#30566"
 msgid "Blue"
-msgstr ""
+msgstr "Azul"
 
 msgctxt "#30567"
 msgid "Green"
-msgstr ""
+msgstr "Verde"
 
 msgctxt "#30568"
 msgid "Orange"
-msgstr ""
+msgstr "Naranxa"
 
 msgctxt "#30569"
 msgid "Yellow"
-msgstr ""
+msgstr "Mariellu"
 
 msgctxt "#30570"
 msgid "Cyan"
-msgstr ""
+msgstr "Cianu"
 
 msgctxt "#30571"
 msgid "Pink"
-msgstr ""
+msgstr "Rosa"
 
 msgctxt "#30572"
 msgid "Purple"
-msgstr ""
+msgstr "Moráu"
 
 msgctxt "#30573"
 msgid "Black"
-msgstr ""
+msgstr "Prietu"
 
 msgctxt "#30574"
 msgid "White"
-msgstr ""
+msgstr "Blancu"
 
 msgctxt "#30575"
 msgid "Light gun crosshair color for port 2."
@@ -2287,7 +2287,7 @@ msgstr ""
 
 msgctxt "#30582"
 msgid "Memory Card"
-msgstr ""
+msgstr "Tarxeta de memoria"
 
 msgctxt "#30583"
 msgid "Change virtual memory card related settings."
@@ -2419,7 +2419,7 @@ msgstr ""
 
 msgctxt "#30615"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Hacks de la emulación"
 
 msgctxt "#30616"
 msgid "Change emulation accuracy settings affecting low-level performance and compatibility."
@@ -2435,7 +2435,7 @@ msgstr ""
 
 msgctxt "#30619"
 msgid "Aggressive"
-msgstr ""
+msgstr "Agresivu"
 
 msgctxt "#30620"
 msgid "Render 3D content anamorphically and output the emulated framebuffer at a widescreen aspect ratio. Produces best results with fully 3D games. 2D elements will be horizontally stretched and may be misaligned."
@@ -2573,12 +2573,28 @@ msgctxt "#30653"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"
 msgstr ""
 
+msgctxt "#30654"
+msgid "Compatibility Settings"
+msgstr ""
+
+msgctxt "#30655"
+msgid "Apply compatibility settings per game and per setting. Disable to allow user-selected settings to override them."
+msgstr ""
+
+msgctxt "#30656"
+msgid "Enabled (Recommended)"
+msgstr ""
+
+msgctxt "#30657"
+msgid "Disabled (Allow Overrides)"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Axustes"
 
 #~ msgctxt "#30015"
-#~ msgid "Mouse Sensitivity"
+#~ msgid "Gun Input Mode"
 #~ msgstr "Sensibilidá del mur"
 
 #~ msgctxt "#30013"

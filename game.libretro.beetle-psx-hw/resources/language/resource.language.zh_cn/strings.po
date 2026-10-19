@@ -167,7 +167,7 @@ msgstr "水平图像偏移（GPU 周期）"
 
 msgctxt "#30051"
 msgid "GPU Rasterizer Overclock"
-msgstr "GPU 光栅化器超频"
+msgstr "GPU 光栅器超频"
 
 msgctxt "#30052"
 msgid "Core Aspect Ratio"
@@ -175,11 +175,11 @@ msgstr "核心宽高比"
 
 msgctxt "#30053"
 msgid "Initial Scan Line - NTSC"
-msgstr "初始扫描线 - NTSC"
+msgstr "NTSC 初始扫描线"
 
 msgctxt "#30054"
 msgid "Last Scan Line - NTSC"
-msgstr "终止扫描线 - NTSC"
+msgstr "最后扫描线 - NTSC"
 
 msgctxt "#30055"
 msgid "Initial Scan Line - PAL"
@@ -187,23 +187,23 @@ msgstr "初始扫描线 - PAL"
 
 msgctxt "#30056"
 msgid "Last Scan Line - PAL"
-msgstr "终止扫描线 - PAL"
+msgstr "最后扫描线 - PAL"
 
 msgctxt "#30058"
 msgid "CD Loading Speed"
-msgstr "CD 读取速度"
+msgstr "CD 加载速度"
 
 msgctxt "#30059"
 msgid "DualShock Analog Mode Toggle"
-msgstr "双震动模拟模式切换"
+msgstr "DualShock 模拟模式切换"
 
 msgctxt "#30060"
 msgid "Display OSD Messages"
-msgstr "显示 OSD 信息"
+msgstr "显示 OSD 消息"
 
 msgctxt "#30061"
 msgid "Deinterlace Method"
-msgstr "去隔行扫描法"
+msgstr "去隔行方法"
 
 msgctxt "#30062"
 msgid "CD Access Method"
@@ -267,7 +267,7 @@ msgstr "系统区域"
 
 msgctxt "#30077"
 msgid "System"
-msgstr ""
+msgstr "系统"
 
 msgctxt "#30078"
 msgid "Change system and overclocking options."
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "#30079"
 msgid "Overclock (or underclock) the emulated PSX CPU. Overclocking can eliminate slowdown and improve frame rates in certain games at the expense of increased performance requirements. Note that some games have an internal frame rate limiter and may not benefit from overclocking. May cause certain effects to animate faster than intended in some titles when overclocked."
-msgstr ""
+msgstr "对模拟的 PSX CPU 进行超频（或降频）。超频可以在某些游戏中消除卡顿并提高帧率，但会增加性能需求。请注意，某些游戏内置帧率限制器，可能无法从超频中受益。超频可能导致某些特效在某些游戏中动画速度比预期更快。"
 
 msgctxt "#30080"
 msgid "100% (Native)"
@@ -563,11 +563,11 @@ msgstr ""
 
 msgctxt "#30151"
 msgid "Enable overclocking of the 2D rasterizer contained within the emulated PSX's GPU. Does not improve 3D rendering, and in general has little effect."
-msgstr ""
+msgstr "启用对模拟 PSX GPU 内置的 2D 光栅化器进行超频。此选项不会提升 3D 渲染效果，通常影响甚微。32x"
 
 msgctxt "#30152"
 msgid "1x (Native)"
-msgstr ""
+msgstr "1x（原生）"
 
 msgctxt "#30153"
 msgid "2x"
@@ -591,7 +591,7 @@ msgstr ""
 
 msgctxt "#30158"
 msgid "Lower all emulated GTE (CPU coprocessor for 3D graphics) operations to a constant one-cycle latency. For games that make heavy use of the GTE, this can greatly improve frame rate and frame time stability."
-msgstr ""
+msgstr "将所有模拟的 GTE（用于 3D 图形的 CPU 协处理器）操作降低至恒定的单周期延迟。对于重度使用 GTE 的游戏，这可以显著提升帧率和帧时间稳定性。"
 
 msgctxt "#30159"
 msgid "'Synchronous' mimics original hardware. 'Asynchronous' can reduce stuttering on devices with slow storage. 'Pre-Cache' loads the entire disk image into memory when launching content, which may improve in-game loading times at the cost of an initial delay at startup. 'Pre-Cache' may cause issues on systems with low RAM, and will fall back to 'Synchronous' for physical media. Restart required."
@@ -599,15 +599,15 @@ msgstr ""
 
 msgctxt "#30160"
 msgid "Synchronous"
-msgstr ""
+msgstr "同步"
 
 msgctxt "#30161"
 msgid "Asynchronous"
-msgstr ""
+msgstr "异步"
 
 msgctxt "#30162"
 msgid "Pre-Cache"
-msgstr ""
+msgstr "预缓存"
 
 msgctxt "#30163"
 msgid "Values higher than '2x (Native)' can greatly reduce in-game loading times, but may introduce timing errors. Some games may not function properly above a certain value."
@@ -615,7 +615,7 @@ msgstr ""
 
 msgctxt "#30164"
 msgid "2x (Native)"
-msgstr ""
+msgstr "2x（原生）"
 
 msgctxt "#30165"
 msgid "6x"
@@ -635,7 +635,7 @@ msgstr ""
 
 msgctxt "#30169"
 msgid "Skip the PlayStation BIOS boot animation normally displayed when loading content. Note: Enabling this causes compatibility issues with a number of games (PAL copy protected games, Saga Frontier, etc.)."
-msgstr ""
+msgstr "跳过加载内容时通常显示的 PlayStation BIOS 启动动画。注意：启用此选项会导致与一些游戏（如 PAL 版复制保护游戏、Saga Frontier 等）出现兼容性问题。"
 
 msgctxt "#30170"
 msgid "Override the standard region specific BIOS with a region-free one if found. Restart required."
@@ -659,7 +659,7 @@ msgstr ""
 
 msgctxt "#30175"
 msgid "Auto"
-msgstr ""
+msgstr "自动"
 
 msgctxt "#30176"
 msgid "NTSC-J (Japan)"
@@ -675,11 +675,11 @@ msgstr ""
 
 msgctxt "#30179"
 msgid "Video"
-msgstr ""
+msgstr "视频"
 
 msgctxt "#30180"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
-msgstr ""
+msgstr "更改长宽比、显示裁剪、视频过滤和帧跳过设置。"
 
 msgctxt "#30181"
 msgid "Resolutions higher than '1x (Native)' improve fidelity of 3D models at the expense of increased performance requirements. 2D elements are generally unaffected by this setting."
@@ -691,19 +691,19 @@ msgstr ""
 
 msgctxt "#30183"
 msgid "Hardware (Auto)"
-msgstr ""
+msgstr "硬件（自动）"
 
 msgctxt "#30184"
 msgid "Hardware (OpenGL)"
-msgstr ""
+msgstr "硬件（OpenGL）"
 
 msgctxt "#30185"
 msgid "Software"
-msgstr ""
+msgstr "软件"
 
 msgctxt "#30186"
 msgid "Enable accurate emulation of framebuffer effects (e.g. motion blur, FF7 battle swirl) when using hardware renderers by running a copy of the software renderer at native resolution in the background. If disabled, these operations are omitted (OpenGL) or rendered on the GPU (Vulkan). Disabling can improve performance but may cause severe graphical errors. Leave enabled if unsure."
-msgstr ""
+msgstr "当使用硬件渲染器时，通过在后台以原生分辨率运行一份软件渲染器副本，来实现对帧缓冲区效果（例如运动模糊、FF7 战斗漩涡）的精确模拟。如果禁用，这些操作会被省略（OpenGL）或在 GPU 上渲染（Vulkan）。禁用可以提升性能，但可能导致严重的图形错误。如果不确定，请保持启用状态。"
 
 msgctxt "#30187"
 msgid "Color Format"
@@ -891,7 +891,7 @@ msgstr ""
 
 msgctxt "#30233"
 msgid "16 bpp (Native)"
-msgstr ""
+msgstr "16 bpp（原生）"
 
 msgctxt "#30234"
 msgid "32 bpp"
@@ -903,7 +903,7 @@ msgstr ""
 
 msgctxt "#30236"
 msgid "Internal Resolution"
-msgstr ""
+msgstr "内部分辨率"
 
 msgctxt "#30237"
 msgid "'Nearest' emulates original hardware. 'Bilinear' and '3-Point' are smoothing filters, which reduce pixelation via blurring. 'SABR', 'xBR', and 'JINC2' are upscaling filters that may improve texture fidelity/sharpness at the expense of increased performance requirements. Only supported by the hardware renderers."
@@ -911,15 +911,15 @@ msgstr ""
 
 msgctxt "#30238"
 msgid "Nearest"
-msgstr ""
+msgstr "最近邻"
 
 msgctxt "#30239"
 msgid "Bilinear"
-msgstr ""
+msgstr "双线性"
 
 msgctxt "#30240"
 msgid "3-Point"
-msgstr ""
+msgstr "三线性"
 
 msgctxt "#30241"
 msgid "SABR"
@@ -947,7 +947,7 @@ msgstr ""
 
 msgctxt "#30247"
 msgid "Force Interlaced Rate"
-msgstr ""
+msgstr "强制隔行速率"
 
 msgctxt "#30248"
 msgid "'Weave' shows both fields on the same frame for full high resolution still image, 'Bob' sacrificies resolution clarity for motion clarity. 'Bob (Offset)' is Bob with the current field doubled into the full surface height with a one-line offset between fields, preserving the libretro output resolution while keeping Bob-style smooth motion. 'FastMAD (Motion Adaptive)' weaves still pixels and vertically-interpolates moving pixels per-pixel, full output height with neither weave's comb on motion nor bob's halved resolution. 'Off' makes the software renderer match the hardware (Vulkan/OpenGL) renderer behaviour by rasterising to all VRAM lines every frame and deferring scanout to the end of the frame, eliminating comb-on-motion in interlaced games. Note: programs that DMA to VRAM during scanout (some demos using >512-line PAL framebuffer-wrap tricks), or that update moving sprites via CPU-to-VRAM image transfers tied to the displayed field (e.g. Pro Pinball), may show stale rows or sprite ghosting under 'Off'; use 'Weave', 'Bob', 'Bob (Offset)', or 'FastMAD' for those."
@@ -955,7 +955,7 @@ msgstr ""
 
 msgctxt "#30249"
 msgid "Weave"
-msgstr ""
+msgstr "交织"
 
 msgctxt "#30250"
 msgid "Bob"
@@ -983,19 +983,19 @@ msgstr ""
 
 msgctxt "#30256"
 msgid "Corrected"
-msgstr ""
+msgstr "已校正"
 
 msgctxt "#30257"
 msgid "Uncorrected"
-msgstr ""
+msgstr "未校正"
 
 msgctxt "#30258"
 msgid "Force 4:3"
-msgstr ""
+msgstr "强制 4:3"
 
 msgctxt "#30259"
 msgid "Force NTSC"
-msgstr ""
+msgstr "强制 NTSC"
 
 msgctxt "#30260"
 msgid "Force 16:9"
@@ -1011,7 +1011,7 @@ msgstr ""
 
 msgctxt "#30263"
 msgid "Horizontal"
-msgstr ""
+msgstr "水平"
 
 msgctxt "#30264"
 msgid "Horizontal + Vertical"
@@ -1703,7 +1703,7 @@ msgstr ""
 
 msgctxt "#30436"
 msgid "239 (Default)"
-msgstr ""
+msgstr "239（默认）"
 
 msgctxt "#30437"
 msgid "210"
@@ -1831,7 +1831,7 @@ msgstr ""
 
 msgctxt "#30468"
 msgid "287 (Default)"
-msgstr ""
+msgstr "287（默认）"
 
 msgctxt "#30469"
 msgid "239"
@@ -2027,11 +2027,11 @@ msgstr ""
 
 msgctxt "#30517"
 msgid "PGXP (Precision Geometry Transform Pipeline)"
-msgstr ""
+msgstr "PGXP（精确几何变换管线）"
 
 msgctxt "#30518"
 msgid "These options control enhancements which can improve graphics compared to the original console. PGXP can get rid of warping textures and Z-fighting issues."
-msgstr ""
+msgstr "这些选项控制可提升图形效果的增强功能（相比原版主机）。PGXP 可以消除纹理扭曲和 Z-冲突问题。"
 
 msgctxt "#30519"
 msgid "Render 3D objects with subpixel precision, minimizing distortion and jitter of 3D objects seen on original hardware due to the usage of fixed point vertex coordinates. 'Memory Only' mode has minimal compatibility issues and is recommended for general use. 'Memory + CPU (Buggy)' mode can reduce jitter even further but has high performance requirements and may cause various geometry errors."
@@ -2039,15 +2039,15 @@ msgstr ""
 
 msgctxt "#30520"
 msgid "Memory Only"
-msgstr ""
+msgstr "仅内存"
 
 msgctxt "#30521"
 msgid "Memory + CPU (Buggy)"
-msgstr ""
+msgstr "内存 + CPU（有缺陷）"
 
 msgctxt "#30522"
 msgid "Hide more glaring errors in PGXP operations: the value specifies the tolerance in which PGXP values will be kept in case of geometries without proper depth information."
-msgstr ""
+msgstr "隐藏 PGXP 操作中更明显的错误：该值指定了在没有正确深度信息的情况下，PGXP 值将保留的容差。"
 
 msgctxt "#30523"
 msgid "0px"
@@ -2055,11 +2055,11 @@ msgstr ""
 
 msgctxt "#30524"
 msgid "Use PGXP's NCLIP implementation. Improves appearance by reducing holes in geometries with PGXP coordinates. Known to cause some games to lock up in various circumstances."
-msgstr ""
+msgstr "使用 PGXP 的 NCLIP 实现。通过减少带有 PGXP 坐标的几何体中的孔洞来改善外观。已知在某些情况下会导致一些游戏卡死。"
 
 msgctxt "#30525"
 msgid "Cache PGXP-enhanced vertex positions for re-use across polygon draws. Can potentially improve object alignment and reduce visible seams when rendering textures, but false positives when querying the cache may produce graphical glitches. It is currently recommended to leave this option disabled. This option is applied only when PGXP Operation Mode is enabled. Only supported by the hardware renderers."
-msgstr ""
+msgstr "缓存 PGXP 增强的顶点位置，以便在多边形绘制中重复使用。在渲染纹理时可能改善物体对齐并减少可见接缝，但在查询缓存时可能产生误报导致图形故障。目前建议保持此选项禁用。仅由硬件渲染器支持。"
 
 msgctxt "#30526"
 msgid "Replace native PSX affine texture mapping with perspective correct texture mapping. Eliminates position-dependent distortion and warping of textures, resulting in properly aligned textures. This option is applied only when PGXP Operation Mode is enabled. Supported by the hardware renderers and the software renderer."
@@ -2067,31 +2067,31 @@ msgstr ""
 
 msgctxt "#30527"
 msgid "On-Screen Display"
-msgstr ""
+msgstr "屏幕显示"
 
 msgctxt "#30528"
 msgid "Change notifications being shown on-screen."
-msgstr ""
+msgstr "更改屏幕上显示的通知。"
 
 msgctxt "#30529"
 msgid "Display the internal frame rate at which the emulated PlayStation system is rendering content. Note: Requires onscreen notifications to be enabled in the libretro frontend."
-msgstr ""
+msgstr "显示模拟的 PlayStation 系统渲染内容时的内部帧率。注意：需要在 libretro 前端中启用屏幕通知。"
 
 msgctxt "#30530"
 msgid "Display OSD messages generated by the core."
-msgstr ""
+msgstr "显示由核心生成的 OSD 消息。"
 
 msgctxt "#30531"
 msgid "Visualize the entire emulated console's VRAM. Only supported by the OpenGL and Vulkan hardware renderers. Note: This is for debugging purposes, and should normally be disabled."
-msgstr ""
+msgstr "可视化整个模拟主机的 VRAM。仅由 OpenGL 和 Vulkan 硬件渲染器支持。注意：此功能用于调试目的，通常应禁用。"
 
 msgctxt "#30532"
 msgid "Input"
-msgstr ""
+msgstr "输入"
 
 msgctxt "#30533"
 msgid "Change light gun, mouse and neGcon settings."
-msgstr ""
+msgstr "更改光枪、鼠标和 neGcon 设置。"
 
 msgctxt "#30534"
 msgid "Enable dynamic calibration of analog inputs when the device is set to DualShock, Analog Controller, Analog Joystick, or neGcon. Maximum registered input values are monitored in real time and used to scale analog coordinates passed to the emulator. This should be used for games such as Mega Man Legends 2 that expect larger values than what modern controllers provide. For best results, analog sticks should be rotated at full extent to tune the calibration algorithm each time content is loaded."
@@ -2099,11 +2099,11 @@ msgstr ""
 
 msgctxt "#30535"
 msgid "When the input device type is DualShock, this option allows the emulated DualShock to be toggled between DIGITAL and ANALOG mode like original hardware. Mode can also be toggled by using the selected button combination."
-msgstr ""
+msgstr "当输入设备类型为 DualShock 时，此选项允许模拟的 DualShock 在 DIGITAL 和 ANALOG 模式之间切换，如同原始硬件一样。模式也可以通过选择的按钮组合进行切换。"
 
 msgctxt "#30536"
 msgid "Default-Analog"
-msgstr ""
+msgstr "默认模拟"
 
 msgctxt "#30537"
 msgid "The button combination that will be used to toggle between DIGITAL and ANALOG mode for the emulated DualShock."
@@ -2111,15 +2111,15 @@ msgstr ""
 
 msgctxt "#30538"
 msgid "L1 + L2 + R1 + R2 + Start + Select"
-msgstr ""
+msgstr "L1 + L2 + R1 + R2 + 开始键 + 选择键"
 
 msgctxt "#30539"
 msgid "L1 + R1 + Select"
-msgstr ""
+msgstr "L1 + R1 + 选择键"
 
 msgctxt "#30540"
 msgid "L1 + R1 + Start"
-msgstr ""
+msgstr "L1 + R1 + 开始键"
 
 msgctxt "#30541"
 msgid "L1 + R1 + L3"
@@ -2131,11 +2131,11 @@ msgstr ""
 
 msgctxt "#30543"
 msgid "L2 + R2 + Select"
-msgstr ""
+msgstr "L2 + R2 + 选择键"
 
 msgctxt "#30544"
 msgid "L2 + R2 + Start"
-msgstr ""
+msgstr "L2 + R2 + 开始键"
 
 msgctxt "#30545"
 msgid "L2 + R2 + L3"
@@ -2155,35 +2155,35 @@ msgstr ""
 
 msgctxt "#30549"
 msgid "0 Second Delay"
-msgstr ""
+msgstr "0 秒延迟"
 
 msgctxt "#30550"
 msgid "1 Second Delay"
-msgstr ""
+msgstr "1 秒延迟"
 
 msgctxt "#30551"
 msgid "2 Second Delay"
-msgstr ""
+msgstr "2 秒延迟"
 
 msgctxt "#30552"
 msgid "3 Second Delay"
-msgstr ""
+msgstr "3 秒延迟"
 
 msgctxt "#30553"
 msgid "4 Second Delay"
-msgstr ""
+msgstr "4 秒延迟"
 
 msgctxt "#30554"
 msgid "5 Second Delay"
-msgstr ""
+msgstr "5 秒延迟"
 
 msgctxt "#30555"
 msgid "Enable multitap functionality on port 1."
-msgstr ""
+msgstr "启用端口 1 的多击功能。"
 
 msgctxt "#30556"
 msgid "Enable multitap functionality on port 2."
-msgstr ""
+msgstr "启用端口 1 的多击功能。"
 
 msgctxt "#30557"
 msgid "Use mouse-controlled 'Light Gun' or 'Touchscreen' input when device type is set to 'Guncon/G-Con 45' or 'Justifier'."
@@ -2191,11 +2191,11 @@ msgstr ""
 
 msgctxt "#30558"
 msgid "Light Gun"
-msgstr ""
+msgstr "光枪"
 
 msgctxt "#30559"
 msgid "Touchscreen"
-msgstr ""
+msgstr "触摸屏"
 
 msgctxt "#30560"
 msgid "Draw a cursor on screen while using the 'Guncon/G-Con 45' and 'Justifier' input device types."
@@ -2207,11 +2207,11 @@ msgstr ""
 
 msgctxt "#30562"
 msgid "Cross"
-msgstr ""
+msgstr "十字准星"
 
 msgctxt "#30563"
 msgid "Dot"
-msgstr ""
+msgstr "点"
 
 msgctxt "#30564"
 msgid "Light gun crosshair color for port 1."
@@ -2219,43 +2219,43 @@ msgstr ""
 
 msgctxt "#30565"
 msgid "Red"
-msgstr ""
+msgstr "红色"
 
 msgctxt "#30566"
 msgid "Blue"
-msgstr ""
+msgstr "蓝色"
 
 msgctxt "#30567"
 msgid "Green"
-msgstr ""
+msgstr "绿色"
 
 msgctxt "#30568"
 msgid "Orange"
-msgstr ""
+msgstr "橙色"
 
 msgctxt "#30569"
 msgid "Yellow"
-msgstr ""
+msgstr "黄色"
 
 msgctxt "#30570"
 msgid "Cyan"
-msgstr ""
+msgstr "青色"
 
 msgctxt "#30571"
 msgid "Pink"
-msgstr ""
+msgstr "粉"
 
 msgctxt "#30572"
 msgid "Purple"
-msgstr ""
+msgstr "紫色"
 
 msgctxt "#30573"
 msgid "Black"
-msgstr ""
+msgstr "黑色"
 
 msgctxt "#30574"
 msgid "White"
-msgstr ""
+msgstr "白色"
 
 msgctxt "#30575"
 msgid "Light gun crosshair color for port 2."
@@ -2271,15 +2271,15 @@ msgstr ""
 
 msgctxt "#30578"
 msgid "Linear"
-msgstr ""
+msgstr "线性"
 
 msgctxt "#30579"
 msgid "Quadratic"
-msgstr ""
+msgstr "二次方"
 
 msgctxt "#30580"
 msgid "Cubic"
-msgstr ""
+msgstr "三次方"
 
 msgctxt "#30581"
 msgid "Left analog stick deadzone when simulating the 'twist' action of emulated 'neGcon' input devices. Used to eliminate controller drift. Note: Most neGcon-compatible titles provide in-game options for setting a 'twist' deadzone value. To avoid loss of precision, the in-game deadzone should *always* be set to zero. Any required adjustments should *only* be applied via this core option. This is particularly important when 'neGcon Twist Response' is set to 'Quadratic' or 'Cubic'."
@@ -2287,7 +2287,7 @@ msgstr ""
 
 msgctxt "#30582"
 msgid "Memory Card"
-msgstr ""
+msgstr "记忆卡"
 
 msgctxt "#30583"
 msgid "Change virtual memory card related settings."
@@ -2419,7 +2419,7 @@ msgstr ""
 
 msgctxt "#30615"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "模拟破解"
 
 msgctxt "#30616"
 msgid "Change emulation accuracy settings affecting low-level performance and compatibility."
@@ -2431,15 +2431,15 @@ msgstr ""
 
 msgctxt "#30618"
 msgid "Default"
-msgstr ""
+msgstr "默认"
 
 msgctxt "#30619"
 msgid "Aggressive"
-msgstr ""
+msgstr "激进"
 
 msgctxt "#30620"
 msgid "Render 3D content anamorphically and output the emulated framebuffer at a widescreen aspect ratio. Produces best results with fully 3D games. 2D elements will be horizontally stretched and may be misaligned."
-msgstr ""
+msgstr "以变形方式渲染 3D 内容，并以宽屏宽高比输出模拟的帧缓冲区。在纯 3D 游戏上效果最佳。2D 元素将被水平拉伸，可能导致错位。"
 
 msgctxt "#30621"
 msgid "Aspect ratio to be used by the Widescreen Mode Hack."
@@ -2455,31 +2455,31 @@ msgstr ""
 
 msgctxt "#30624"
 msgid "Dynamically recompile CPU instructions to native instructions. Much faster than interpreter, but CPU timing is less accurate, and may have bugs."
-msgstr ""
+msgstr "将 CPU 指令动态重新编译为原生指令。比解释器快得多，但 CPU 计时不够精确，且可能存在 Bug。"
 
 msgctxt "#30625"
 msgid "Disabled (Beetle Interpreter)"
-msgstr ""
+msgstr "已禁用（Beetle 解释器）"
 
 msgctxt "#30626"
 msgid "Max Performance"
-msgstr ""
+msgstr "最大性能"
 
 msgctxt "#30627"
 msgid "Lightrec Interpreter"
-msgstr ""
+msgstr "轻量级解释器"
 
 msgctxt "#30628"
 msgid "Some games require 'Full' invalidation, some require 'DMA Only'."
-msgstr ""
+msgstr "某些游戏需要“完整”失效，有些则需要“仅 DMA”。"
 
 msgctxt "#30629"
 msgid "Full"
-msgstr ""
+msgstr "全双工"
 
 msgctxt "#30630"
 msgid "DMA Only (Slightly Faster)"
-msgstr ""
+msgstr "仅 DMA（稍快）"
 
 msgctxt "#30631"
 msgid "Dynarec Cycles Per Instruction"
@@ -2499,11 +2499,11 @@ msgstr ""
 
 msgctxt "#30635"
 msgid "Max cycles run by CPU before a GPU/DMA/MDEC/Timer Update is checked, higher number will be faster, has much less impact on beetle interpreter than dynarec."
-msgstr ""
+msgstr "CPU 在检查 GPU/DMA/MDEC/定时器更新前运行的最大周期数。数值越高速度越快，但对 beetle 解释器的影响远小于 dynarec。"
 
 msgctxt "#30636"
 msgid "128 (Default)"
-msgstr ""
+msgstr "128（默认）"
 
 msgctxt "#30637"
 msgid "384"
@@ -2563,7 +2563,7 @@ msgstr ""
 
 msgctxt "#30651"
 msgid "Max SPU samples to run before a SPU Update is checked, higher number will be faster, but will cause sound glitches in some games with anything other than 1."
-msgstr ""
+msgstr "SPU 更新前运行的最大采样数。数值越高速度越快，但在除 1 以外的游戏上会导致声音故障。"
 
 msgctxt "#30652"
 msgid "Dynarec SP GP Hit RAM Optimization"
@@ -2571,6 +2571,22 @@ msgstr ""
 
 msgctxt "#30653"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"
+msgstr ""
+
+msgctxt "#30654"
+msgid "Compatibility Settings"
+msgstr ""
+
+msgctxt "#30655"
+msgid "Apply compatibility settings per game and per setting. Disable to allow user-selected settings to override them."
+msgstr ""
+
+msgctxt "#30656"
+msgid "Enabled (Recommended)"
+msgstr ""
+
+msgctxt "#30657"
+msgid "Disabled (Allow Overrides)"
 msgstr ""
 
 #~ msgctxt "#30005"
@@ -2642,16 +2658,16 @@ msgstr ""
 #~ msgstr "启用 DualShock 模拟模式切换"
 
 #~ msgctxt "#30002"
+#~ msgid "Internal Color Depth"
+#~ msgstr "内部颜色深度"
+
+#~ msgctxt "#30003"
 #~ msgid "Dithering Pattern"
 #~ msgstr "抖动模式"
 
-#~ msgctxt "#30003"
-#~ msgid "Frame Duping (Speedup)"
-#~ msgstr "帧复制（加速）"
-
 #~ msgctxt "#30004"
-#~ msgid "Display Internal FPS"
-#~ msgstr "显示内部 FPS"
+#~ msgid "Texture Filtering"
+#~ msgstr "纹理过滤"
 
 #~ msgctxt "#30005"
 #~ msgid "Analog Self-Calibration"
@@ -2818,24 +2834,24 @@ msgstr ""
 #~ msgstr "最末扫描线 - PAL"
 
 #~ msgctxt "#30048"
-#~ msgid "CD Access Method (Restart Required)"
-#~ msgstr "CD 访问方法（需要重新启动）"
+#~ msgid "Additional Cropping"
+#~ msgstr "额外裁剪"
 
 #~ msgctxt "#30049"
-#~ msgid "CD Loading Speed"
-#~ msgstr "CD 读取速度"
+#~ msgid "Offset Cropped Image"
+#~ msgstr "偏移裁剪图像"
 
 #~ msgctxt "#30007"
-#~ msgid "Port 1: Multitap Enable"
-#~ msgstr "端口1：多插启用"
+#~ msgid "Display Internal FPS"
+#~ msgstr "显示内部 FPS"
 
 #~ msgctxt "#30008"
-#~ msgid "Port 2: Multitap Enable"
-#~ msgstr "端口2：多插启用"
+#~ msgid "Display Full VRAM (Debug)"
+#~ msgstr "显示完整 VRAM（调试）"
 
 #~ msgctxt "#30009"
-#~ msgid "Gun Input Mode"
-#~ msgstr "枪输入模式"
+#~ msgid "Analog Self-Calibration"
+#~ msgstr "模拟摇杆自动校准"
 
 #~ msgctxt "#30010"
 #~ msgid "Gun Cursor"
@@ -2986,8 +3002,8 @@ msgstr ""
 #~ msgstr "CD 访问方法（需要重新启动）"
 
 #~ msgctxt "#30047"
-#~ msgid "CD Loading Speed"
-#~ msgstr "CD 读取速度"
+#~ msgid "Crop Overscan"
+#~ msgstr "裁剪过扫描"
 
 #~ msgctxt "#30033"
 #~ msgid "Dynarec DMA/GPU Event Cycles"
@@ -3038,20 +3054,20 @@ msgstr ""
 #~ msgstr "最末扫描线 - PAL"
 
 #~ msgctxt "#30045"
-#~ msgid "CD Access Method (Restart Required)"
-#~ msgstr "CD 访问方法（需要重新启动）"
+#~ msgid "Core-Reported FPS Timing"
+#~ msgstr "核心报告的 FPS 计时"
 
 #~ msgctxt "#30046"
 #~ msgid "CD Loading Speed"
 #~ msgstr "CD 读取速度"
 
 #~ msgctxt "#30011"
-#~ msgid "Mouse Sensitivity"
-#~ msgstr "鼠标灵敏度"
+#~ msgid "DualShock Analog Mode Combo"
+#~ msgstr "DualShock 模拟模式切换组合键"
 
 #~ msgctxt "#30012"
-#~ msgid "NegCon Twist Response"
-#~ msgstr "NegCon Twist 响应"
+#~ msgid "DualShock Analog Mode Combo Hold Delay"
+#~ msgstr "DualShock 模拟模式组合按键保持时长"
 
 #~ msgctxt "#30013"
 #~ msgid "NegCon Twist Deadzone"
@@ -3062,12 +3078,12 @@ msgstr ""
 #~ msgstr "存储卡0方法（重新启动）"
 
 #~ msgctxt "#30015"
-#~ msgid "Enable Memory Card 1 (Restart)"
-#~ msgstr "启用存储卡1（重新启动）"
+#~ msgid "Gun Input Mode"
+#~ msgstr "光枪输入模式"
 
 #~ msgctxt "#30016"
-#~ msgid "Shared Memory Cards (Restart)"
-#~ msgstr "共享存储卡（重新启动）"
+#~ msgid "Gun Cursor"
+#~ msgstr "光枪准星"
 
 #~ msgctxt "#30017"
 #~ msgid "Memory Card Left Index"
@@ -3078,16 +3094,16 @@ msgstr ""
 #~ msgstr "存储卡右索引"
 
 #~ msgctxt "#30019"
-#~ msgid "PGXP Operation Mode"
-#~ msgstr "PGXP 操作模式"
+#~ msgid "Mouse Sensitivity"
+#~ msgstr "鼠标灵敏度"
 
 #~ msgctxt "#30020"
-#~ msgid "PGXP 2D Geometry Tolerance"
-#~ msgstr "PGXP 二维几何公差"
+#~ msgid "neGcon Twist Response"
+#~ msgstr "neGcon 扭转响应"
 
 #~ msgctxt "#30021"
-#~ msgid "PGXP Primitive Culling"
-#~ msgstr "PGXP 原始剔除"
+#~ msgid "neGcon Twist Deadzone"
+#~ msgstr "neGcon 扭转死区"
 
 #~ msgctxt "#30022"
 #~ msgid "Line-to-Quad Hack"
@@ -3110,48 +3126,48 @@ msgstr ""
 #~ msgstr "GTE 超频"
 
 #~ msgctxt "#30027"
-#~ msgid "Skip BIOS"
-#~ msgstr "跳过 BIOS"
+#~ msgid "PGXP Operation Mode"
+#~ msgstr "PGXP 运行模式"
 
 #~ msgctxt "#30028"
-#~ msgid "Override BIOS (Restart)"
-#~ msgstr "覆盖 BIOS（重新启动）"
+#~ msgid "PGXP 2D Geometry Tolerance"
+#~ msgstr "PGXP 2D 几何容差"
 
 #~ msgctxt "#30029"
-#~ msgid "CPU Dynarec"
-#~ msgstr "CPU 动态记录"
+#~ msgid "PGXP Primitive Culling"
+#~ msgstr "PGXP 图元剔除"
 
 #~ msgctxt "#30030"
-#~ msgid "Dynarec Code Invalidation"
-#~ msgstr "动态记录代码失效"
+#~ msgid "PGXP Vertex Cache"
+#~ msgstr "PGXP 顶点缓存"
 
 #~ msgctxt "#30031"
-#~ msgid "Dynarec DMA/GPU Event Cycles"
-#~ msgstr "动态记录 DMA/GPU 事件周期"
+#~ msgid "PGXP Perspective Correct Texturing"
+#~ msgstr "PGXP 透视校正纹理映射"
 
 #~ msgctxt "#30032"
-#~ msgid "Core-Reported FPS Timing"
-#~ msgstr "内核报告 FPS 定时"
+#~ msgid "Line-to-Quad Hack"
+#~ msgstr "线转四边形破解"
 
 #~ msgctxt "#30033"
-#~ msgid "PAL (European) Video Timing Override"
-#~ msgstr "PAL（欧洲）视频定时覆盖"
+#~ msgid "Widescreen Mode Hack"
+#~ msgstr "宽屏模式增强"
 
 #~ msgctxt "#30034"
-#~ msgid "Crop Overscan"
-#~ msgstr "剪裁过扫描"
+#~ msgid "Widescreen Mode Hack Aspect Ratio"
+#~ msgstr "宽屏模式破解宽高比"
 
 #~ msgctxt "#30035"
-#~ msgid "Additional Cropping"
-#~ msgstr "附加剪裁"
+#~ msgid "CPU Frequency Scaling (Overclock)"
+#~ msgstr "CPU 频率缩放（超频）"
 
 #~ msgctxt "#30036"
-#~ msgid "Offset Cropped Image"
-#~ msgstr "偏移裁剪图像"
+#~ msgid "GTE Overclock"
+#~ msgstr "GTE 超频"
 
 #~ msgctxt "#30037"
-#~ msgid "GPU Rasterizer Overclock"
-#~ msgstr "GPU 光栅化超频"
+#~ msgid "Skip BIOS"
+#~ msgstr "跳过 BIOS"
 
 #~ msgctxt "#30038"
 #~ msgid "Core Aspect Ratio"
@@ -3162,21 +3178,21 @@ msgstr ""
 #~ msgstr "初始扫描线 - NTSC"
 
 #~ msgctxt "#30040"
-#~ msgid "Last Scanline - NTSC"
-#~ msgstr "最末扫描线 - NTSC"
+#~ msgid "Software Framebuffer"
+#~ msgstr "软件帧缓冲区"
 
 #~ msgctxt "#30041"
-#~ msgid "Initial Scanline - PAL"
+#~ msgid "CPU Dynarec"
 #~ msgstr "初始扫描线 - PAL"
 
 #~ msgctxt "#30042"
-#~ msgid "Last Scanline - PAL"
-#~ msgstr "最末扫描线 - PAL"
+#~ msgid "Dynarec Code Invalidation"
+#~ msgstr "Dynarec 代码失效模式"
 
 #~ msgctxt "#30043"
-#~ msgid "CD Access Method (Restart)"
-#~ msgstr "CD 访问方法（重新启动）"
+#~ msgid "Dynarec DMA/GPU/MDEC/Timer Event Cycles"
+#~ msgstr "Dynarec DMA/GPU/MDEC/定时器事件周期"
 
 #~ msgctxt "#30044"
-#~ msgid "CD Loading Speed"
-#~ msgstr "CD 读取速度"
+#~ msgid "Dynarec SPU Samples"
+#~ msgstr "Dynarec SPU 采样数"
