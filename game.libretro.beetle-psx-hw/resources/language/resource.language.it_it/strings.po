@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.beetle-psx\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-08-24 22:21i\n"
-"PO-Revision-Date: 2026-08-29 21:16+0000\n"
+"PO-Revision-Date: 2026-10-24 05:17+0000\n"
 "Last-Translator: Automatic translation add-on <noreply-addon-autotranslate@weblate.org>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-beetle-psx-hw/it_it/>\n"
 "Language: it_it\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.8.1\n"
+"X-Generator: Weblate 2026.10.1\n"
 
 msgctxt "Addon Summary"
 msgid "Sony - PlayStation (Beetle PSX HW)"
@@ -283,103 +283,103 @@ msgstr "100% (Nativo)"
 
 msgctxt "#30081"
 msgid "50%"
-msgstr ""
+msgstr "50%"
 
 msgctxt "#30082"
 msgid "60%"
-msgstr ""
+msgstr "60%"
 
 msgctxt "#30083"
 msgid "70%"
-msgstr ""
+msgstr "70%"
 
 msgctxt "#30084"
 msgid "80%"
-msgstr ""
+msgstr "80%"
 
 msgctxt "#30085"
 msgid "90%"
-msgstr ""
+msgstr "90%"
 
 msgctxt "#30086"
 msgid "110%"
-msgstr ""
+msgstr "110%"
 
 msgctxt "#30087"
 msgid "120%"
-msgstr ""
+msgstr "120%"
 
 msgctxt "#30088"
 msgid "130%"
-msgstr ""
+msgstr "130%"
 
 msgctxt "#30089"
 msgid "140%"
-msgstr ""
+msgstr "140%"
 
 msgctxt "#30090"
 msgid "150%"
-msgstr ""
+msgstr "150%"
 
 msgctxt "#30091"
 msgid "160%"
-msgstr ""
+msgstr "160%"
 
 msgctxt "#30092"
 msgid "170%"
-msgstr ""
+msgstr "170%"
 
 msgctxt "#30093"
 msgid "180%"
-msgstr ""
+msgstr "180%"
 
 msgctxt "#30094"
 msgid "190%"
-msgstr ""
+msgstr "190%"
 
 msgctxt "#30095"
 msgid "200%"
-msgstr ""
+msgstr "200%"
 
 msgctxt "#30096"
 msgid "210%"
-msgstr ""
+msgstr "210%"
 
 msgctxt "#30097"
 msgid "220%"
-msgstr ""
+msgstr "220%"
 
 msgctxt "#30098"
 msgid "230%"
-msgstr ""
+msgstr "230%"
 
 msgctxt "#30099"
 msgid "240%"
-msgstr ""
+msgstr "240%"
 
 msgctxt "#30100"
 msgid "250%"
-msgstr ""
+msgstr "250%"
 
 msgctxt "#30101"
 msgid "260%"
-msgstr ""
+msgstr "260%"
 
 msgctxt "#30102"
 msgid "270%"
-msgstr ""
+msgstr "270%"
 
 msgctxt "#30103"
 msgid "280%"
-msgstr ""
+msgstr "280%"
 
 msgctxt "#30104"
 msgid "290%"
-msgstr ""
+msgstr "290%"
 
 msgctxt "#30105"
 msgid "300%"
-msgstr ""
+msgstr "300%"
 
 msgctxt "#30106"
 msgid "310%"
@@ -419,7 +419,7 @@ msgstr ""
 
 msgctxt "#30115"
 msgid "400%"
-msgstr ""
+msgstr "400%"
 
 msgctxt "#30116"
 msgid "410%"
@@ -459,7 +459,7 @@ msgstr ""
 
 msgctxt "#30125"
 msgid "500%"
-msgstr ""
+msgstr "500%"
 
 msgctxt "#30126"
 msgid "510%"
@@ -539,7 +539,7 @@ msgstr ""
 
 msgctxt "#30145"
 msgid "700%"
-msgstr ""
+msgstr "700%"
 
 msgctxt "#30146"
 msgid "710%"
@@ -571,15 +571,15 @@ msgstr "1x (Nativo)"
 
 msgctxt "#30153"
 msgid "2x"
-msgstr ""
+msgstr "2x"
 
 msgctxt "#30154"
 msgid "4x"
-msgstr ""
+msgstr "4x"
 
 msgctxt "#30155"
 msgid "8x"
-msgstr ""
+msgstr "8x"
 
 msgctxt "#30156"
 msgid "16x"
@@ -659,7 +659,7 @@ msgstr ""
 
 msgctxt "#30175"
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 msgctxt "#30176"
 msgid "NTSC-J (Japan)"
@@ -675,7 +675,7 @@ msgstr ""
 
 msgctxt "#30179"
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgctxt "#30180"
 msgid "Change aspect ratio, display cropping, video filter and frame skipping settings."
@@ -699,7 +699,7 @@ msgstr ""
 
 msgctxt "#30185"
 msgid "Software"
-msgstr ""
+msgstr "Software"
 
 msgctxt "#30186"
 msgid "Enable accurate emulation of framebuffer effects (e.g. motion blur, FF7 battle swirl) when using hardware renderers by running a copy of the software renderer at native resolution in the background. If disabled, these operations are omitted (OpenGL) or rendered on the GPU (Vulkan). Disabling can improve performance but may cause severe graphical errors. Leave enabled if unsure."
@@ -795,7 +795,7 @@ msgstr ""
 
 msgctxt "#30209"
 msgid "Off"
-msgstr ""
+msgstr "Disattivato"
 
 msgctxt "#30210"
 msgid "5 degrees"
@@ -831,15 +831,15 @@ msgstr ""
 
 msgctxt "#30218"
 msgid "S-Video"
-msgstr ""
+msgstr "S-Video"
 
 msgctxt "#30219"
 msgid "Composite"
-msgstr ""
+msgstr "Composito"
 
 msgctxt "#30220"
 msgid "RF"
-msgstr ""
+msgstr "RF"
 
 msgctxt "#30221"
 msgid "Reference Display Gamma"
@@ -903,7 +903,7 @@ msgstr ""
 
 msgctxt "#30236"
 msgid "Internal Resolution"
-msgstr "Risoluzione Interna"
+msgstr "Risoluzione interna"
 
 msgctxt "#30237"
 msgid "'Nearest' emulates original hardware. 'Bilinear' and '3-Point' are smoothing filters, which reduce pixelation via blurring. 'SABR', 'xBR', and 'JINC2' are upscaling filters that may improve texture fidelity/sharpness at the expense of increased performance requirements. Only supported by the hardware renderers."
@@ -987,7 +987,7 @@ msgstr "Corretto"
 
 msgctxt "#30257"
 msgid "Uncorrected"
-msgstr "Non Corretto"
+msgstr "Non corretto"
 
 msgctxt "#30258"
 msgid "Force 4:3"
@@ -1007,7 +1007,7 @@ msgstr ""
 
 msgctxt "#30262"
 msgid "Disabled"
-msgstr ""
+msgstr "Disabilitato"
 
 msgctxt "#30263"
 msgid "Horizontal"
@@ -1015,7 +1015,7 @@ msgstr "Orizzontale"
 
 msgctxt "#30264"
 msgid "Horizontal + Vertical"
-msgstr ""
+msgstr "Orizzontale + Verticale"
 
 msgctxt "#30265"
 msgid "Reduce the width of the cropped image by the specified number of pixels."
@@ -1023,7 +1023,7 @@ msgstr ""
 
 msgctxt "#30266"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 msgctxt "#30267"
 msgid "1px"
@@ -1307,7 +1307,7 @@ msgstr ""
 
 msgctxt "#30337"
 msgid "-16"
-msgstr ""
+msgstr "-16"
 
 msgctxt "#30338"
 msgid "-15"
@@ -1339,7 +1339,7 @@ msgstr ""
 
 msgctxt "#30345"
 msgid "-8"
-msgstr ""
+msgstr "-8"
 
 msgctxt "#30346"
 msgid "-7"
@@ -1355,35 +1355,35 @@ msgstr ""
 
 msgctxt "#30349"
 msgid "-4"
-msgstr ""
+msgstr "-4"
 
 msgctxt "#30350"
 msgid "-3"
-msgstr ""
+msgstr "-3"
 
 msgctxt "#30351"
 msgid "-2"
-msgstr ""
+msgstr "-2"
 
 msgctxt "#30352"
 msgid "-1"
-msgstr ""
+msgstr "-1"
 
 msgctxt "#30353"
 msgid "+1"
-msgstr ""
+msgstr "+1"
 
 msgctxt "#30354"
 msgid "+2"
-msgstr ""
+msgstr "+2"
 
 msgctxt "#30355"
 msgid "+3"
-msgstr ""
+msgstr "+3"
 
 msgctxt "#30356"
 msgid "+4"
-msgstr ""
+msgstr "+4"
 
 msgctxt "#30357"
 msgid "+5"
@@ -1399,7 +1399,7 @@ msgstr ""
 
 msgctxt "#30360"
 msgid "+8"
-msgstr ""
+msgstr "+8"
 
 msgctxt "#30361"
 msgid "+9"
@@ -1431,7 +1431,7 @@ msgstr ""
 
 msgctxt "#30368"
 msgid "+16"
-msgstr ""
+msgstr "+16"
 
 msgctxt "#30369"
 msgid "+17"
@@ -1539,39 +1539,39 @@ msgstr ""
 
 msgctxt "#30395"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 msgctxt "#30396"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 msgctxt "#30397"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 msgctxt "#30398"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 msgctxt "#30399"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 msgctxt "#30400"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 msgctxt "#30401"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 msgctxt "#30402"
 msgid "8"
-msgstr ""
+msgstr "8"
 
 msgctxt "#30403"
 msgid "9"
-msgstr ""
+msgstr "9"
 
 msgctxt "#30404"
 msgid "10"
@@ -1959,7 +1959,7 @@ msgstr ""
 
 msgctxt "#30500"
 msgid "270"
-msgstr ""
+msgstr "270"
 
 msgctxt "#30501"
 msgid "271"
@@ -2047,7 +2047,7 @@ msgstr "Memoria + CPU (Buggy)"
 
 msgctxt "#30522"
 msgid "Hide more glaring errors in PGXP operations: the value specifies the tolerance in which PGXP values will be kept in case of geometries without proper depth information."
-msgstr "Ocultar errores más evidentes en las operaciones de PGXP: el valor especifica la tolerancia en la que se mantendrán los valores de PGXP en caso de geometrías sin la información de profundidad adecuada"
+msgstr "Nascondi gli errori più evidenti nelle operazioni PGXP: il valore specifica la tolleranza entro cui i valori PGXP verranno mantenuti nel caso di geometrie prive di informazioni di profondità adeguate."
 
 msgctxt "#30523"
 msgid "0px"
@@ -2067,7 +2067,7 @@ msgstr ""
 
 msgctxt "#30527"
 msgid "On-Screen Display"
-msgstr "Mostra sullo schermo"
+msgstr "Visualizzazione a schermo"
 
 msgctxt "#30528"
 msgid "Change notifications being shown on-screen."
@@ -2087,7 +2087,7 @@ msgstr "Visualizza l'intero VRAM della console emulata. Supportato solo dai rend
 
 msgctxt "#30532"
 msgid "Input"
-msgstr ""
+msgstr "Input"
 
 msgctxt "#30533"
 msgid "Change light gun, mouse and neGcon settings."
@@ -2191,7 +2191,7 @@ msgstr ""
 
 msgctxt "#30558"
 msgid "Light Gun"
-msgstr "Pistola Ottica"
+msgstr "Pistola ottica"
 
 msgctxt "#30559"
 msgid "Touchscreen"
@@ -2203,7 +2203,7 @@ msgstr ""
 
 msgctxt "#30561"
 msgid "disabled"
-msgstr ""
+msgstr "disabilitato"
 
 msgctxt "#30562"
 msgid "Cross"
@@ -2419,7 +2419,7 @@ msgstr ""
 
 msgctxt "#30615"
 msgid "Emulation Hacks"
-msgstr "Hack di Emulazione"
+msgstr "Trucchi di emulazione"
 
 msgctxt "#30616"
 msgid "Change emulation accuracy settings affecting low-level performance and compatibility."
@@ -2447,7 +2447,7 @@ msgstr ""
 
 msgctxt "#30622"
 msgid "SPU Silent Voice Optimization"
-msgstr ""
+msgstr "Ottimizzazione voce silenziosa SPU"
 
 msgctxt "#30623"
 msgid "Skip the per-sample processing of voices whose envelope has fully released. Audio output is identical; the optimization automatically disables itself while the SPU IRQ is in use. Saves roughly 5-10% of frame time. Disable for fully accurate SPU register state."
@@ -2483,7 +2483,7 @@ msgstr "Solo DMA (Leggermente più Veloce)"
 
 msgctxt "#30631"
 msgid "Dynarec Cycles Per Instruction"
-msgstr ""
+msgstr "Cicli Dynarec secondo istruzioni"
 
 msgctxt "#30632"
 msgid "Cycles the dynarec charges per CPU instruction. '2' is faster, but the emulated CPU appears half-speed to games that pace themselves against it - set '1' for games whose CD streaming stalls or hangs under the dynarec (e.g. Parasite Eve 2). The '1' setting charges memory accesses two cycles and everything else one, close to the real CPU."
@@ -2559,7 +2559,7 @@ msgstr ""
 
 msgctxt "#30650"
 msgid "2048"
-msgstr ""
+msgstr "2048"
 
 msgctxt "#30651"
 msgid "Max SPU samples to run before a SPU Update is checked, higher number will be faster, but will cause sound glitches in some games with anything other than 1."
@@ -2567,7 +2567,7 @@ msgstr "Max campioni SPU da eseguire prima che venga controllato un aggiornament
 
 msgctxt "#30652"
 msgid "Dynarec SP GP Hit RAM Optimization"
-msgstr ""
+msgstr "Ottimizzazione RAM di Dynarec SP GP Hit"
 
 msgctxt "#30653"
 msgid "Enabled will generate faster code, but potentially crash, by assuming sp and gp registers always point to ram, disabled is more widely compatible"
