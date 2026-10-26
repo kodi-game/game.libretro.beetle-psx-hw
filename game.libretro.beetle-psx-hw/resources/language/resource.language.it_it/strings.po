@@ -903,7 +903,7 @@ msgstr ""
 
 msgctxt "#30236"
 msgid "Internal Resolution"
-msgstr "Risoluzione interna"
+msgstr "Risoluzione Interna"
 
 msgctxt "#30237"
 msgid "'Nearest' emulates original hardware. 'Bilinear' and '3-Point' are smoothing filters, which reduce pixelation via blurring. 'SABR', 'xBR', and 'JINC2' are upscaling filters that may improve texture fidelity/sharpness at the expense of increased performance requirements. Only supported by the hardware renderers."
@@ -987,7 +987,7 @@ msgstr "Corretto"
 
 msgctxt "#30257"
 msgid "Uncorrected"
-msgstr "Non corretto"
+msgstr "Non Corretto"
 
 msgctxt "#30258"
 msgid "Force 4:3"
@@ -2047,7 +2047,7 @@ msgstr "Memoria + CPU (Buggy)"
 
 msgctxt "#30522"
 msgid "Hide more glaring errors in PGXP operations: the value specifies the tolerance in which PGXP values will be kept in case of geometries without proper depth information."
-msgstr "Nascondi gli errori più evidenti nelle operazioni PGXP: il valore specifica la tolleranza entro cui i valori PGXP verranno mantenuti nel caso di geometrie prive di informazioni di profondità adeguate."
+msgstr "Ocultar errores más evidentes en las operaciones de PGXP: el valor especifica la tolerancia en la que se mantendrán los valores de PGXP en caso de geometrías sin la información de profundidad adecuada"
 
 msgctxt "#30523"
 msgid "0px"
@@ -2067,7 +2067,7 @@ msgstr ""
 
 msgctxt "#30527"
 msgid "On-Screen Display"
-msgstr "Visualizzazione a schermo"
+msgstr "Mostra sullo schermo"
 
 msgctxt "#30528"
 msgid "Change notifications being shown on-screen."
@@ -2191,7 +2191,7 @@ msgstr ""
 
 msgctxt "#30558"
 msgid "Light Gun"
-msgstr "Pistola ottica"
+msgstr "Pistola Ottica"
 
 msgctxt "#30559"
 msgid "Touchscreen"
@@ -2419,7 +2419,7 @@ msgstr ""
 
 msgctxt "#30615"
 msgid "Emulation Hacks"
-msgstr "Trucchi di emulazione"
+msgstr "Hack di Emulazione"
 
 msgctxt "#30616"
 msgid "Change emulation accuracy settings affecting low-level performance and compatibility."
